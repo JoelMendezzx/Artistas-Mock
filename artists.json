@@ -2,101 +2,79 @@
   {
     "id": 1,
     "nombre": "Marc Anthony",
-    "genero": "Salsa"
+    "genero": "Salsa",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MarcAnthony.jpg"
   },
   {
     "id": 2,
     "nombre": "Daft Punk",
-    "genero": "Electronica"
+    "genero": "Electronica",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/DaftPunk.jpg"
   },
   {
     "id": 3,
     "nombre": "Hector Lavoe",
-    "genero": "Salsa"
+    "genero": "Salsa",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/HectorLavoe.jpg"
   },
   {
     "id": 4,
-    "nombre": "David Guetta",
-    "genero": "Electronica"
+    "nombre": "Avicii",
+    "genero": "Electronica",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Avicii.jpg"
   },
   {
     "id": 5,
-    "nombre": "Grupo Niche",
-    "genero": "Salsa"
+    "nombre": "Celia Cruz",
+    "genero": "Salsa",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CeliaCruz.jpg"
   },
   {
     "id": 6,
-    "nombre": "Avicii",
-    "genero": "Electronica"
+    "nombre": "Joe Arroyo",
+    "genero": "Salsa",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/JoeArroyo.jpg"
   },
   {
     "id": 7,
-    "nombre": "Celia Cruz",
-    "genero": "Salsa"
+    "nombre": "Martin Garrix",
+    "genero": "Electronica",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MartinGarrix.jpg"
   },
   {
     "id": 8,
-    "nombre": "Calvin Harris",
-    "genero": "Electronica"
+    "nombre": "Skrillex",
+    "genero": "Electronica",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Skrillex.jpg"
   },
   {
     "id": 9,
-    "nombre": "Joe Arroyo",
-    "genero": "Salsa"
+    "nombre": "Toto La Momposina",
+    "genero": "Folclor",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/TotoMomposina.jpg"
   },
   {
     "id": 10,
-    "nombre": "Martin Garrix",
-    "genero": "Electronica"
+    "nombre": "Carlos Vives",
+    "genero": "Vallenato",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CarlosVives.jpg"
   },
   {
     "id": 11,
-    "nombre": "Willie Colon",
-    "genero": "Salsa"
+    "nombre": "Datty",
+    "genero": "Merengue",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg"
   },
   {
     "id": 12,
-    "nombre": "Skrillex",
-    "genero": "Electronica"
+    "nombre": "Berenice",
+    "genero": "Guaracha",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg"
   },
   {
     "id": 13,
-    "nombre": "Juan Luis Guerra",
-    "genero": "Merengue"
-  },
-  {
-    "id": 14,
-    "nombre": "Toto La Momposina",
-    "genero": "Folclor"
-  },
-  {
-    "id": 15,
-    "nombre": "Carlos Vives",
-    "genero": "Vallenato"
-  },
-  {
-    "id": 16,
-    "nombre": "Datty",
-    "genero": "Merengue"
-  },
-  {
-    "id": 17,
-    "nombre": "Berenice",
-    "genero": "Guaracha"
-  },
-  {
-    "id": 18,
-    "nombre": "Bad Bunny",
-    "genero": "Reggaeton"
-  },
-  {
-    "id": 19,
-    "nombre": "Feid",
-    "genero": "Reggaeton"
-  },
-  {
-    "id": 20,
     "nombre": "Black Coffee",
-    "genero": "Electronica"
+    "genero": "Salsa",
+    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/BlackCoffe.jpg"
   }
 ]
