@@ -1,93 +1,301 @@
 [
   {
     "id": 1,
-    "nombre": "Pa'lla Voy",
-    "fechaLanzamiento": "2023-01-01",
-    "artistaId": 1,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMarc(Pallavoy).jpg"
+    "titulo": "Pa'lla Voy",
+    "anioLanzamiento": 2023,
+    "generoMusical": "Salsa",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMarc(Pallavoy).jpg",
+    "artista": {
+      "id": 1,
+      "nombre": "Marc Anthony",
+      "generoMusical": "Salsa",
+      "paisOrigen": "Estados Unidos",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MarcAnthony.jpg",
+      "biografia": "Marco Antonio Muñiz, conocido como Marc Anthony, es uno de los salseros más influyentes del mundo. Nacido en Nueva York de padres puertorriqueños, conquistó el mercado latino e internacional con éxitos como 'Vivir Mi Vida' y 'Valió la Pena'."
+    },
+    "canciones": [
+      { "id": 1, "nombreAutor": "Marc Anthony", "titulo": "Pa'lla Voy", "duracion": "4:06", "letra": "Pa'lla voy, con el alma encendida\nBuscando el ritmo de mi vida\nLa salsa me llama, no puedo parar\nMi corazón quiere bailar\nPa'lla voy, sin mirar atrás\nEl sabor me lleva al más allá" },
+      { "id": 2, "nombreAutor": "Marc Anthony", "titulo": "Yo Le Mentí", "duracion": "4:18", "letra": "Yo le mentí cuando dije que no la amaba\nYo le mentí cuando fingí que todo acababa\nEn el silencio de la noche la recuerdo\nY en cada lágrima que cae yo comprendo\nQue el amor que perdí no regresa más" },
+      { "id": 3, "nombreAutor": "Marc Anthony", "titulo": "No Se Quita", "duracion": "3:51", "letra": "Esto no se quita con el tiempo\nEste sabor que llevo en el pecho\nLa salsa es fuego, es vida, es pasión\nY no se quita de mi corazón\nBailando sigo, no me voy a detener" },
+      { "id": 4, "nombreAutor": "Marc Anthony", "titulo": "Nada de Nada", "duracion": "3:39", "letra": "Sin ti no tengo nada de nada\nMi mundo se apagó cuando te fuiste\nNada de nada vale sin tu amor\nSolo queda el eco de tu voz\nVuelve, que sin ti no soy nada" },
+      { "id": 5, "nombreAutor": "Marc Anthony", "titulo": "Mala", "duracion": "3:48", "letra": "Dicen que eres mala, pero a mí me encanta\nCon ese sabor que el barrio levanta\nMala para el mundo, buena para mí\nDesde que te vi no puedo resistir\nEres mala, mala, pero qué rica eres así" },
+      { "id": 6, "nombreAutor": "Marc Anthony", "titulo": "El Que Te Amaba", "duracion": "4:05", "letra": "El que te amaba con el alma entera\nSe fue una tarde de lluvia y quimera\nEse que lloraba en silencio tu nombre\nYa no existe, lo mató el desamor\nEl que te amaba ya no está aquí" }
+    ]
   },
   {
     "id": 2,
-    "nombre": "La Reina Del Merengue",
-    "fechaLanzamiento": "2020-01-01",
-    "artistaId": 11,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg"
+    "titulo": "La Reina Del Merengue",
+    "anioLanzamiento": 2020,
+    "generoMusical": "Merengue",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
+    "artista": {
+      "id": 11,
+      "nombre": "Datty",
+      "generoMusical": "Merengue",
+      "paisOrigen": "República Dominicana",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg",
+      "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica."
+    },
+    "canciones": [
+      { "id": 7, "nombreAutor": "Datty", "titulo": "La Reina Del Merengue", "duracion": "3:34", "letra": "Ella es la reina del merengue\nCuando baila el mundo se detiene\nMueve las caderas con sabor\nEs la reina, dueña del tambor\nQue viva la reina, que viva el merengue" },
+      { "id": 8, "nombreAutor": "Datty", "titulo": "Baila Conmigo Luni", "duracion": "3:18", "letra": "Baila conmigo Luni, no te quedes quieta\nQue la noche es nuestra y la música aprieta\nMueve el pie, mueve la cadera\nBaila conmigo Luni, ven pa' la pista entera\nEsta noche el merengue nos va a unir" },
+      { "id": 9, "nombreAutor": "Datty", "titulo": "El Merengue de Yicel", "duracion": "3:25", "letra": "Yicel tiene su merengue especial\nQue cuando suena no hay quien pueda parar\nEs típico, es sabroso, es tradición\nEl merengue de Yicel llega al corazón\nTodos bailan cuando Yicel se mueve" },
+      { "id": 10, "nombreAutor": "Datty", "titulo": "Acústica", "duracion": "3:07", "letra": "Solo el acordeón y mi voz\nAcústica, sin electricidad\nEl merengue nació en el campo\nCon tambora y güira en libertad\nAcústica, así suena mi pueblo" },
+      { "id": 11, "nombreAutor": "Datty", "titulo": "La Fiesta de Londoño", "duracion": "3:42", "letra": "En casa de Londoño hay fiesta hoy\nTodo el barrio está bailando, allá voy\nLa cerveza fría, el merengue caliente\nLa fiesta de Londoño es pa' la gente\nQue nadie se quede sin bailar esta noche" },
+      { "id": 12, "nombreAutor": "Datty", "titulo": "Monterrey en Carnaval", "duracion": "3:53", "letra": "Monterrey se viste de carnaval\nColores, máscaras y ritmo tropical\nEl merengue urbano toma la ciudad\nMonterrey en carnaval es pura libertad\nQue viva el carnaval, que viva el merengue" }
+    ]
   },
   {
     "id": 3,
-    "nombre": "Discovery",
-    "fechaLanzamiento": "2001-03-12",
-    "artistaId": 2,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDaft(Discovery).jpg"
+    "titulo": "Discovery",
+    "anioLanzamiento": 2001,
+    "generoMusical": "Electronica",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDaft(Discovery).jpg",
+    "artista": {
+      "id": 2,
+      "nombre": "Daft Punk",
+      "generoMusical": "Electronica",
+      "paisOrigen": "Francia",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/DaftPunk.jpg",
+      "biografia": "Dúo francés de música electrónica formado por Thomas Bangalter y Guy-Manuel de Homem-Christo. Revolucionaron la música house con álbumes icónicos como 'Random Access Memories' y 'Discovery', siendo reconocidos por sus cascos robóticos."
+    },
+    "canciones": [
+      { "id": 13, "nombreAutor": "Daft Punk", "titulo": "One More Time", "duracion": "5:20", "letra": "One more time we're gonna celebrate\nOh yeah, alright, don't stop the dancing\nOne more time, feel the music take you higher\nCelebrate and dance so free\nOne more time, tonight is for you and me" },
+      { "id": 14, "nombreAutor": "Daft Punk", "titulo": "Aerodynamic", "duracion": "3:32", "letra": "Superheroes never look behind\nAerodynamic through the night\nElectric sound of the universe\nFlying fast, breaking through the lights\nAerodynamic, cutting through the sky" },
+      { "id": 15, "nombreAutor": "Daft Punk", "titulo": "Digital Love", "duracion": "5:01", "letra": "Last night I had a dream about you\nIn this dream I'm dancing right beside you\nAnd I feel, just like I'm falling for you\nDigital love, so real yet so new\nYour signal reaches deep inside my heart" },
+      { "id": 16, "nombreAutor": "Daft Punk", "titulo": "Harder Better Faster Stronger", "duracion": "3:44", "letra": "Work it harder, make it better\nDo it faster, makes us stronger\nMore than ever, hour after hour\nWork is never over\nHarder, better, faster, stronger" },
+      { "id": 17, "nombreAutor": "Daft Punk", "titulo": "Superheroes", "duracion": "3:57", "letra": "We are the superheroes of the night\nFunk in our veins, we set the world alight\nGrooving through the darkness, burning bright\nSuperheroes dancing, feeling right\nNothing can stop us when the beat drops" },
+      { "id": 18, "nombreAutor": "Daft Punk", "titulo": "Face to Face", "duracion": "4:00", "letra": "Face to face on the dance floor tonight\nEye to eye underneath the neon light\nYour body moves like electric fire\nFace to face, taking us higher\nThis French groove will never let us down" },
+      { "id": 19, "nombreAutor": "Daft Punk", "titulo": "Something About Us", "duracion": "4:18", "letra": "It might not be the right time\nI might not be the right one\nBut there's something about us I want to say\nCause there's something between us anyway\nSomething about us, I just can't explain" }
+    ]
   },
   {
     "id": 4,
-    "nombre": "Reventó",
-    "fechaLanzamiento": "1975-01-01",
-    "artistaId": 3,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumHector(Revento).jpg"
+    "titulo": "Reventó",
+    "anioLanzamiento": 1975,
+    "generoMusical": "Salsa",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumHector(Revento).jpg",
+    "artista": {
+      "id": 3,
+      "nombre": "Hector Lavoe",
+      "generoMusical": "Salsa",
+      "paisOrigen": "Puerto Rico",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/HectorLavoe.jpg",
+      "biografia": "Héctor Juan Pérez Martínez, 'El Cantante de los Cantantes', fue una de las voces más emblemáticas de la salsa. Nacido en Ponce, Puerto Rico, su colaboración con Willie Colón y el sello Fania lo convirtieron en una leyenda inmortal del género."
+    },
+    "canciones": [
+      { "id": 20, "nombreAutor": "Hector Lavoe", "titulo": "Reventó", "duracion": "4:28", "letra": "Reventó la parranda esta noche\nEl barrio entero salió a gozar\nCon el piano y el bongo encendidos\nReventó, no hay quien pueda parar\nEsta salsa nos va a reventar de alegría" },
+      { "id": 21, "nombreAutor": "Hector Lavoe", "titulo": "El Todopoderoso", "duracion": "4:35", "letra": "El todopoderoso manda en este barrio\nCon su clave y su tumbao soberano\nNadie le discute su saber en la pista\nEl todopoderoso es el rey de la vista\nQue suene el timbal, que empiece a bailar" },
+      { "id": 22, "nombreAutor": "Hector Lavoe", "titulo": "Periódico de Ayer", "duracion": "4:22", "letra": "Esa historia de amor ya pasó\nComo periódico de ayer se olvidó\nLo que fue nuestro ya no existe más\nPeriódico de ayer, no hay que recordar\nSolo quedan las páginas amarillas del amor" },
+      { "id": 23, "nombreAutor": "Hector Lavoe", "titulo": "Mi Gente", "duracion": "4:01", "letra": "Mi gente, que mueve el cuerpo sin parar\nMi gente, que sabe cómo hay que gozar\nSon del barrio, son del alma, son de aquí\nMi gente, yo los llevo siempre en mí\nQue viva mi gente y su sabor" },
+      { "id": 24, "nombreAutor": "Hector Lavoe", "titulo": "Aguanile", "duracion": "4:14", "letra": "Aguanilé, maké maké\nLos tambores hablan al atardecer\nAguanilé, la tierra llama\nAfricana sangre que en mi pecho arde\nAguanilé, ancestral canción" },
+      { "id": 25, "nombreAutor": "Hector Lavoe", "titulo": "Rompe Saraguey", "duracion": "3:53", "letra": "Rompe saraguey, la mata que cura\nRompe saraguey, contra toda amargura\nLa salsa dura no tiene piedad\nRompe saraguey con su fuerza ancestral\nQue truene el bongó y la trompeta al son" }
+    ]
   },
   {
     "id": 5,
-    "nombre": "Velocidad Máxima",
-    "fechaLanzamiento": "2019-06-10",
-    "artistaId": 12,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg"
+    "titulo": "Velocidad Máxima",
+    "anioLanzamiento": 2019,
+    "generoMusical": "Guaracha",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
+    "artista": {
+      "id": 12,
+      "nombre": "Berenice",
+      "generoMusical": "Guaracha",
+      "paisOrigen": "Cuba",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg",
+      "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina."
+    },
+    "canciones": [
+      { "id": 26, "nombreAutor": "Berenice", "titulo": "Velocidad Máxima", "duracion": "3:18", "letra": "A velocidad máxima va la guaracha\nNo hay quien la pare, no hay quien la atrape\nEl ritmo sube, el pueblo se desata\nVelocidad máxima, la noche se agita\nCorre la guaracha que el amanecer ya viene" },
+      { "id": 27, "nombreAutor": "Berenice", "titulo": "Palacios", "duracion": "3:32", "letra": "En los palacios del son se baila así\nCon sabor de guaracha para ti\nLos señores del ritmo ya están aquí\nEn los palacios del goce y el frenesí\nQue suene la guaracha, que empiece a fluir" },
+      { "id": 28, "nombreAutor": "Berenice", "titulo": "La Guaracha", "duracion": "3:25", "letra": "La guaracha viene del son cubano\nDel monte y el llano, del pueblo hermano\nCon el tres y el bongó se forma el son\nLa guaracha le llega al corazón\nCuba linda, tu ritmo es mi razón" },
+      { "id": 29, "nombreAutor": "Berenice", "titulo": "La Noche", "duracion": "3:41", "letra": "La noche nos llama a gozar\nLa noche no quiere que paremos de bailar\nBajo las estrellas la guaracha va\nLa noche es nuestra, no va a terminar\nHasta que el alba nos venga a buscar" },
+      { "id": 30, "nombreAutor": "Berenice", "titulo": "PauCastroMusic", "duracion": "3:09", "letra": "PauCastro tiene el ritmo en las manos\nSalsa fina para todos sus hermanos\nDesde el barrio sube su canción\nPauCastro late con el corazón\nQue suene su nombre en cada rincón" },
+      { "id": 31, "nombreAutor": "Berenice", "titulo": "Guaracha & Motos", "duracion": "3:34", "letra": "Con la moto encendida y la guaracha sonando\nPor las calles del barrio voy pasando\nEl rugido del motor se mezcla con el son\nGuaracha y motos, pura vibración\nLibertad sobre ruedas y al ritmo del tambor" }
+    ]
   },
   {
     "id": 6,
-    "nombre": "Stories",
-    "fechaLanzamiento": "2015-10-02",
-    "artistaId": 4,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumAvicii(Stories).jpg"
+    "titulo": "Stories",
+    "anioLanzamiento": 2015,
+    "generoMusical": "Electronica",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumAvicii(Stories).jpg",
+    "artista": {
+      "id": 4,
+      "nombre": "Avicii",
+      "generoMusical": "Electronica",
+      "paisOrigen": "Suecia",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Avicii.jpg",
+      "biografia": "Tim Bergling, conocido mundialmente como Avicii, fue un DJ y productor sueco que redefinió la música electrónica con temas como 'Wake Me Up' y 'Levels'. Su fusión de EDM con country y folk lo diferenció de todos sus contemporáneos."
+    },
+    "canciones": [
+      { "id": 32, "nombreAutor": "Avicii", "titulo": "Waiting for Love", "duracion": "3:48", "letra": "Monday left me broken, Tuesday I was through\nWaiting for love to carry me home\nThe city lights are calling me through the night\nWaiting for love, for someone to hold\nSomewhere love is burning, waiting just for me" },
+      { "id": 33, "nombreAutor": "Avicii", "titulo": "For a Better Day", "duracion": "3:27", "letra": "For a better day we keep on fighting\nThrough the dark we search for the light\nFor a better day the music's guiding\nUs through every long and restless night\nA better day is coming, hold on tight" },
+      { "id": 34, "nombreAutor": "Avicii", "titulo": "Broken Arrows", "duracion": "3:53", "letra": "We are broken arrows shot into the sky\nFalling, rising, learning how to fly\nBroken arrows find their target still\nWith every drop and every broken will\nWe rise again from where we fell" },
+      { "id": 35, "nombreAutor": "Avicii", "titulo": "True Believer", "duracion": "4:49", "letra": "I'm a true believer in the power of sound\nThe music lifts me up when I am down\nTrue believer in the beat and the bass\nTrue believer, I can feel it in this place\nNothing can shake this fire inside" },
+      { "id": 36, "nombreAutor": "Avicii", "titulo": "Pure Grinding", "duracion": "2:53", "letra": "Pure grinding every single day\nNo shortcuts, no excuses on the way\nThe hustle never stops when you're real\nPure grinding is the only thing I feel\n808s and ambition, that's my deal" },
+      { "id": 37, "nombreAutor": "Avicii", "titulo": "Touch Me", "duracion": "3:07", "letra": "Touch me in the dark of the night\nLet the music take us higher tonight\nTouch me with the sound of the bass\nProgressive waves taking me to a better place\nTouch me, let me feel the groove" }
+    ]
   },
   {
     "id": 7,
-    "nombre": "Siempre Viviré",
-    "fechaLanzamiento": "2000-09-26",
-    "artistaId": 5,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCelia(SiempreVivire).jpg"
+    "titulo": "Siempre Viviré",
+    "anioLanzamiento": 2000,
+    "generoMusical": "Salsa",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCelia(SiempreVivire).jpg",
+    "artista": {
+      "id": 5,
+      "nombre": "Celia Cruz",
+      "generoMusical": "Salsa",
+      "paisOrigen": "Cuba",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CeliaCruz.jpg",
+      "biografia": "Úrsula Hilaria Celia de la Caridad Cruz Alfonso, conocida como 'La Reina de la Salsa', fue la voz femenina más importante de la música tropical latina. Su inconfundible grito '¡Azúcar!' y su energía desbordante la convirtieron en un ícono cultural mundial."
+    },
+    "canciones": [
+      { "id": 38, "nombreAutor": "Celia Cruz", "titulo": "Siempre Viviré", "duracion": "3:51", "letra": "Siempre viviré aunque el mundo se acabe\nMi música es el arma que todo lo sabe\nCon el canto y el ritmo venceré el dolor\nSiempre viviré con mi pueblo y mi amor\nLa salsa es mi alma y mi razón de ser" },
+      { "id": 39, "nombreAutor": "Celia Cruz", "titulo": "La Negra Tiene Tumbao", "duracion": "4:01", "letra": "La negra tiene tumbao y camina así\nMeneando las caderas al compás del son\nNadie como ella baila en este lugar\nLa negra tiene tumbao, hay que reconocer\nQue su sabor no tiene comparación" },
+      { "id": 40, "nombreAutor": "Celia Cruz", "titulo": "Quimbara", "duracion": "3:18", "letra": "Quimbara, quimbara, quma quimbambá\nLos tambores llaman a la orishas ya\nQuimbara, la tierra habla con su son\nAfricana fuerza de mi corazón\nQuimbara, ancestral y eterno canto" },
+      { "id": 41, "nombreAutor": "Celia Cruz", "titulo": "Bemba Colorá", "duracion": "3:32", "letra": "Ay, la bemba colorá\nQue me tiene loco y sin parar\nEsa boca que me vuelve a enamorar\nBemba colorá, cubana del solar\nCon su son me tiene que bailar" },
+      { "id": 42, "nombreAutor": "Celia Cruz", "titulo": "Azúcar Negra", "duracion": "3:45", "letra": "Azúcar negra, dulce y poderosa\nRitmo que endulza cualquier cosa\nAzúcar negra de mi tierra amada\nEn cada nota mi alma enamorada\nSabor de Cuba que no tiene igual" },
+      { "id": 43, "nombreAutor": "Celia Cruz", "titulo": "Guantanamera", "duracion": "3:38", "letra": "Guantanamera, guajira guantanamera\nYo soy un hombre sincero de donde crece la palma\nAntes de morirme quiero echar mis versos del alma\nGuantanamera, mi tierra, mi canción\nCuba en el corazón, siempre vivirá" }
+    ]
   },
   {
     "id": 8,
-    "nombre": "Salsa Caliente",
-    "fechaLanzamiento": "2021-03-15",
-    "artistaId": 13,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBlackCoffe(SalsaCaliente).jpg"
+    "titulo": "Salsa Caliente",
+    "anioLanzamiento": 2021,
+    "generoMusical": "Salsa",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBlackCoffe(SalsaCaliente).jpg",
+    "artista": {
+      "id": 13,
+      "nombre": "Gladdys Pereira",
+      "generoMusical": "Salsa",
+      "paisOrigen": "Venezuela",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/BlackCoffe.jpg",
+      "biografia": "Gladdys Pereira es una reconocida cantante venezolana de salsa, admirada por su voz cálida y su presencia escénica. Ha recorrido los principales escenarios de Venezuela y Colombia, convirtiéndose en un referente femenino de la salsa tropical en el norte de Sudamérica."
+    },
+    "canciones": [
+      { "id": 44, "nombreAutor": "Gladdys Pereira", "titulo": "El día de ayer...", "duracion": "3:23", "letra": "El día de ayer ya no vuelve más\nPero su recuerdo no puedo olvidar\nFue un día de salsa, de risa y de amor\nEl día de ayer quedó en el corazón\nHoy bailo en su honor con toda mi fe" },
+      { "id": 45, "nombreAutor": "Gladdys Pereira", "titulo": "Musica Para El Alma", "duracion": "3:37", "letra": "Música para el alma que necesita sanar\nRitmo afrohouse que te hace vibrar\nEl beat te lleva a otro lugar\nMúsica para el alma, déjate llevar\nQue la música cura lo que el tiempo no puede" },
+      { "id": 46, "nombreAutor": "Gladdys Pereira", "titulo": "Caribe", "duracion": "3:18", "letra": "Caribe, tierra de sol y de canción\nCaribe, donde nació mi corazón\nLas olas y el sabor de la salsa van\nCaribe, en tus playas quiero descansar\nMi sangre es caribeña, mi ritmo es el mar" },
+      { "id": 47, "nombreAutor": "Gladdys Pereira", "titulo": "Piano y Guitarra", "duracion": "3:45", "letra": "Piano y guitarra en la madrugada\nDos instrumentos, una sola llamada\nEl afrohouse mueve con su elegancia\nPiano y guitarra en perfecta distancia\nJuntos crean el alma de la noche" },
+      { "id": 48, "nombreAutor": "Gladdys Pereira", "titulo": "Edna, la reina del chocó", "duracion": "3:31", "letra": "Edna es la reina del Chocó\nCon su belleza y su sabor venció\nBaila la salsa como nadie más\nEdna del Chocó, ven a gozar\nRío, selva y ritmo en su canción" },
+      { "id": 49, "nombreAutor": "Gladdys Pereira", "titulo": "Salsa Para Bailar", "duracion": "3:54", "letra": "Esta es la salsa para bailar\nLa que te mueve sin poder parar\nSalsa para bailar con el alma\nSalsa para perder toda la calma\nY encontrarte a ti mismo en el ritmo" }
+    ]
   },
   {
     "id": 9,
-    "nombre": "Se Armó La Moña En Carnaval",
-    "fechaLanzamiento": "1988-01-01",
-    "artistaId": 6,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumJoe(SeArmoLaMonaEnCarnaval).jpg"
+    "titulo": "Se Armó La Moña En Carnaval",
+    "anioLanzamiento": 1988,
+    "generoMusical": "Salsa",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumJoe(SeArmoLaMonaEnCarnaval).jpg",
+    "artista": {
+      "id": 6,
+      "nombre": "Joe Arroyo",
+      "generoMusical": "Salsa",
+      "paisOrigen": "Colombia",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/JoeArroyo.jpg",
+      "biografia": "Álvaro José Arroyo González, 'El Joe', fue el rey indiscutible de la salsa colombiana. Nacido en Cartagena, fusionó la salsa con ritmos afrocaribeños y creó un estilo único. Su canción 'La Rebelión' es considerada un himno de la identidad afrocolombiana."
+    },
+    "canciones": [
+      { "id": 50, "nombreAutor": "Joe Arroyo", "titulo": "Se Armó La Moña En Carnaval", "duracion": "4:58", "letra": "Se armó la moña en carnaval\nTodo el mundo salió a gozar\nDisfraces, música y colorido\nSe armó la moña, ¡se armó!\nBarranquilla se viste de alegría" },
+      { "id": 51, "nombreAutor": "Joe Arroyo", "titulo": "La Rebelión", "duracion": "4:47", "letra": "Le dijeron a María la O que era fea\nY salió a bailar para que el mundo la vea\nLa rebelión no tiene color\nLa rebelión es pura, es salsa y amor\nQue baile el que quiera, que sienta el tambor" },
+      { "id": 52, "nombreAutor": "Joe Arroyo", "titulo": "En Barranquilla Me Quedo", "duracion": "4:27", "letra": "En Barranquilla me quedo, no me voy\nSu carnaval y su cumbia son mi voz\nEl río Grande y sus palmas me llaman\nEn Barranquilla me quedo, aquí mañana\nMi corazón es costeño y sabanero" },
+      { "id": 53, "nombreAutor": "Joe Arroyo", "titulo": "Tumbatecho", "duracion": "4:14", "letra": "Tumbatecho es el que manda en la pista\nCon su salsa dura no hay quien lo resista\nTumba el techo cuando empieza a tocar\nTumbatecho, rey del ritmo y el solar\nQue truene el barrio, que ruede el timbal" },
+      { "id": 54, "nombreAutor": "Joe Arroyo", "titulo": "A Mi Dios Todo Le Debo", "duracion": "5:12", "letra": "A mi Dios todo le debo lo que tengo y lo que soy\nSu gracia me ha sostenido desde ayer hasta hoy\nCon la salsa lo alabo, con el ritmo lo adoro\nA mi Dios todo le debo, el más grande de mis tesoros\nGracias Señor por tu amor eterno" },
+      { "id": 55, "nombreAutor": "Joe Arroyo", "titulo": "El Preso", "duracion": "4:38", "letra": "El preso número nueve tiene historia que contar\nDetrás de esas rejas vive su verdad\nLloró cuando el juez le leyó la condena\nEl preso canta su salsa aunque le duele la pena\nLibertad, su única oración" }
+    ]
   },
   {
     "id": 10,
-    "nombre": "Origo",
-    "fechaLanzamiento": "2019-05-31",
-    "artistaId": 7,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMartin(Origo).jpg"
+    "titulo": "Origo",
+    "anioLanzamiento": 2019,
+    "generoMusical": "Electronica",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMartin(Origo).jpg",
+    "artista": {
+      "id": 7,
+      "nombre": "Martin Garrix",
+      "generoMusical": "Electronica",
+      "paisOrigen": "Países Bajos",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MartinGarrix.jpg",
+      "biografia": "Martijn Gerard Garritsen, mejor conocido como Martin Garrix, es uno de los DJs más jóvenes en alcanzar la cima del mundo EDM. Su tema 'Animals', lanzado cuando tenía apenas 17 años, lo catapultó a la fama mundial y lo consolidó como referente del progressive house."
+    },
+    "canciones": [
+      { "id": 56, "nombreAutor": "Martin Garrix", "titulo": "Ain't Letting You Down", "duracion": "4:21", "letra": "I ain't letting you down no matter what they say\nThrough the storms and the rain I'm here to stay\nAin't letting you down, I'll fight through the night\nProgressively rising, chasing the light\nYou can count on me when it gets rough" },
+      { "id": 57, "nombreAutor": "Martin Garrix", "titulo": "Peace of Mind", "duracion": "2:28", "letra": "Peace of mind is all I need tonight\nLet the electronic waves wash over me\nPeace of mind, everything will be alright\nClose my eyes and let the music set me free\nIn the sound I find my peace" },
+      { "id": 58, "nombreAutor": "Martin Garrix", "titulo": "Our Time", "duracion": "2:41", "letra": "This is our time, tonight the world is ours\nUnder the neon lights and the dancing stars\nOur time, the music never ends\nOur time, with our closest friends\nLive every moment, this is our night" },
+      { "id": 59, "nombreAutor": "Martin Garrix", "titulo": "Inside Our Hearts", "duracion": "3:54", "letra": "Inside our hearts there's a fire burning still\nNo matter how far apart, love finds a way it will\nInside our hearts the music never dies\nA dance pop anthem reaching for the skies\nOur hearts beat together across the miles" },
+      { "id": 60, "nombreAutor": "Martin Garrix", "titulo": "Sleepless Nights", "duracion": "3:00", "letra": "Sleepless nights and restless dreams\nThe trance pulls me apart at the seams\nSleepless nights the music fills the air\nLost in frequencies beyond compare\nLet me drift into your trance tonight" },
+      { "id": 61, "nombreAutor": "Martin Garrix", "titulo": "Voodoo", "duracion": "2:49", "letra": "Voodoo, you cast a spell on me\nElectronic magic, setting spirits free\nVoodoo, the bassline is the curse\nEvery beat gets better or gets worse\nVoodoo, I'm under your control" }
+    ]
   },
   {
     "id": 11,
-    "nombre": "Recess",
-    "fechaLanzamiento": "2014-03-18",
-    "artistaId": 8,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumSkrillex(Recess).jpg"
+    "titulo": "Recess",
+    "anioLanzamiento": 2014,
+    "generoMusical": "Electronica",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumSkrillex(Recess).jpg",
+    "artista": {
+      "id": 8,
+      "nombre": "Skrillex",
+      "generoMusical": "Electronica",
+      "paisOrigen": "Estados Unidos",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Skrillex.jpg",
+      "biografia": "Sonny John Moore, conocido como Skrillex, es el pionero del dubstep moderno. Nacido en Los Ángeles, California, revolucionó la música electrónica con sonidos agresivos y distorsionados. Ha ganado múltiples premios Grammy y colaborado con artistas de talla mundial."
+    },
+    "canciones": [
+      { "id": 62, "nombreAutor": "Skrillex", "titulo": "Recess", "duracion": "3:57", "letra": "Recess, time to let the bass drop\nEverybody on the floor, don't stop\nRecess is when the dubstep hits\nThe woofer shakes, the crowd loses its wits\nLet the bass take over, just let go" },
+      { "id": 63, "nombreAutor": "Skrillex", "titulo": "Ragga Bomb", "duracion": "4:28", "letra": "Ragga bomb dropping from the sky\nDubstep fire burning way up high\nRagga bomb, the rave is going off\nBass so heavy, bass so rough\nRagga bomb, feel the explosion now" },
+      { "id": 64, "nombreAutor": "Skrillex", "titulo": "Coast Is Clear", "duracion": "5:12", "letra": "The coast is clear, no one watching now\nDrop the mic and show the crowd just how\nThe coast is clear, we moving through the night\nHip hop in the blood, everything's alright\nStay focused, keep moving, coast is clear" },
+      { "id": 65, "nombreAutor": "Skrillex", "titulo": "Stranger", "duracion": "4:14", "letra": "You're a stranger in a familiar place\nElectronic lights illuminate your face\nStranger, do you feel the current too\nSomething about this moment feels brand new\nStrangers becoming something more tonight" },
+      { "id": 66, "nombreAutor": "Skrillex", "titulo": "Try It Out", "duracion": "4:01", "letra": "Try it out, step up to the bass\nDubstep warrior, get in your place\nTry it out, the drop is coming hard\nEvery deck a battlefield, every DJ a guard\nTry it out, let the music win" },
+      { "id": 67, "nombreAutor": "Skrillex", "titulo": "Fire Away", "duracion": "4:47", "letra": "Fire away, say what's on your mind\nIndie hearts leaving doubt behind\nFire away, the melody is clear\nSing it loud so everyone can hear\nFire away, this is our indie anthem" }
+    ]
   },
   {
     "id": 12,
-    "nombre": "Cumbiana",
-    "fechaLanzamiento": "2020-10-02",
-    "artistaId": 10,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCarlosVives(Cumbiana).jpg"
+    "titulo": "Cumbiana",
+    "anioLanzamiento": 2020,
+    "generoMusical": "Vallenato",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCarlosVives(Cumbiana).jpg",
+    "artista": {
+      "id": 10,
+      "nombre": "Carlos Vives",
+      "generoMusical": "Vallenato",
+      "paisOrigen": "Colombia",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CarlosVives.jpg",
+      "biografia": "Carlos Alberto Vives Restrepo es el artista que modernizó el vallenato y lo llevó al mundo entero. Nacido en Santa Marta, Colombia, fusionó el vallenato tradicional con el rock y el pop, ganando múltiples Grammy Latinos y posicionando la música colombiana en el mapa global."
+    },
+    "canciones": [
+      { "id": 68, "nombreAutor": "Carlos Vives", "titulo": "Cumbiana", "duracion": "3:54", "letra": "Cumbiana, tierra de mi corazón\nDonde nació el vallenato y su canción\nCumbiana, con tu acordeón y tu caja\nNadie en el mundo tu sabor trabaja\nCumbiana, Colombia vive en ti" },
+      { "id": 69, "nombreAutor": "Carlos Vives", "titulo": "Más Que Todo", "duracion": "3:38", "letra": "Te quiero más que todo en este mundo\nMás que el vallenato profundo\nMás que el acordeón que le canta al amor\nTe quiero más que todo, eres mi razón\nMás que la lluvia y el amanecer" },
+      { "id": 70, "nombreAutor": "Carlos Vives", "titulo": "Canción Bonita", "duracion": "4:01", "letra": "Esta es la canción bonita que te hice\nCon la cumbia y el amor que siempre existe\nCanción bonita para ti, mi amor\nHecha con la cumbia y el mejor sabor\nBonita como tú, sencilla como el mar" },
+      { "id": 71, "nombreAutor": "Carlos Vives", "titulo": "Déjame Entrar", "duracion": "3:45", "letra": "Déjame entrar a tu corazón\nCon este vallenato y mi canción\nAbre la puerta que traigo amor\nDéjame entrar, soy trovador\nMi acordeón te hablará de lo que siento" },
+      { "id": 72, "nombreAutor": "Carlos Vives", "titulo": "La Bicicleta", "duracion": "3:32", "letra": "En la bicicleta voy a buscarte\nPor los caminos que nos vieron amarte\nCumbia y bicicleta, ritmo de los dos\nEn la bicicleta, tú y yo somos uno\nPedaleo al ritmo de tu corazón" }
+    ]
   },
   {
     "id": 13,
-    "nombre": "Tambores Y Cantos",
-    "fechaLanzamiento": "1993-05-20",
-    "artistaId": 9,
-    "portada": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumToto(TamboresYCantos).jpg"
+    "titulo": "Tambores Y Cantos",
+    "anioLanzamiento": 1993,
+    "generoMusical": "Folclor",
+    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumToto(TamboresYCantos).jpg",
+    "artista": {
+      "id": 9,
+      "nombre": "Toto La Momposina",
+      "generoMusical": "Folclor",
+      "paisOrigen": "Colombia",
+      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/TotoMomposina.jpg",
+      "biografia": "Sonia Bazanta Vides, conocida como Totó la Momposina, es la embajadora del folclor costeño colombiano. Nacida en Talaigua Noche, Bolívar, ha dedicado su vida a preservar y difundir los ritmos afrocolombianos como la cumbia, el porro y el mapalé en escenarios internacionales."
+    },
+    "canciones": [
+      { "id": 73, "nombreAutor": "Toto La Momposina", "titulo": "Tambores Y Cantos", "duracion": "5:12", "letra": "Tambores y cantos en la noche ancestral\nVoces que llegan desde el litoral\nLa memoria viva de un pueblo que canta\nTambores y cantos, raíz que levanta\nFolclor colombiano, eterno y leal" },
+      { "id": 74, "nombreAutor": "Toto La Momposina", "titulo": "La Verdad", "duracion": "4:47", "letra": "La verdad es que te amo sin remedio\nLa cumbia lo dice sin rodeo\nLa verdad suena a acordeón y a palma\nLa verdad que tengo grabada en el alma\nCumbia sincera que no miente jamás" },
+      { "id": 75, "nombreAutor": "Toto La Momposina", "titulo": "El Pescador", "duracion": "4:28", "letra": "El pescador madruga antes que el sol\nTiende sus redes con amor y dolor\nEl río le da su sustento y su canción\nEl pescador vive libre en su labor\nFolclor de Colombia en cada amanecer" },
+      { "id": 76, "nombreAutor": "Toto La Momposina", "titulo": "La Llorona Loca", "duracion": "4:14", "letra": "La llorona loca recorre el camino\nLlorando su amor y su triste destino\nLa cumbia la lleva de pueblo en pueblo\nLa llorona loca, su historia es el pueblo\nQue llora y que canta sin parar jamás" },
+      { "id": 77, "nombreAutor": "Toto La Momposina", "titulo": "Gaita de las Flores", "duracion": "4:58", "letra": "La gaita suena entre flores y palmas\nEl viento la lleva, le habla a las almas\nGaita de las flores, canción del Caribe\nMúsica que el tiempo no logra que olvide\nFolclor que florece en cada corazón" },
+      { "id": 78, "nombreAutor": "Toto La Momposina", "titulo": "Son de Negros", "duracion": "4:01", "letra": "El son de negros viene del Congo real\nAfricana herencia que nunca va a parar\nTambor y marimba, voz ancestral\nEl son de negros es folclor universal\nColombia baila con su raíz más fiel" }
+    ]
   }
 ]
