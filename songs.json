@@ -1,165 +1,576 @@
 [
-  {"id": 1, "nombre": "Pa'lla Voy", "duracionSegundos": 246, "albumId": 1, "artistaIds": [1], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Pa'lla voy, con el alma encendida\nBuscando el ritmo de mi vida\nLa salsa me llama, no puedo parar\nMi corazón quiere bailar\nPa'lla voy, sin mirar atrás\nEl sabor me lleva al más allá"},
-
-  {"id": 2, "nombre": "Yo Le Mentí", "duracionSegundos": 258, "albumId": 1, "artistaIds": [1], "genero": "Salsa Romántica", "foto": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80", "lyrics": "Yo le mentí cuando dije que no la amaba\nYo le mentí cuando fingí que todo acababa\nEn el silencio de la noche la recuerdo\nY en cada lágrima que cae yo comprendo\nQue el amor que perdí no regresa más"},
-
-  {"id": 3, "nombre": "No Se Quita", "duracionSegundos": 231, "albumId": 1, "artistaIds": [1], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Esto no se quita con el tiempo\nEste sabor que llevo en el pecho\nLa salsa es fuego, es vida, es pasión\nY no se quita de mi corazón\nBailando sigo, no me voy a detener"},
-
-  {"id": 4, "nombre": "Nada de Nada", "duracionSegundos": 219, "albumId": 1, "artistaIds": [1], "genero": "Salsa Romántica", "foto": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80", "lyrics": "Sin ti no tengo nada de nada\nMi mundo se apagó cuando te fuiste\nNada de nada vale sin tu amor\nSolo queda el eco de tu voz\nVuelve, que sin ti no soy nada"},
-
-  {"id": 5, "nombre": "Mala", "duracionSegundos": 228, "albumId": 1, "artistaIds": [1], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Dicen que eres mala, pero a mí me encanta\nCon ese sabor que el barrio levanta\nMala para el mundo, buena para mí\nDesde que te vi no puedo resistir\nEres mala, mala, pero qué rica eres así"},
-
-  {"id": 6, "nombre": "El Que Te Amaba", "duracionSegundos": 245, "albumId": 1, "artistaIds": [1], "genero": "Bolero", "foto": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80", "lyrics": "El que te amaba con el alma entera\nSe fue una tarde de lluvia y quimera\nEse que lloraba en silencio tu nombre\nYa no existe, lo mató el desamor\nEl que te amaba ya no está aquí"},
-
-  {"id": 7, "nombre": "La Reina Del Merengue", "duracionSegundos": 214, "albumId": 2, "artistaIds": [11], "genero": "Merengue", "foto": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&q=80", "lyrics": "Ella es la reina del merengue\nCuando baila el mundo se detiene\nMueve las caderas con sabor\nEs la reina, dueña del tambor\nQue viva la reina, que viva el merengue"},
-
-  {"id": 8, "nombre": "Baila Conmigo Luni", "duracionSegundos": 198, "albumId": 2, "artistaIds": [11], "genero": "Merengue", "foto": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&q=80", "lyrics": "Baila conmigo Luni, no te quedes quieta\nQue la noche es nuestra y la música aprieta\nMueve el pie, mueve la cadera\nBaila conmigo Luni, ven pa' la pista entera\nEsta noche el merengue nos va a unir"},
-
-  {"id": 9, "nombre": "El Merengue de Yicel", "duracionSegundos": 205, "albumId": 2, "artistaIds": [11], "genero": "Merengue Típico", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "Yicel tiene su merengue especial\nQue cuando suena no hay quien pueda parar\nEs típico, es sabroso, es tradición\nEl merengue de Yicel llega al corazón\nTodos bailan cuando Yicel se mueve"},
-
-  {"id": 10, "nombre": "Acústica", "duracionSegundos": 187, "albumId": 2, "artistaIds": [11], "genero": "Merengue", "foto": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&q=80", "lyrics": "Solo el acordeón y mi voz\nAcústica, sin electricidad\nEl merengue nació en el campo\nCon tambora y güira en libertad\nAcústica, así suena mi pueblo"},
-
-  {"id": 11, "nombre": "La Fiesta de Londoño", "duracionSegundos": 222, "albumId": 2, "artistaIds": [11], "genero": "Merengue", "foto": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&q=80", "lyrics": "En casa de Londoño hay fiesta hoy\nTodo el barrio está bailando, allá voy\nLa cerveza fría, el merengue caliente\nLa fiesta de Londoño es pa' la gente\nQue nadie se quede sin bailar esta noche"},
-
-  {"id": 12, "nombre": "Monterrey en Carnaval", "duracionSegundos": 233, "albumId": 2, "artistaIds": [11], "genero": "Merengue Urbano", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "Monterrey se viste de carnaval\nColores, máscaras y ritmo tropical\nEl merengue urbano toma la ciudad\nMonterrey en carnaval es pura libertad\nQue viva el carnaval, que viva el merengue"},
-
-  {"id": 13, "nombre": "One More Time", "duracionSegundos": 320, "albumId": 3, "artistaIds": [2], "genero": "French House", "foto": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&q=80", "lyrics": "One more time we're gonna celebrate\nOh yeah, alright, don't stop the dancing\nOne more time, feel the music take you higher\nCelebrate and dance so free\nOne more time, tonight is for you and me"},
-
-  {"id": 14, "nombre": "Aerodynamic", "duracionSegundos": 212, "albumId": 3, "artistaIds": [2], "genero": "Electronic Rock", "foto": "https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=600&q=80", "lyrics": "Superheroes never look behind\nAerodynamic through the night\nElectric sound of the universe\nFlying fast, breaking through the lights\nAerodynamic, cutting through the sky"},
-
-  {"id": 15, "nombre": "Digital Love", "duracionSegundos": 301, "albumId": 3, "artistaIds": [2], "genero": "French House", "foto": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&q=80", "lyrics": "Last night I had a dream about you\nIn this dream I'm dancing right beside you\nAnd I feel, just like I'm falling for you\nDigital love, so real yet so new\nYour signal reaches deep inside my heart"},
-
-  {"id": 16, "nombre": "Harder Better Faster Stronger", "duracionSegundos": 224, "albumId": 3, "artistaIds": [2], "genero": "Electronica", "foto": "https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=600&q=80", "lyrics": "Work it harder, make it better\nDo it faster, makes us stronger\nMore than ever, hour after hour\nWork is never over\nHarder, better, faster, stronger"},
-
-  {"id": 17, "nombre": "Superheroes", "duracionSegundos": 237, "albumId": 3, "artistaIds": [2], "genero": "Funk", "foto": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80", "lyrics": "We are the superheroes of the night\nFunk in our veins, we set the world alight\nGrooving through the darkness, burning bright\nSuperheroes dancing, feeling right\nNothing can stop us when the beat drops"},
-
-  {"id": 18, "nombre": "Face to Face", "duracionSegundos": 240, "albumId": 3, "artistaIds": [2], "genero": "French House", "foto": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&q=80", "lyrics": "Face to face on the dance floor tonight\nEye to eye underneath the neon light\nYour body moves like electric fire\nFace to face, taking us higher\nThis French groove will never let us down"},
-
-  {"id": 19, "nombre": "Something About Us", "duracionSegundos": 258, "albumId": 3, "artistaIds": [2], "genero": "Nu-Disco", "foto": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80", "lyrics": "It might not be the right time\nI might not be the right one\nBut there's something about us I want to say\nCause there's something between us anyway\nSomething about us, I just can't explain"},
-
-  {"id": 20, "nombre": "Reventó", "duracionSegundos": 268, "albumId": 4, "artistaIds": [3], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Reventó la parranda esta noche\nEl barrio entero salió a gozar\nCon el piano y el bongo encendidos\nReventó, no hay quien pueda parar\nEsta salsa nos va a reventar de alegría"},
-
-  {"id": 21, "nombre": "El Todopoderoso", "duracionSegundos": 275, "albumId": 4, "artistaIds": [3], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "El todopoderoso manda en este barrio\nCon su clave y su tumbao soberano\nNadie le discute su saber en la pista\nEl todopoderoso es el rey de la vista\nQue suene el timbal, que empiece a bailar"},
-
-  {"id": 22, "nombre": "Periódico de Ayer", "duracionSegundos": 262, "albumId": 4, "artistaIds": [3], "genero": "Bolero", "foto": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80", "lyrics": "Esa historia de amor ya pasó\nComo periódico de ayer se olvidó\nLo que fue nuestro ya no existe más\nPeriódico de ayer, no hay que recordar\nSolo quedan las páginas amarillas del amor"},
-
-  {"id": 23, "nombre": "Mi Gente", "duracionSegundos": 241, "albumId": 4, "artistaIds": [3], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Mi gente, que mueve el cuerpo sin parar\nMi gente, que sabe cómo hay que gozar\nSon del barrio, son del alma, son de aquí\nMi gente, yo los llevo siempre en mí\nQue viva mi gente y su sabor"},
-
-  {"id": 24, "nombre": "Aguanile", "duracionSegundos": 254, "albumId": 4, "artistaIds": [3], "genero": "Afro-Salsa", "foto": "https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=600&q=80", "lyrics": "Aguanilé, maké maké\nLos tambores hablan al atardecer\nAguanilé, la tierra llama\nAfricana sangre que en mi pecho arde\nAguanilé, ancestral canción"},
-
-  {"id": 25, "nombre": "Rompe Saraguey", "duracionSegundos": 233, "albumId": 4, "artistaIds": [3], "genero": "Salsa Dura", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Rompe saraguey, la mata que cura\nRompe saraguey, contra toda amargura\nLa salsa dura no tiene piedad\nRompe saraguey con su fuerza ancestral\nQue truene el bongó y la trompeta al son"},
-
-  {"id": 26, "nombre": "Velocidad Máxima", "duracionSegundos": 198, "albumId": 5, "artistaIds": [12], "genero": "Guaracha", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "A velocidad máxima va la guaracha\nNo hay quien la pare, no hay quien la atrape\nEl ritmo sube, el pueblo se desata\nVelocidad máxima, la noche se agita\nCorre la guaracha que el amanecer ya viene"},
-
-  {"id": 27, "nombre": "Palacios", "duracionSegundos": 212, "albumId": 5, "artistaIds": [12], "genero": "Guaracha", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "En los palacios del son se baila así\nCon sabor de guaracha para ti\nLos señores del ritmo ya están aquí\nEn los palacios del goce y el frenesí\nQue suene la guaracha, que empiece a fluir"},
-
-  {"id": 28, "nombre": "La Guaracha", "duracionSegundos": 205, "albumId": 5, "artistaIds": [12], "genero": "Son Cubano", "foto": "https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=600&q=80", "lyrics": "La guaracha viene del son cubano\nDel monte y el llano, del pueblo hermano\nCon el tres y el bongó se forma el son\nLa guaracha le llega al corazón\nCuba linda, tu ritmo es mi razón"},
-
-  {"id": 29, "nombre": "La Noche", "duracionSegundos": 221, "albumId": 5, "artistaIds": [12], "genero": "Guaracha", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "La noche nos llama a gozar\nLa noche no quiere que paremos de bailar\nBajo las estrellas la guaracha va\nLa noche es nuestra, no va a terminar\nHasta que el alba nos venga a buscar"},
-
-  {"id": 30, "nombre": "PauCastroMusic", "duracionSegundos": 189, "albumId": 5, "artistaIds": [12], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "PauCastro tiene el ritmo en las manos\nSalsa fina para todos sus hermanos\nDesde el barrio sube su canción\nPauCastro late con el corazón\nQue suene su nombre en cada rincón"},
-
-  {"id": 31, "nombre": "Guaracha & Motos", "duracionSegundos": 214, "albumId": 5, "artistaIds": [12], "genero": "Guaracha", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "Con la moto encendida y la guaracha sonando\nPor las calles del barrio voy pasando\nEl rugido del motor se mezcla con el son\nGuaracha y motos, pura vibración\nLibertad sobre ruedas y al ritmo del tambor"},
-
-  {"id": 32, "nombre": "Waiting for Love", "duracionSegundos": 228, "albumId": 6, "artistaIds": [4], "genero": "Progressive House", "foto": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&q=80", "lyrics": "Monday left me broken, Tuesday I was through\nWaiting for love to carry me home\nThe city lights are calling me through the night\nWaiting for love, for someone to hold\nSomewhere love is burning, waiting just for me"},
-
-  {"id": 33, "nombre": "For a Better Day", "duracionSegundos": 207, "albumId": 6, "artistaIds": [4], "genero": "Electronica", "foto": "https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=600&q=80", "lyrics": "For a better day we keep on fighting\nThrough the dark we search for the light\nFor a better day the music's guiding\nUs through every long and restless night\nA better day is coming, hold on tight"},
-
-  {"id": 34, "nombre": "Broken Arrows", "duracionSegundos": 233, "albumId": 6, "artistaIds": [4], "genero": "Folk EDM", "foto": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=600&q=80", "lyrics": "We are broken arrows shot into the sky\nFalling, rising, learning how to fly\nBroken arrows find their target still\nWith every drop and every broken will\nWe rise again from where we fell"},
-
-  {"id": 35, "nombre": "True Believer", "duracionSegundos": 289, "albumId": 6, "artistaIds": [4], "genero": "Dance Pop", "foto": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80", "lyrics": "I'm a true believer in the power of sound\nThe music lifts me up when I am down\nTrue believer in the beat and the bass\nTrue believer, I can feel it in this place\nNothing can shake this fire inside"},
-
-  {"id": 36, "nombre": "Pure Grinding", "duracionSegundos": 173, "albumId": 6, "artistaIds": [4], "genero": "Trap", "foto": "https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=600&q=80", "lyrics": "Pure grinding every single day\nNo shortcuts, no excuses on the way\nThe hustle never stops when you're real\nPure grinding is the only thing I feel\n808s and ambition, that's my deal"},
-
-  {"id": 37, "nombre": "Touch Me", "duracionSegundos": 187, "albumId": 6, "artistaIds": [4], "genero": "Progressive House", "foto": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&q=80", "lyrics": "Touch me in the dark of the night\nLet the music take us higher tonight\nTouch me with the sound of the bass\nProgressive waves taking me to a better place\nTouch me, let me feel the groove"},
-
-  {"id": 38, "nombre": "Siempre Viviré", "duracionSegundos": 231, "albumId": 7, "artistaIds": [5], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Siempre viviré aunque el mundo se acabe\nMi música es el arma que todo lo sabe\nCon el canto y el ritmo venceré el dolor\nSiempre viviré con mi pueblo y mi amor\nLa salsa es mi alma y mi razón de ser"},
-
-  {"id": 39, "nombre": "La Negra Tiene Tumbao", "duracionSegundos": 241, "albumId": 7, "artistaIds": [5], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "La negra tiene tumbao y camina así\nMeneando las caderas al compás del son\nNadie como ella baila en este lugar\nLa negra tiene tumbao, hay que reconocer\nQue su sabor no tiene comparación"},
-
-  {"id": 40, "nombre": "Quimbara", "duracionSegundos": 198, "albumId": 7, "artistaIds": [5], "genero": "Afro-Salsa", "foto": "https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=600&q=80", "lyrics": "Quimbara, quimbara, quma quimbambá\nLos tambores llaman a la orishas ya\nQuimbara, la tierra habla con su son\nAfricana fuerza de mi corazón\nQuimbara, ancestral y eterno canto"},
-
-  {"id": 41, "nombre": "Bemba Colorá", "duracionSegundos": 212, "albumId": 7, "artistaIds": [5], "genero": "Son Cubano", "foto": "https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=600&q=80", "lyrics": "Ay, la bemba colorá\nQue me tiene loco y sin parar\nEsa boca que me vuelve a enamorar\nBemba colorá, cubana del solar\nCon su son me tiene que bailar"},
-
-  {"id": 42, "nombre": "Azúcar Negra", "duracionSegundos": 225, "albumId": 7, "artistaIds": [5], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Azúcar negra, dulce y poderosa\nRitmo que endulza cualquier cosa\nAzúcar negra de mi tierra amada\nEn cada nota mi alma enamorada\nSabor de Cuba que no tiene igual"},
-
-  {"id": 43, "nombre": "Guantanamera", "duracionSegundos": 218, "albumId": 7, "artistaIds": [5], "genero": "Guajira", "foto": "https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=600&q=80", "lyrics": "Guantanamera, guajira guantanamera\nYo soy un hombre sincero de donde crece la palma\nAntes de morirme quiero echar mis versos del alma\nGuantanamera, mi tierra, mi canción\nCuba en el corazón, siempre vivirá"},
-
-  {"id": 44, "nombre": "El día de ayer...", "duracionSegundos": 203, "albumId": 8, "artistaIds": [13], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "El día de ayer ya no vuelve más\nPero su recuerdo no puedo olvidar\nFue un día de salsa, de risa y de amor\nEl día de ayer quedó en el corazón\nHoy bailo en su honor con toda mi fe"},
-
-  {"id": 45, "nombre": "Musica Para El Alma", "duracionSegundos": 217, "albumId": 8, "artistaIds": [13], "genero": "Afrohouse", "foto": "https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=600&q=80", "lyrics": "Música para el alma que necesita sanar\nRitmo afrohouse que te hace vibrar\nEl beat te lleva a otro lugar\nMúsica para el alma, déjate llevar\nQue la música cura lo que el tiempo no puede"},
-
-  {"id": 46, "nombre": "Caribe", "duracionSegundos": 198, "albumId": 8, "artistaIds": [13], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Caribe, tierra de sol y de canción\nCaribe, donde nació mi corazón\nLas olas y el sabor de la salsa van\nCaribe, en tus playas quiero descansar\nMi sangre es caribeña, mi ritmo es el mar"},
-
-  {"id": 47, "nombre": "Piano y Guitarra", "duracionSegundos": 225, "albumId": 8, "artistaIds": [13], "genero": "Afrohouse", "foto": "https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=600&q=80", "lyrics": "Piano y guitarra en la madrugada\nDos instrumentos, una sola llamada\nEl afrohouse mueve con su elegancia\nPiano y guitarra en perfecta distancia\nJuntos crean el alma de la noche"},
-
-  {"id": 48, "nombre": "Edna, la reina del chocó", "duracionSegundos": 211, "albumId": 8, "artistaIds": [13], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Edna es la reina del Chocó\nCon su belleza y su sabor venció\nBaila la salsa como nadie más\nEdna del Chocó, ven a gozar\nRío, selva y ritmo en su canción"},
-
-  {"id": 49, "nombre": "Salsa Para Bailar", "duracionSegundos": 234, "albumId": 8, "artistaIds": [13], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Esta es la salsa para bailar\nLa que te mueve sin poder parar\nSalsa para bailar con el alma\nSalsa para perder toda la calma\nY encontrarte a ti mismo en el ritmo"},
-
-  {"id": 50, "nombre": "Se Armó La Moña En Carnaval", "duracionSegundos": 298, "albumId": 9, "artistaIds": [6], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&q=80", "lyrics": "Se armó la moña en carnaval\nTodo el mundo salió a gozar\nDisfraces, música y colorido\nSe armó la moña, ¡se armó!\nBarranquilla se viste de alegría"},
-
-  {"id": 51, "nombre": "La Rebelión", "duracionSegundos": 287, "albumId": 9, "artistaIds": [6], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Le dijeron a María la O que era fea\nY salió a bailar para que el mundo la vea\nLa rebelión no tiene color\nLa rebelión es pura, es salsa y amor\nQue baile el que quiera, que sienta el tambor"},
-
-  {"id": 52, "nombre": "En Barranquilla Me Quedo", "duracionSegundos": 267, "albumId": 9, "artistaIds": [6], "genero": "Cumbia", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "En Barranquilla me quedo, no me voy\nSu carnaval y su cumbia son mi voz\nEl río Grande y sus palmas me llaman\nEn Barranquilla me quedo, aquí mañana\nMi corazón es costeño y sabanero"},
-
-  {"id": 53, "nombre": "Tumbatecho", "duracionSegundos": 254, "albumId": 9, "artistaIds": [6], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Tumbatecho es el que manda en la pista\nCon su salsa dura no hay quien lo resista\nTumba el techo cuando empieza a tocar\nTumbatecho, rey del ritmo y el solar\nQue truene el barrio, que ruede el timbal"},
-
-  {"id": 54, "nombre": "A Mi Dios Todo Le Debo", "duracionSegundos": 312, "albumId": 9, "artistaIds": [6], "genero": "Gospel Salsa", "foto": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80", "lyrics": "A mi Dios todo le debo lo que tengo y lo que soy\nSu gracia me ha sostenido desde ayer hasta hoy\nCon la salsa lo alabo, con el ritmo lo adoro\nA mi Dios todo le debo, el más grande de mis tesoros\nGracias Señor por tu amor eterno"},
-
-  {"id": 55, "nombre": "El Preso", "duracionSegundos": 278, "albumId": 9, "artistaIds": [6], "genero": "Salsa Dura", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "El preso número nueve tiene historia que contar\nDetrás de esas rejas vive su verdad\nLloró cuando el juez le leyó la condena\nEl preso canta su salsa aunque le duele la pena\nLibertad, su única oración"},
-
-  {"id": 56, "nombre": "Ain't Letting You Down", "duracionSegundos": 261, "albumId": 10, "artistaIds": [7], "genero": "Progressive House", "foto": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&q=80", "lyrics": "I ain't letting you down no matter what they say\nThrough the storms and the rain I'm here to stay\nAin't letting you down, I'll fight through the night\nProgressively rising, chasing the light\nYou can count on me when it gets rough"},
-
-  {"id": 57, "nombre": "Peace of Mind", "duracionSegundos": 148, "albumId": 10, "artistaIds": [7], "genero": "Electronica", "foto": "https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=600&q=80", "lyrics": "Peace of mind is all I need tonight\nLet the electronic waves wash over me\nPeace of mind, everything will be alright\nClose my eyes and let the music set me free\nIn the sound I find my peace"},
-
-  {"id": 58, "nombre": "Our Time", "duracionSegundos": 161, "albumId": 10, "artistaIds": [7], "genero": "Progressive House", "foto": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=600&q=80", "lyrics": "This is our time, tonight the world is ours\nUnder the neon lights and the dancing stars\nOur time, the music never ends\nOur time, with our closest friends\nLive every moment, this is our night"},
-
-  {"id": 59, "nombre": "Inside Our Hearts", "duracionSegundos": 234, "albumId": 10, "artistaIds": [7], "genero": "Dance Pop", "foto": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80", "lyrics": "Inside our hearts there's a fire burning still\nNo matter how far apart, love finds a way it will\nInside our hearts the music never dies\nA dance pop anthem reaching for the skies\nOur hearts beat together across the miles"},
-
-  {"id": 60, "nombre": "Sleepless Nights", "duracionSegundos": 180, "albumId": 10, "artistaIds": [7], "genero": "Trance", "foto": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=600&q=80", "lyrics": "Sleepless nights and restless dreams\nThe trance pulls me apart at the seams\nSleepless nights the music fills the air\nLost in frequencies beyond compare\nLet me drift into your trance tonight"},
-
-  {"id": 61, "nombre": "Voodoo", "duracionSegundos": 169, "albumId": 10, "artistaIds": [7], "genero": "Electronica", "foto": "https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=600&q=80", "lyrics": "Voodoo, you cast a spell on me\nElectronic magic, setting spirits free\nVoodoo, the bassline is the curse\nEvery beat gets better or gets worse\nVoodoo, I'm under your control"},
-
-  {"id": 62, "nombre": "Recess", "duracionSegundos": 237, "albumId": 11, "artistaIds": [8], "genero": "Dubstep", "foto": "https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=600&q=80", "lyrics": "Recess, time to let the bass drop\nEverybody on the floor, don't stop\nRecess is when the dubstep hits\nThe woofer shakes, the crowd loses its wits\nLet the bass take over, just let go"},
-
-  {"id": 63, "nombre": "Ragga Bomb", "duracionSegundos": 268, "albumId": 11, "artistaIds": [8], "genero": "Dubstep", "foto": "https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=600&q=80", "lyrics": "Ragga bomb dropping from the sky\nDubstep fire burning way up high\nRagga bomb, the rave is going off\nBass so heavy, bass so rough\nRagga bomb, feel the explosion now"},
-
-  {"id": 64, "nombre": "Coast Is Clear", "duracionSegundos": 312, "albumId": 11, "artistaIds": [8], "genero": "Hip Hop", "foto": "https://images.unsplash.com/photo-1459749411175-04bf5292ceea?w=600&q=80", "lyrics": "The coast is clear, no one watching now\nDrop the mic and show the crowd just how\nThe coast is clear, we moving through the night\nHip hop in the blood, everything's alright\nStay focused, keep moving, coast is clear"},
-
-  {"id": 65, "nombre": "Stranger", "duracionSegundos": 254, "albumId": 11, "artistaIds": [8], "genero": "Electronica", "foto": "https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=600&q=80", "lyrics": "You're a stranger in a familiar place\nElectronic lights illuminate your face\nStranger, do you feel the current too\nSomething about this moment feels brand new\nStrangers becoming something more tonight"},
-
-  {"id": 66, "nombre": "Try It Out", "duracionSegundos": 241, "albumId": 11, "artistaIds": [8], "genero": "Dubstep", "foto": "https://images.unsplash.com/photo-1571330735066-03aaa9429d89?w=600&q=80", "lyrics": "Try it out, step up to the bass\nDubstep warrior, get in your place\nTry it out, the drop is coming hard\nEvery deck a battlefield, every DJ a guard\nTry it out, let the music win"},
-
-  {"id": 67, "nombre": "Fire Away", "duracionSegundos": 287, "albumId": 11, "artistaIds": [8], "genero": "Indie Pop", "foto": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&q=80", "lyrics": "Fire away, say what's on your mind\nIndie hearts leaving doubt behind\nFire away, the melody is clear\nSing it loud so everyone can hear\nFire away, this is our indie anthem"},
-
-  {"id": 68, "nombre": "Cumbiana", "duracionSegundos": 234, "albumId": 12, "artistaIds": [10], "genero": "Vallenato", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "Cumbiana, tierra de mi corazón\nDonde nació el vallenato y su canción\nCumbiana, con tu acordeón y tu caja\nNadie en el mundo tu sabor trabaja\nCumbiana, Colombia vive en ti"},
-
-  {"id": 69, "nombre": "Más Que Todo", "duracionSegundos": 218, "albumId": 12, "artistaIds": [10], "genero": "Vallenato", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "Te quiero más que todo en este mundo\nMás que el vallenato profundo\nMás que el acordeón que le canta al amor\nTe quiero más que todo, eres mi razón\nMás que la lluvia y el amanecer"},
-
-  {"id": 70, "nombre": "Canción Bonita", "duracionSegundos": 241, "albumId": 12, "artistaIds": [10], "genero": "Cumbia", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "Esta es la canción bonita que te hice\nCon la cumbia y el amor que siempre existe\nCanción bonita para ti, mi amor\nHecha con la cumbia y el mejor sabor\nBonita como tú, sencilla como el mar"},
-
-  {"id": 71, "nombre": "Déjame Entrar", "duracionSegundos": 225, "albumId": 12, "artistaIds": [10], "genero": "Vallenato", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "Déjame entrar a tu corazón\nCon este vallenato y mi canción\nAbre la puerta que traigo amor\nDéjame entrar, soy trovador\nMi acordeón te hablará de lo que siento"},
-
-  {"id": 72, "nombre": "La Bicicleta", "duracionSegundos": 212, "albumId": 12, "artistaIds": [10], "genero": "Cumbia", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "En la bicicleta voy a buscarte\nPor los caminos que nos vieron amarte\nCumbia y bicicleta, ritmo de los dos\nEn la bicicleta, tú y yo somos uno\nPedaleo al ritmo de tu corazón"},
-
-  {"id": 73, "nombre": "Tambores Y Cantos", "duracionSegundos": 312, "albumId": 13, "artistaIds": [9], "genero": "Folclor", "foto": "https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=600&q=80", "lyrics": "Tambores y cantos en la noche ancestral\nVoces que llegan desde el litoral\nLa memoria viva de un pueblo que canta\nTambores y cantos, raíz que levanta\nFolclor colombiano, eterno y leal"},
-
-  {"id": 74, "nombre": "La Verdad", "duracionSegundos": 287, "albumId": 13, "artistaIds": [9], "genero": "Cumbia", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "La verdad es que te amo sin remedio\nLa cumbia lo dice sin rodeo\nLa verdad suena a acordeón y a palma\nLa verdad que tengo grabada en el alma\nCumbia sincera que no miente jamás"},
-
-  {"id": 75, "nombre": "El Pescador", "duracionSegundos": 268, "albumId": 13, "artistaIds": [9], "genero": "Folclor", "foto": "https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=600&q=80", "lyrics": "El pescador madruga antes que el sol\nTiende sus redes con amor y dolor\nEl río le da su sustento y su canción\nEl pescador vive libre en su labor\nFolclor de Colombia en cada amanecer"},
-
-  {"id": 76, "nombre": "La Llorona Loca", "duracionSegundos": 254, "albumId": 13, "artistaIds": [9], "genero": "Cumbia", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "La llorona loca recorre el camino\nLlorando su amor y su triste destino\nLa cumbia la lleva de pueblo en pueblo\nLa llorona loca, su historia es el pueblo\nQue llora y que canta sin parar jamás"},
-
-  {"id": 77, "nombre": "Gaita de las Flores", "duracionSegundos": 298, "albumId": 13, "artistaIds": [9], "genero": "Folclor", "foto": "https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=600&q=80", "lyrics": "La gaita suena entre flores y palmas\nEl viento la lleva, le habla a las almas\nGaita de las flores, canción del Caribe\nMúsica que el tiempo no logra que olvide\nFolclor que florece en cada corazón"},
-
-  {"id": 78, "nombre": "Son de Negros", "duracionSegundos": 241, "albumId": 13, "artistaIds": [9], "genero": "Folclor", "foto": "https://images.unsplash.com/photo-1508700929628-666bc8bd84ea?w=600&q=80", "lyrics": "El son de negros viene del Congo real\nAfricana herencia que nunca va a parar\nTambor y marimba, voz ancestral\nEl son de negros es folclor universal\nColombia baila con su raíz más fiel"},
-
-  {"id": 79, "nombre": "Las 3 Guaracheras", "duracionSegundos": 218, "albumId": 5, "artistaIds": [11, 12, 13], "genero": "Guaracha", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "Tres guaracheras se juntaron a cantar\nY el barrio entero salió a bailar\nUna, dos, tres, la guaracha va\nLas tres guaracheras no paran de gozar\nJuntas son un huracán de ritmo y sal"},
-
-  {"id": 80, "nombre": "La Noche es Nuestra", "duracionSegundos": 203, "albumId": 2, "artistaIds": [11, 12], "genero": "Merengue", "foto": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&q=80", "lyrics": "La noche es nuestra, no hay quien la quite\nEl merengue suena y nadie lo evite\nLa noche es nuestra, la pista es nuestra también\nBailemos juntos, que todo está bien\nLa noche nos pertenece a ti y a mí"},
-
-  {"id": 81, "nombre": "Ritmo Caliente", "duracionSegundos": 225, "albumId": 8, "artistaIds": [11, 13], "genero": "Salsa", "foto": "https://images.unsplash.com/photo-1514320291840-2e0a9bf2a9ae?w=600&q=80", "lyrics": "Ritmo caliente que quema la pista\nSalsa que sube, que todo conquista\nRitmo caliente, el cuerpo sudando\nRitmo caliente, el alma gozando\nQue no se apague este fuego jamás"},
-
-  {"id": 82, "nombre": "Sin Parar", "duracionSegundos": 197, "albumId": 5, "artistaIds": [12, 13], "genero": "Guaracha", "foto": "https://images.unsplash.com/photo-1504609813442-a8924e83f76e?w=600&q=80", "lyrics": "Sin parar, sin parar, la guaracha va\nSin parar, el ritmo no descansará\nToda la noche vamos a gozar\nSin parar, sin parar, sin parar\nHasta que el sol nos venga a despertar"}
+  {
+    "id": 1,
+    "titulo": "Pa'lla Voy",
+    "duracion": "4:06",
+    "letra": "Pa'lla voy, con el alma encendida\nBuscando el ritmo de mi vida\nLa salsa me llama, no puedo parar\nMi corazón quiere bailar\nPa'lla voy, sin mirar atrás\nEl sabor me lleva al más allá",
+    "nombreAutor": "Marc Anthony"
+  },
+  {
+    "id": 2,
+    "titulo": "Yo Le Mentí",
+    "duracion": "4:18",
+    "letra": "Yo le mentí cuando dije que no la amaba\nYo le mentí cuando fingí que todo acababa\nEn el silencio de la noche la recuerdo\nY en cada lágrima que cae yo comprendo\nQue el amor que perdí no regresa más",
+    "nombreAutor": "Marc Anthony"
+  },
+  {
+    "id": 3,
+    "titulo": "No Se Quita",
+    "duracion": "3:51",
+    "letra": "Esto no se quita con el tiempo\nEste sabor que llevo en el pecho\nLa salsa es fuego, es vida, es pasión\nY no se quita de mi corazón\nBailando sigo, no me voy a detener",
+    "nombreAutor": "Marc Anthony"
+  },
+  {
+    "id": 4,
+    "titulo": "Nada de Nada",
+    "duracion": "3:39",
+    "letra": "Sin ti no tengo nada de nada\nMi mundo se apagó cuando te fuiste\nNada de nada vale sin tu amor\nSolo queda el eco de tu voz\nVuelve, que sin ti no soy nada",
+    "nombreAutor": "Marc Anthony"
+  },
+  {
+    "id": 5,
+    "titulo": "Mala",
+    "duracion": "3:48",
+    "letra": "Dicen que eres mala, pero a mí me encanta\nCon ese sabor que el barrio levanta\nMala para el mundo, buena para mí\nDesde que te vi no puedo resistir\nEres mala, mala, pero qué rica eres así",
+    "nombreAutor": "Marc Anthony"
+  },
+  {
+    "id": 6,
+    "titulo": "El Que Te Amaba",
+    "duracion": "4:05",
+    "letra": "El que te amaba con el alma entera\nSe fue una tarde de lluvia y quimera\nEse que lloraba en silencio tu nombre\nYa no existe, lo mató el desamor\nEl que te amaba ya no está aquí",
+    "nombreAutor": "Marc Anthony"
+  },
+  {
+    "id": 7,
+    "titulo": "La Reina Del Merengue",
+    "duracion": "3:34",
+    "letra": "Ella es la reina del merengue\nCuando baila el mundo se detiene\nMueve las caderas con sabor\nEs la reina, dueña del tambor\nQue viva la reina, que viva el merengue",
+    "nombreAutor": "Datty"
+  },
+  {
+    "id": 8,
+    "titulo": "Baila Conmigo Luni",
+    "duracion": "3:18",
+    "letra": "Baila conmigo Luni, no te quedes quieta\nQue la noche es nuestra y la música aprieta\nMueve el pie, mueve la cadera\nBaila conmigo Luni, ven pa' la pista entera\nEsta noche el merengue nos va a unir",
+    "nombreAutor": "Datty"
+  },
+  {
+    "id": 9,
+    "titulo": "El Merengue de Yicel",
+    "duracion": "3:25",
+    "letra": "Yicel tiene su merengue especial\nQue cuando suena no hay quien pueda parar\nEs típico, es sabroso, es tradición\nEl merengue de Yicel llega al corazón\nTodos bailan cuando Yicel se mueve",
+    "nombreAutor": "Datty"
+  },
+  {
+    "id": 10,
+    "titulo": "Acústica",
+    "duracion": "3:07",
+    "letra": "Solo el acordeón y mi voz\nAcústica, sin electricidad\nEl merengue nació en el campo\nCon tambora y güira en libertad\nAcústica, así suena mi pueblo",
+    "nombreAutor": "Datty"
+  },
+  {
+    "id": 11,
+    "titulo": "La Fiesta de Londoño",
+    "duracion": "3:42",
+    "letra": "En casa de Londoño hay fiesta hoy\nTodo el barrio está bailando, allá voy\nLa cerveza fría, el merengue caliente\nLa fiesta de Londoño es pa' la gente\nQue nadie se quede sin bailar esta noche",
+    "nombreAutor": "Datty"
+  },
+  {
+    "id": 12,
+    "titulo": "Monterrey en Carnaval",
+    "duracion": "3:53",
+    "letra": "Monterrey se viste de carnaval\nColores, máscaras y ritmo tropical\nEl merengue urbano toma la ciudad\nMonterrey en carnaval es pura libertad\nQue viva el carnaval, que viva el merengue",
+    "nombreAutor": "Datty"
+  },
+  {
+    "id": 13,
+    "titulo": "One More Time",
+    "duracion": "5:20",
+    "letra": "One more time we're gonna celebrate\nOh yeah, alright, don't stop the dancing\nOne more time, feel the music take you higher\nCelebrate and dance so free\nOne more time, tonight is for you and me",
+    "nombreAutor": "Daft Punk"
+  },
+  {
+    "id": 14,
+    "titulo": "Aerodynamic",
+    "duracion": "3:32",
+    "letra": "Superheroes never look behind\nAerodynamic through the night\nElectric sound of the universe\nFlying fast, breaking through the lights\nAerodynamic, cutting through the sky",
+    "nombreAutor": "Daft Punk"
+  },
+  {
+    "id": 15,
+    "titulo": "Digital Love",
+    "duracion": "5:01",
+    "letra": "Last night I had a dream about you\nIn this dream I'm dancing right beside you\nAnd I feel, just like I'm falling for you\nDigital love, so real yet so new\nYour signal reaches deep inside my heart",
+    "nombreAutor": "Daft Punk"
+  },
+  {
+    "id": 16,
+    "titulo": "Harder Better Faster Stronger",
+    "duracion": "3:44",
+    "letra": "Work it harder, make it better\nDo it faster, makes us stronger\nMore than ever, hour after hour\nWork is never over\nHarder, better, faster, stronger",
+    "nombreAutor": "Daft Punk"
+  },
+  {
+    "id": 17,
+    "titulo": "Superheroes",
+    "duracion": "3:57",
+    "letra": "We are the superheroes of the night\nFunk in our veins, we set the world alight\nGrooving through the darkness, burning bright\nSuperheroes dancing, feeling right\nNothing can stop us when the beat drops",
+    "nombreAutor": "Daft Punk"
+  },
+  {
+    "id": 18,
+    "titulo": "Face to Face",
+    "duracion": "4:00",
+    "letra": "Face to face on the dance floor tonight\nEye to eye underneath the neon light\nYour body moves like electric fire\nFace to face, taking us higher\nThis French groove will never let us down",
+    "nombreAutor": "Daft Punk"
+  },
+  {
+    "id": 19,
+    "titulo": "Something About Us",
+    "duracion": "4:18",
+    "letra": "It might not be the right time\nI might not be the right one\nBut there's something about us I want to say\nCause there's something between us anyway\nSomething about us, I just can't explain",
+    "nombreAutor": "Daft Punk"
+  },
+  {
+    "id": 20,
+    "titulo": "Reventó",
+    "duracion": "4:28",
+    "letra": "Reventó la parranda esta noche\nEl barrio entero salió a gozar\nCon el piano y el bongo encendidos\nReventó, no hay quien pueda parar\nEsta salsa nos va a reventar de alegría",
+    "nombreAutor": "Hector Lavoe"
+  },
+  {
+    "id": 21,
+    "titulo": "El Todopoderoso",
+    "duracion": "4:35",
+    "letra": "El todopoderoso manda en este barrio\nCon su clave y su tumbao soberano\nNadie le discute su saber en la pista\nEl todopoderoso es el rey de la vista\nQue suene el timbal, que empiece a bailar",
+    "nombreAutor": "Hector Lavoe"
+  },
+  {
+    "id": 22,
+    "titulo": "Periódico de Ayer",
+    "duracion": "4:22",
+    "letra": "Esa historia de amor ya pasó\nComo periódico de ayer se olvidó\nLo que fue nuestro ya no existe más\nPeriódico de ayer, no hay que recordar\nSolo quedan las páginas amarillas del amor",
+    "nombreAutor": "Hector Lavoe"
+  },
+  {
+    "id": 23,
+    "titulo": "Mi Gente",
+    "duracion": "4:01",
+    "letra": "Mi gente, que mueve el cuerpo sin parar\nMi gente, que sabe cómo hay que gozar\nSon del barrio, son del alma, son de aquí\nMi gente, yo los llevo siempre en mí\nQue viva mi gente y su sabor",
+    "nombreAutor": "Hector Lavoe"
+  },
+  {
+    "id": 24,
+    "titulo": "Aguanile",
+    "duracion": "4:14",
+    "letra": "Aguanilé, maké maké\nLos tambores hablan al atardecer\nAguanilé, la tierra llama\nAfricana sangre que en mi pecho arde\nAguanilé, ancestral canción",
+    "nombreAutor": "Hector Lavoe"
+  },
+  {
+    "id": 25,
+    "titulo": "Rompe Saraguey",
+    "duracion": "3:53",
+    "letra": "Rompe saraguey, la mata que cura\nRompe saraguey, contra toda amargura\nLa salsa dura no tiene piedad\nRompe saraguey con su fuerza ancestral\nQue truene el bongó y la trompeta al son",
+    "nombreAutor": "Hector Lavoe"
+  },
+  {
+    "id": 26,
+    "titulo": "Velocidad Máxima",
+    "duracion": "3:18",
+    "letra": "A velocidad máxima va la guaracha\nNo hay quien la pare, no hay quien la atrape\nEl ritmo sube, el pueblo se desata\nVelocidad máxima, la noche se agita\nCorre la guaracha que el amanecer ya viene",
+    "nombreAutor": "Berenice"
+  },
+  {
+    "id": 27,
+    "titulo": "Palacios",
+    "duracion": "3:32",
+    "letra": "En los palacios del son se baila así\nCon sabor de guaracha para ti\nLos señores del ritmo ya están aquí\nEn los palacios del goce y el frenesí\nQue suene la guaracha, que empiece a fluir",
+    "nombreAutor": "Berenice"
+  },
+  {
+    "id": 28,
+    "titulo": "La Guaracha",
+    "duracion": "3:25",
+    "letra": "La guaracha viene del son cubano\nDel monte y el llano, del pueblo hermano\nCon el tres y el bongó se forma el son\nLa guaracha le llega al corazón\nCuba linda, tu ritmo es mi razón",
+    "nombreAutor": "Berenice"
+  },
+  {
+    "id": 29,
+    "titulo": "La Noche",
+    "duracion": "3:41",
+    "letra": "La noche nos llama a gozar\nLa noche no quiere que paremos de bailar\nBajo las estrellas la guaracha va\nLa noche es nuestra, no va a terminar\nHasta que el alba nos venga a buscar",
+    "nombreAutor": "Berenice"
+  },
+  {
+    "id": 30,
+    "titulo": "PauCastroMusic",
+    "duracion": "3:09",
+    "letra": "PauCastro tiene el ritmo en las manos\nSalsa fina para todos sus hermanos\nDesde el barrio sube su canción\nPauCastro late con el corazón\nQue suene su nombre en cada rincón",
+    "nombreAutor": "Berenice"
+  },
+  {
+    "id": 31,
+    "titulo": "Guaracha & Motos",
+    "duracion": "3:34",
+    "letra": "Con la moto encendida y la guaracha sonando\nPor las calles del barrio voy pasando\nEl rugido del motor se mezcla con el son\nGuaracha y motos, pura vibración\nLibertad sobre ruedas y al ritmo del tambor",
+    "nombreAutor": "Berenice"
+  },
+  {
+    "id": 32,
+    "titulo": "Waiting for Love",
+    "duracion": "3:48",
+    "letra": "Monday left me broken, Tuesday I was through\nWaiting for love to carry me home\nThe city lights are calling me through the night\nWaiting for love, for someone to hold\nSomewhere love is burning, waiting just for me",
+    "nombreAutor": "Avicii"
+  },
+  {
+    "id": 33,
+    "titulo": "For a Better Day",
+    "duracion": "3:27",
+    "letra": "For a better day we keep on fighting\nThrough the dark we search for the light\nFor a better day the music's guiding\nUs through every long and restless night\nA better day is coming, hold on tight",
+    "nombreAutor": "Avicii"
+  },
+  {
+    "id": 34,
+    "titulo": "Broken Arrows",
+    "duracion": "3:53",
+    "letra": "We are broken arrows shot into the sky\nFalling, rising, learning how to fly\nBroken arrows find their target still\nWith every drop and every broken will\nWe rise again from where we fell",
+    "nombreAutor": "Avicii"
+  },
+  {
+    "id": 35,
+    "titulo": "True Believer",
+    "duracion": "4:49",
+    "letra": "I'm a true believer in the power of sound\nThe music lifts me up when I am down\nTrue believer in the beat and the bass\nTrue believer, I can feel it in this place\nNothing can shake this fire inside",
+    "nombreAutor": "Avicii"
+  },
+  {
+    "id": 36,
+    "titulo": "Pure Grinding",
+    "duracion": "2:53",
+    "letra": "Pure grinding every single day\nNo shortcuts, no excuses on the way\nThe hustle never stops when you're real\nPure grinding is the only thing I feel\n808s and ambition, that's my deal",
+    "nombreAutor": "Avicii"
+  },
+  {
+    "id": 37,
+    "titulo": "Touch Me",
+    "duracion": "3:07",
+    "letra": "Touch me in the dark of the night\nLet the music take us higher tonight\nTouch me with the sound of the bass\nProgressive waves taking me to a better place\nTouch me, let me feel the groove",
+    "nombreAutor": "Avicii"
+  },
+  {
+    "id": 38,
+    "titulo": "Siempre Viviré",
+    "duracion": "3:51",
+    "letra": "Siempre viviré aunque el mundo se acabe\nMi música es el arma que todo lo sabe\nCon el canto y el ritmo venceré el dolor\nSiempre viviré con mi pueblo y mi amor\nLa salsa es mi alma y mi razón de ser",
+    "nombreAutor": "Celia Cruz"
+  },
+  {
+    "id": 39,
+    "titulo": "La Negra Tiene Tumbao",
+    "duracion": "4:01",
+    "letra": "La negra tiene tumbao y camina así\nMeneando las caderas al compás del son\nNadie como ella baila en este lugar\nLa negra tiene tumbao, hay que reconocer\nQue su sabor no tiene comparación",
+    "nombreAutor": "Celia Cruz"
+  },
+  {
+    "id": 40,
+    "titulo": "Quimbara",
+    "duracion": "3:18",
+    "letra": "Quimbara, quimbara, quma quimbambá\nLos tambores llaman a la orishas ya\nQuimbara, la tierra habla con su son\nAfricana fuerza de mi corazón\nQuimbara, ancestral y eterno canto",
+    "nombreAutor": "Celia Cruz"
+  },
+  {
+    "id": 41,
+    "titulo": "Bemba Colorá",
+    "duracion": "3:32",
+    "letra": "Ay, la bemba colorá\nQue me tiene loco y sin parar\nEsa boca que me vuelve a enamorar\nBemba colorá, cubana del solar\nCon su son me tiene que bailar",
+    "nombreAutor": "Celia Cruz"
+  },
+  {
+    "id": 42,
+    "titulo": "Azúcar Negra",
+    "duracion": "3:45",
+    "letra": "Azúcar negra, dulce y poderosa\nRitmo que endulza cualquier cosa\nAzúcar negra de mi tierra amada\nEn cada nota mi alma enamorada\nSabor de Cuba que no tiene igual",
+    "nombreAutor": "Celia Cruz"
+  },
+  {
+    "id": 43,
+    "titulo": "Guantanamera",
+    "duracion": "3:38",
+    "letra": "Guantanamera, guajira guantanamera\nYo soy un hombre sincero de donde crece la palma\nAntes de morirme quiero echar mis versos del alma\nGuantanamera, mi tierra, mi canción\nCuba en el corazón, siempre vivirá",
+    "nombreAutor": "Celia Cruz"
+  },
+  {
+    "id": 44,
+    "titulo": "El día de ayer...",
+    "duracion": "3:23",
+    "letra": "El día de ayer ya no vuelve más\nPero su recuerdo no puedo olvidar\nFue un día de salsa, de risa y de amor\nEl día de ayer quedó en el corazón\nHoy bailo en su honor con toda mi fe",
+    "nombreAutor": "Gladdys Pereira"
+  },
+  {
+    "id": 45,
+    "titulo": "Musica Para El Alma",
+    "duracion": "3:37",
+    "letra": "Música para el alma que necesita sanar\nRitmo afrohouse que te hace vibrar\nEl beat te lleva a otro lugar\nMúsica para el alma, déjate llevar\nQue la música cura lo que el tiempo no puede",
+    "nombreAutor": "Gladdys Pereira"
+  },
+  {
+    "id": 46,
+    "titulo": "Caribe",
+    "duracion": "3:18",
+    "letra": "Caribe, tierra de sol y de canción\nCaribe, donde nació mi corazón\nLas olas y el sabor de la salsa van\nCaribe, en tus playas quiero descansar\nMi sangre es caribeña, mi ritmo es el mar",
+    "nombreAutor": "Gladdys Pereira"
+  },
+  {
+    "id": 47,
+    "titulo": "Piano y Guitarra",
+    "duracion": "3:45",
+    "letra": "Piano y guitarra en la madrugada\nDos instrumentos, una sola llamada\nEl afrohouse mueve con su elegancia\nPiano y guitarra en perfecta distancia\nJuntos crean el alma de la noche",
+    "nombreAutor": "Gladdys Pereira"
+  },
+  {
+    "id": 48,
+    "titulo": "Edna, la reina del chocó",
+    "duracion": "3:31",
+    "letra": "Edna es la reina del Chocó\nCon su belleza y su sabor venció\nBaila la salsa como nadie más\nEdna del Chocó, ven a gozar\nRío, selva y ritmo en su canción",
+    "nombreAutor": "Gladdys Pereira"
+  },
+  {
+    "id": 49,
+    "titulo": "Salsa Para Bailar",
+    "duracion": "3:54",
+    "letra": "Esta es la salsa para bailar\nLa que te mueve sin poder parar\nSalsa para bailar con el alma\nSalsa para perder toda la calma\nY encontrarte a ti mismo en el ritmo",
+    "nombreAutor": "Gladdys Pereira"
+  },
+  {
+    "id": 50,
+    "titulo": "Se Armó La Moña En Carnaval",
+    "duracion": "4:58",
+    "letra": "Se armó la moña en carnaval\nTodo el mundo salió a gozar\nDisfraces, música y colorido\nSe armó la moña, ¡se armó!\nBarranquilla se viste de alegría",
+    "nombreAutor": "Joe Arroyo"
+  },
+  {
+    "id": 51,
+    "titulo": "La Rebelión",
+    "duracion": "4:47",
+    "letra": "Le dijeron a María la O que era fea\nY salió a bailar para que el mundo la vea\nLa rebelión no tiene color\nLa rebelión es pura, es salsa y amor\nQue baile el que quiera, que sienta el tambor",
+    "nombreAutor": "Joe Arroyo"
+  },
+  {
+    "id": 52,
+    "titulo": "En Barranquilla Me Quedo",
+    "duracion": "4:27",
+    "letra": "En Barranquilla me quedo, no me voy\nSu carnaval y su cumbia son mi voz\nEl río Grande y sus palmas me llaman\nEn Barranquilla me quedo, aquí mañana\nMi corazón es costeño y sabanero",
+    "nombreAutor": "Joe Arroyo"
+  },
+  {
+    "id": 53,
+    "titulo": "Tumbatecho",
+    "duracion": "4:14",
+    "letra": "Tumbatecho es el que manda en la pista\nCon su salsa dura no hay quien lo resista\nTumba el techo cuando empieza a tocar\nTumbatecho, rey del ritmo y el solar\nQue truene el barrio, que ruede el timbal",
+    "nombreAutor": "Joe Arroyo"
+  },
+  {
+    "id": 54,
+    "titulo": "A Mi Dios Todo Le Debo",
+    "duracion": "5:12",
+    "letra": "A mi Dios todo le debo lo que tengo y lo que soy\nSu gracia me ha sostenido desde ayer hasta hoy\nCon la salsa lo alabo, con el ritmo lo adoro\nA mi Dios todo le debo, el más grande de mis tesoros\nGracias Señor por tu amor eterno",
+    "nombreAutor": "Joe Arroyo"
+  },
+  {
+    "id": 55,
+    "titulo": "El Preso",
+    "duracion": "4:38",
+    "letra": "El preso número nueve tiene historia que contar\nDetrás de esas rejas vive su verdad\nLloró cuando el juez le leyó la condena\nEl preso canta su salsa aunque le duele la pena\nLibertad, su única oración",
+    "nombreAutor": "Joe Arroyo"
+  },
+  {
+    "id": 56,
+    "titulo": "Ain't Letting You Down",
+    "duracion": "4:21",
+    "letra": "I ain't letting you down no matter what they say\nThrough the storms and the rain I'm here to stay\nAin't letting you down, I'll fight through the night\nProgressively rising, chasing the light\nYou can count on me when it gets rough",
+    "nombreAutor": "Martin Garrix"
+  },
+  {
+    "id": 57,
+    "titulo": "Peace of Mind",
+    "duracion": "2:28",
+    "letra": "Peace of mind is all I need tonight\nLet the electronic waves wash over me\nPeace of mind, everything will be alright\nClose my eyes and let the music set me free\nIn the sound I find my peace",
+    "nombreAutor": "Martin Garrix"
+  },
+  {
+    "id": 58,
+    "titulo": "Our Time",
+    "duracion": "2:41",
+    "letra": "This is our time, tonight the world is ours\nUnder the neon lights and the dancing stars\nOur time, the music never ends\nOur time, with our closest friends\nLive every moment, this is our night",
+    "nombreAutor": "Martin Garrix"
+  },
+  {
+    "id": 59,
+    "titulo": "Inside Our Hearts",
+    "duracion": "3:54",
+    "letra": "Inside our hearts there's a fire burning still\nNo matter how far apart, love finds a way it will\nInside our hearts the music never dies\nA dance pop anthem reaching for the skies\nOur hearts beat together across the miles",
+    "nombreAutor": "Martin Garrix"
+  },
+  {
+    "id": 60,
+    "titulo": "Sleepless Nights",
+    "duracion": "3:00",
+    "letra": "Sleepless nights and restless dreams\nThe trance pulls me apart at the seams\nSleepless nights the music fills the air\nLost in frequencies beyond compare\nLet me drift into your trance tonight",
+    "nombreAutor": "Martin Garrix"
+  },
+  {
+    "id": 61,
+    "titulo": "Voodoo",
+    "duracion": "2:49",
+    "letra": "Voodoo, you cast a spell on me\nElectronic magic, setting spirits free\nVoodoo, the bassline is the curse\nEvery beat gets better or gets worse\nVoodoo, I'm under your control",
+    "nombreAutor": "Martin Garrix"
+  },
+  {
+    "id": 62,
+    "titulo": "Recess",
+    "duracion": "3:57",
+    "letra": "Recess, time to let the bass drop\nEverybody on the floor, don't stop\nRecess is when the dubstep hits\nThe woofer shakes, the crowd loses its wits\nLet the bass take over, just let go",
+    "nombreAutor": "Skrillex"
+  },
+  {
+    "id": 63,
+    "titulo": "Ragga Bomb",
+    "duracion": "4:28",
+    "letra": "Ragga bomb dropping from the sky\nDubstep fire burning way up high\nRagga bomb, the rave is going off\nBass so heavy, bass so rough\nRagga bomb, feel the explosion now",
+    "nombreAutor": "Skrillex"
+  },
+  {
+    "id": 64,
+    "titulo": "Coast Is Clear",
+    "duracion": "5:12",
+    "letra": "The coast is clear, no one watching now\nDrop the mic and show the crowd just how\nThe coast is clear, we moving through the night\nHip hop in the blood, everything's alright\nStay focused, keep moving, coast is clear",
+    "nombreAutor": "Skrillex"
+  },
+  {
+    "id": 65,
+    "titulo": "Stranger",
+    "duracion": "4:14",
+    "letra": "You're a stranger in a familiar place\nElectronic lights illuminate your face\nStranger, do you feel the current too\nSomething about this moment feels brand new\nStrangers becoming something more tonight",
+    "nombreAutor": "Skrillex"
+  },
+  {
+    "id": 66,
+    "titulo": "Try It Out",
+    "duracion": "4:01",
+    "letra": "Try it out, step up to the bass\nDubstep warrior, get in your place\nTry it out, the drop is coming hard\nEvery deck a battlefield, every DJ a guard\nTry it out, let the music win",
+    "nombreAutor": "Skrillex"
+  },
+  {
+    "id": 67,
+    "titulo": "Fire Away",
+    "duracion": "4:47",
+    "letra": "Fire away, say what's on your mind\nIndie hearts leaving doubt behind\nFire away, the melody is clear\nSing it loud so everyone can hear\nFire away, this is our indie anthem",
+    "nombreAutor": "Skrillex"
+  },
+  {
+    "id": 68,
+    "titulo": "Cumbiana",
+    "duracion": "3:54",
+    "letra": "Cumbiana, tierra de mi corazón\nDonde nació el vallenato y su canción\nCumbiana, con tu acordeón y tu caja\nNadie en el mundo tu sabor trabaja\nCumbiana, Colombia vive en ti",
+    "nombreAutor": "Carlos Vives"
+  },
+  {
+    "id": 69,
+    "titulo": "Más Que Todo",
+    "duracion": "3:38",
+    "letra": "Te quiero más que todo en este mundo\nMás que el vallenato profundo\nMás que el acordeón que le canta al amor\nTe quiero más que todo, eres mi razón\nMás que la lluvia y el amanecer",
+    "nombreAutor": "Carlos Vives"
+  },
+  {
+    "id": 70,
+    "titulo": "Canción Bonita",
+    "duracion": "4:01",
+    "letra": "Esta es la canción bonita que te hice\nCon la cumbia y el amor que siempre existe\nCanción bonita para ti, mi amor\nHecha con la cumbia y el mejor sabor\nBonita como tú, sencilla como el mar",
+    "nombreAutor": "Carlos Vives"
+  },
+  {
+    "id": 71,
+    "titulo": "Déjame Entrar",
+    "duracion": "3:45",
+    "letra": "Déjame entrar a tu corazón\nCon este vallenato y mi canción\nAbre la puerta que traigo amor\nDéjame entrar, soy trovador\nMi acordeón te hablará de lo que siento",
+    "nombreAutor": "Carlos Vives"
+  },
+  {
+    "id": 72,
+    "titulo": "La Bicicleta",
+    "duracion": "3:32",
+    "letra": "En la bicicleta voy a buscarte\nPor los caminos que nos vieron amarte\nCumbia y bicicleta, ritmo de los dos\nEn la bicicleta, tú y yo somos uno\nPedaleo al ritmo de tu corazón",
+    "nombreAutor": "Carlos Vives"
+  },
+  {
+    "id": 73,
+    "titulo": "Tambores Y Cantos",
+    "duracion": "5:12",
+    "letra": "Tambores y cantos en la noche ancestral\nVoces que llegan desde el litoral\nLa memoria viva de un pueblo que canta\nTambores y cantos, raíz que levanta\nFolclor colombiano, eterno y leal",
+    "nombreAutor": "Toto La Momposina"
+  },
+  {
+    "id": 74,
+    "titulo": "La Verdad",
+    "duracion": "4:47",
+    "letra": "La verdad es que te amo sin remedio\nLa cumbia lo dice sin rodeo\nLa verdad suena a acordeón y a palma\nLa verdad que tengo grabada en el alma\nCumbia sincera que no miente jamás",
+    "nombreAutor": "Toto La Momposina"
+  },
+  {
+    "id": 75,
+    "titulo": "El Pescador",
+    "duracion": "4:28",
+    "letra": "El pescador madruga antes que el sol\nTiende sus redes con amor y dolor\nEl río le da su sustento y su canción\nEl pescador vive libre en su labor\nFolclor de Colombia en cada amanecer",
+    "nombreAutor": "Toto La Momposina"
+  },
+  {
+    "id": 76,
+    "titulo": "La Llorona Loca",
+    "duracion": "4:14",
+    "letra": "La llorona loca recorre el camino\nLlorando su amor y su triste destino\nLa cumbia la lleva de pueblo en pueblo\nLa llorona loca, su historia es el pueblo\nQue llora y que canta sin parar jamás",
+    "nombreAutor": "Toto La Momposina"
+  },
+  {
+    "id": 77,
+    "titulo": "Gaita de las Flores",
+    "duracion": "4:58",
+    "letra": "La gaita suena entre flores y palmas\nEl viento la lleva, le habla a las almas\nGaita de las flores, canción del Caribe\nMúsica que el tiempo no logra que olvide\nFolclor que florece en cada corazón",
+    "nombreAutor": "Toto La Momposina"
+  },
+  {
+    "id": 78,
+    "titulo": "Son de Negros",
+    "duracion": "4:01",
+    "letra": "El son de negros viene del Congo real\nAfricana herencia que nunca va a parar\nTambor y marimba, voz ancestral\nEl son de negros es folclor universal\nColombia baila con su raíz más fiel",
+    "nombreAutor": "Toto La Momposina"
+  },
+  {
+    "id": 79,
+    "titulo": "Las 3 Guaracheras",
+    "duracion": "3:38",
+    "letra": "Tres guaracheras se juntaron a cantar\nY el barrio entero salió a bailar\nUna, dos, tres, la guaracha va\nLas tres guaracheras no paran de gozar\nJuntas son un huracán de ritmo y sal",
+    "nombreAutor": "Datty"
+  },
+  {
+    "id": 80,
+    "titulo": "La Noche es Nuestra",
+    "duracion": "3:23",
+    "letra": "La noche es nuestra, no hay quien la quite\nEl merengue suena y nadie lo evite\nLa noche es nuestra, la pista es nuestra también\nBailemos juntos, que todo está bien\nLa noche nos pertenece a ti y a mí",
+    "nombreAutor": "Datty"
+  },
+  {
+    "id": 81,
+    "titulo": "Ritmo Caliente",
+    "duracion": "3:45",
+    "letra": "Ritmo caliente que quema la pista\nSalsa que sube, que todo conquista\nRitmo caliente, el cuerpo sudando\nRitmo caliente, el alma gozando\nQue no se apague este fuego jamás",
+    "nombreAutor": "Datty"
+  },
+  {
+    "id": 82,
+    "titulo": "Sin Parar",
+    "duracion": "3:17",
+    "letra": "Sin parar, sin parar, la guaracha va\nSin parar, el ritmo no descansará\nToda la noche vamos a gozar\nSin parar, sin parar, sin parar\nHasta que el sol nos venga a despertar",
+    "nombreAutor": "Berenice"
+  }
 ]
