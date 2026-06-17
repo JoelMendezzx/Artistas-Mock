@@ -2,79 +2,105 @@
   {
     "id": 1,
     "nombre": "Marc Anthony",
-    "genero": "Salsa",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MarcAnthony.jpg"
+    "generoMusical": "Salsa",
+    "paisOrigen": "Estados Unidos",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MarcAnthony.jpg",
+    "biografia": "Marco Antonio Muñiz, conocido como Marc Anthony, es uno de los salseros más influyentes del mundo. Nacido en Nueva York de padres puertorriqueños, conquistó el mercado latino e internacional con éxitos como 'Vivir Mi Vida' y 'Valió la Pena'."
   },
   {
     "id": 2,
     "nombre": "Daft Punk",
-    "genero": "Electronica",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/DaftPunk.jpg"
+    "generoMusical": "Electronica",
+    "paisOrigen": "Francia",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/DaftPunk.jpg",
+    "biografia": "Dúo francés de música electrónica formado por Thomas Bangalter y Guy-Manuel de Homem-Christo. Revolucionaron la música house con álbumes icónicos como 'Random Access Memories' y 'Discovery', siendo reconocidos por sus cascos robóticos."
   },
   {
     "id": 3,
     "nombre": "Hector Lavoe",
-    "genero": "Salsa",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/HectorLavoe.jpg"
+    "generoMusical": "Salsa",
+    "paisOrigen": "Puerto Rico",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/HectorLavoe.jpg",
+    "biografia": "Héctor Juan Pérez Martínez, 'El Cantante de los Cantantes', fue una de las voces más emblemáticas de la salsa. Nacido en Ponce, Puerto Rico, su colaboración con Willie Colón y el sello Fania lo convirtieron en una leyenda inmortal del género."
   },
   {
     "id": 4,
     "nombre": "Avicii",
-    "genero": "Electronica",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Avicii.jpg"
+    "generoMusical": "Electronica",
+    "paisOrigen": "Suecia",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Avicii.jpg",
+    "biografia": "Tim Bergling, conocido mundialmente como Avicii, fue un DJ y productor sueco que redefinió la música electrónica con temas como 'Wake Me Up' y 'Levels'. Su fusión de EDM con country y folk lo diferenció de todos sus contemporáneos."
   },
   {
     "id": 5,
     "nombre": "Celia Cruz",
-    "genero": "Salsa",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CeliaCruz.jpg"
+    "generoMusical": "Salsa",
+    "paisOrigen": "Cuba",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CeliaCruz.jpg",
+    "biografia": "Úrsula Hilaria Celia de la Caridad Cruz Alfonso, conocida como 'La Reina de la Salsa', fue la voz femenina más importante de la música tropical latina. Su inconfundible grito '¡Azúcar!' y su energía desbordante la convirtieron en un ícono cultural mundial."
   },
   {
     "id": 6,
     "nombre": "Joe Arroyo",
-    "genero": "Salsa",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/JoeArroyo.jpg"
+    "generoMusical": "Salsa",
+    "paisOrigen": "Colombia",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/JoeArroyo.jpg",
+    "biografia": "Álvaro José Arroyo González, 'El Joe', fue el rey indiscutible de la salsa colombiana. Nacido en Cartagena, fusionó la salsa con ritmos afrocaribeños y creó un estilo único. Su canción 'La Rebelión' es considerada un himno de la identidad afrocolombiana."
   },
   {
     "id": 7,
     "nombre": "Martin Garrix",
-    "genero": "Electronica",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MartinGarrix.jpg"
+    "generoMusical": "Electronica",
+    "paisOrigen": "Países Bajos",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MartinGarrix.jpg",
+    "biografia": "Martijn Gerard Garritsen, mejor conocido como Martin Garrix, es uno de los DJs más jóvenes en alcanzar la cima del mundo EDM. Su tema 'Animals', lanzado cuando tenía apenas 17 años, lo catapultó a la fama mundial y lo consolidó como referente del progressive house."
   },
   {
     "id": 8,
     "nombre": "Skrillex",
-    "genero": "Electronica",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Skrillex.jpg"
+    "generoMusical": "Electronica",
+    "paisOrigen": "Estados Unidos",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Skrillex.jpg",
+    "biografia": "Sonny John Moore, conocido como Skrillex, es el pionero del dubstep moderno. Nacido en Los Ángeles, California, revolucionó la música electrónica con sonidos agresivos y distorsionados. Ha ganado múltiples premios Grammy y colaborado con artistas de talla mundial."
   },
   {
     "id": 9,
     "nombre": "Toto La Momposina",
-    "genero": "Folclor",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/TotoMomposina.jpg"
+    "generoMusical": "Folclor",
+    "paisOrigen": "Colombia",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/TotoMomposina.jpg",
+    "biografia": "Sonia Bazanta Vides, conocida como Totó la Momposina, es la embajadora del folclor costeño colombiano. Nacida en Talaigua Noche, Bolívar, ha dedicado su vida a preservar y difundir los ritmos afrocolombianos como la cumbia, el porro y el mapalé en escenarios internacionales."
   },
   {
     "id": 10,
     "nombre": "Carlos Vives",
-    "genero": "Vallenato",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CarlosVives.jpg"
+    "generoMusical": "Vallenato",
+    "paisOrigen": "Colombia",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CarlosVives.jpg",
+    "biografia": "Carlos Alberto Vives Restrepo es el artista que modernizó el vallenato y lo llevó al mundo entero. Nacido en Santa Marta, Colombia, fusionó el vallenato tradicional con el rock y el pop, ganando múltiples Grammy Latinos y posicionando la música colombiana en el mapa global."
   },
   {
     "id": 11,
     "nombre": "Datty",
-    "genero": "Merengue",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg"
+    "generoMusical": "Merengue",
+    "paisOrigen": "República Dominicana",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg",
+    "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica."
   },
   {
     "id": 12,
     "nombre": "Berenice",
-    "genero": "Guaracha",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg"
+    "generoMusical": "Guaracha",
+    "paisOrigen": "Cuba",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg",
+    "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina."
   },
   {
     "id": 13,
     "nombre": "Gladdys Pereira",
-    "genero": "Salsa",
-    "foto": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/BlackCoffe.jpg"
+    "generoMusical": "Salsa",
+    "paisOrigen": "Venezuela",
+    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/BlackCoffe.jpg",
+    "biografia": "Gladdys Pereira es una reconocida cantante venezolana de salsa, admirada por su voz cálida y su presencia escénica. Ha recorrido los principales escenarios de Venezuela y Colombia, convirtiéndose en un referente femenino de la salsa tropical en el norte de Sudamérica."
   }
 ]
