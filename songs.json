@@ -1,10 +1,26 @@
 [
   {
-    "id": 1,
-    "titulo": "Pa'lla Voy",
-    "duracion": "4:06",
-    "letra": "Pa'lla voy, con el alma encendida\nBuscando el ritmo de mi vida\nLa salsa me llama, no puedo parar\nMi corazón quiere bailar\nPa'lla voy, sin mirar atrás\nEl sabor me lleva al más allá",
-    "nombreAutor": "Marc Anthony",
-    "fotoCancion": "https://picsum.photos/seed/pallávoy/800/800"
+    "id": 83,
+    "titulo": "Fuego en los Pies",
+    "duracion": "3:29",
+    "letra": "Fuego en los pies cuando suena la guaracha\nNo hay quien me pare, no hay quien me atrape\nEl barrio me llama, la pista me espera\nFuego en los pies, toda la noche entera\nQue arda el ritmo hasta el amanecer",
+    "nombreAutor": "Berenice",
+    "fotoCancion": "https://picsum.photos/seed/fuegoenpiés/800/800"
+  },
+  {
+    "id": 84,
+    "titulo": "Sabor de Calle",
+    "duracion": "3:52",
+    "letra": "Sabor de calle que no se compra ni se vende\nEs el ritmo del pueblo que siempre se enciende\nLa guaracha nació entre el asfalto y el son\nSabor de calle que llega al corazón\nEste sabor no lo cambia nadie jamás",
+    "nombreAutor": "Berenice",
+    "fotoCancion": "https://picsum.photos/seed/sabordecalle83/800/800"
+  },
+  {
+    "id": 85,
+    "titulo": "Madrugada Guarachera",
+    "duracion": "4:03",
+    "letra": "A las tres de la mañana sigue el son\nLa madrugada guarachera no tiene fin\nLos que quedan en la pista son los buenos\nMadrugada guarachera, ritmos plenos\nQue el alba nos encuentre todavía bailando",
+    "nombreAutor": "Berenice",
+    "fotoCancion": "https://picsum.photos/seed/madrugadaguara/800/800"
   }
 ]
