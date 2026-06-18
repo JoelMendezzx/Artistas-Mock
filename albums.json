@@ -186,29 +186,6 @@
   },
   {
     "id": 9,
-    "titulo": "Se Armó La Moña En Carnaval",
-    "anioLanzamiento": 1988,
-    "generoMusical": "Salsa",
-    "portadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumJoe(SeArmoLaMonaEnCarnaval).jpg",
-    "artista": {
-      "id": 6,
-      "nombre": "Joe Arroyo",
-      "generoMusical": "Salsa",
-      "paisOrigen": "Colombia",
-      "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/JoeArroyo.jpg",
-      "biografia": "Álvaro José Arroyo González, 'El Joe', fue el rey indiscutible de la salsa colombiana. Nacido en Cartagena, fusionó la salsa con ritmos afrocaribeños y creó un estilo único. Su canción 'La Rebelión' es considerada un himno de la identidad afrocolombiana."
-    },
-    "canciones": [
-      { "id": 50, "nombreAutor": "Joe Arroyo", "titulo": "Se Armó La Moña En Carnaval", "duracion": "4:58", "fotoCancion": "https://picsum.photos/seed/semononacarnaval/800/800", "letra": "Se armó la moña en carnaval\nTodo el mundo salió a gozar\nDisfraces, música y colorido\nSe armó la moña, ¡se armó!\nBarranquilla se viste de alegría" },
-      { "id": 51, "nombreAutor": "Joe Arroyo", "titulo": "La Rebelión", "duracion": "4:47", "fotoCancion": "https://picsum.photos/seed/larebelion/800/800", "letra": "Le dijeron a María la O que era fea\nY salió a bailar para que el mundo la vea\nLa rebelión no tiene color\nLa rebelión es pura, es salsa y amor\nQue baile el que quiera, que sienta el tambor" },
-      { "id": 52, "nombreAutor": "Joe Arroyo", "titulo": "En Barranquilla Me Quedo", "duracion": "4:27", "fotoCancion": "https://picsum.photos/seed/barranquillamequedo/800/800", "letra": "En Barranquilla me quedo, no me voy\nSu carnaval y su cumbia son mi voz\nEl río Grande y sus palmas me llaman\nEn Barranquilla me quedo, aquí mañana\nMi corazón es costeño y sabanero" },
-      { "id": 53, "nombreAutor": "Joe Arroyo", "titulo": "Tumbatecho", "duracion": "4:14", "fotoCancion": "https://picsum.photos/seed/tumbatecho/800/800", "letra": "Tumbatecho es el que manda en la pista\nCon su salsa dura no hay quien lo resista\nTumba el techo cuando empieza a tocar\nTumbatecho, rey del ritmo y el solar\nQue truene el barrio, que ruede el timbal" },
-      { "id": 54, "nombreAutor": "Joe Arroyo", "titulo": "A Mi Dios Todo Le Debo", "duracion": "5:12", "fotoCancion": "https://picsum.photos/seed/amiodiosledeebo/800/800", "letra": "A mi Dios todo le debo lo que tengo y lo que soy\nSu gracia me ha sostenido desde ayer hasta hoy\nCon la salsa lo alabo, con el ritmo lo adoro\nA mi Dios todo le debo, el más grande de mis tesoros\nGracias Señor por tu amor eterno" },
-      { "id": 55, "nombreAutor": "Joe Arroyo", "titulo": "El Preso", "duracion": "4:38", "fotoCancion": "https://picsum.photos/seed/elpresoarroyo/800/800", "letra": "El preso número nueve tiene historia que contar\nDetrás de esas rejas vive su verdad\nLloró cuando el juez le leyó la condena\nEl preso canta su salsa aunque le duele la pena\nLibertad, su única oración" }
-    ]
-  },
-  {
-    "id": 10,
     "titulo": "Origo",
     "anioLanzamiento": 2019,
     "generoMusical": "Electronica",
@@ -231,7 +208,7 @@
     ]
   },
   {
-    "id": 11,
+    "id": 10,
     "titulo": "Recess",
     "anioLanzamiento": 2014,
     "generoMusical": "Electronica",
@@ -254,7 +231,7 @@
     ]
   },
   {
-    "id": 12,
+    "id": 11,
     "titulo": "Cumbiana",
     "anioLanzamiento": 2020,
     "generoMusical": "Vallenato",
@@ -276,7 +253,7 @@
     ]
   },
   {
-    "id": 13,
+    "id": 12,
     "titulo": "Tambores Y Cantos",
     "anioLanzamiento": 1993,
     "generoMusical": "Folclor",
