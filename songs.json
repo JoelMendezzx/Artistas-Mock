@@ -392,54 +392,6 @@
     "fotoCancion": "https://picsum.photos/seed/salsaparabailar/800/800"
   },
   {
-    "id": 50,
-    "titulo": "Se Armó La Moña En Carnaval",
-    "duracion": "4:58",
-    "letra": "Se armó la moña en carnaval\nTodo el mundo salió a gozar\nDisfraces, música y colorido\nSe armó la moña, ¡se armó!\nBarranquilla se viste de alegría",
-    "nombreAutor": "Joe Arroyo",
-    "fotoCancion": "https://picsum.photos/seed/semononacarnaval/800/800"
-  },
-  {
-    "id": 51,
-    "titulo": "La Rebelión",
-    "duracion": "4:47",
-    "letra": "Le dijeron a María la O que era fea\nY salió a bailar para que el mundo la vea\nLa rebelión no tiene color\nLa rebelión es pura, es salsa y amor\nQue baile el que quiera, que sienta el tambor",
-    "nombreAutor": "Joe Arroyo",
-    "fotoCancion": "https://picsum.photos/seed/larebelion/800/800"
-  },
-  {
-    "id": 52,
-    "titulo": "En Barranquilla Me Quedo",
-    "duracion": "4:27",
-    "letra": "En Barranquilla me quedo, no me voy\nSu carnaval y su cumbia son mi voz\nEl río Grande y sus palmas me llaman\nEn Barranquilla me quedo, aquí mañana\nMi corazón es costeño y sabanero",
-    "nombreAutor": "Joe Arroyo",
-    "fotoCancion": "https://picsum.photos/seed/barranquillamequedo/800/800"
-  },
-  {
-    "id": 53,
-    "titulo": "Tumbatecho",
-    "duracion": "4:14",
-    "letra": "Tumbatecho es el que manda en la pista\nCon su salsa dura no hay quien lo resista\nTumba el techo cuando empieza a tocar\nTumbatecho, rey del ritmo y el solar\nQue truene el barrio, que ruede el timbal",
-    "nombreAutor": "Joe Arroyo",
-    "fotoCancion": "https://picsum.photos/seed/tumbatecho/800/800"
-  },
-  {
-    "id": 54,
-    "titulo": "A Mi Dios Todo Le Debo",
-    "duracion": "5:12",
-    "letra": "A mi Dios todo le debo lo que tengo y lo que soy\nSu gracia me ha sostenido desde ayer hasta hoy\nCon la salsa lo alabo, con el ritmo lo adoro\nA mi Dios todo le debo, el más grande de mis tesoros\nGracias Señor por tu amor eterno",
-    "nombreAutor": "Joe Arroyo",
-    "fotoCancion": "https://picsum.photos/seed/amiodiosledeebo/800/800"
-  },
-  {
-    "id": 55,
-    "titulo": "El Preso",
-    "duracion": "4:38",
-    "letra": "El preso número nueve tiene historia que contar\nDetrás de esas rejas vive su verdad\nLloró cuando el juez le leyó la condena\nEl preso canta su salsa aunque le duele la pena\nLibertad, su única oración",
-    "nombreAutor": "Joe Arroyo",
-    "fotoCancion": "https://picsum.photos/seed/elpresoarroyo/800/800"
-  },
-  {
     "id": 56,
     "titulo": "Ain't Letting You Down",
     "duracion": "4:21",
