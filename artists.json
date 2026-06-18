@@ -41,14 +41,6 @@
   },
   {
     "id": 6,
-    "nombre": "Joe Arroyo",
-    "generoMusical": "Salsa",
-    "paisOrigen": "Colombia",
-    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/JoeArroyo.jpg",
-    "biografia": "Álvaro José Arroyo González, 'El Joe', fue el rey indiscutible de la salsa colombiana. Nacido en Cartagena, fusionó la salsa con ritmos afrocaribeños y creó un estilo único. Su canción 'La Rebelión' es considerada un himno de la identidad afrocolombiana."
-  },
-  {
-    "id": 7,
     "nombre": "Martin Garrix",
     "generoMusical": "Electronica",
     "paisOrigen": "Países Bajos",
@@ -56,7 +48,7 @@
     "biografia": "Martijn Gerard Garritsen, mejor conocido como Martin Garrix, es uno de los DJs más jóvenes en alcanzar la cima del mundo EDM. Su tema 'Animals', lanzado cuando tenía apenas 17 años, lo catapultó a la fama mundial y lo consolidó como referente del progressive house."
   },
   {
-    "id": 8,
+    "id": 7,
     "nombre": "Skrillex",
     "generoMusical": "Electronica",
     "paisOrigen": "Estados Unidos",
@@ -64,7 +56,7 @@
     "biografia": "Sonny John Moore, conocido como Skrillex, es el pionero del dubstep moderno. Nacido en Los Ángeles, California, revolucionó la música electrónica con sonidos agresivos y distorsionados. Ha ganado múltiples premios Grammy y colaborado con artistas de talla mundial."
   },
   {
-    "id": 9,
+    "id": 8,
     "nombre": "Toto La Momposina",
     "generoMusical": "Folclor",
     "paisOrigen": "Colombia",
@@ -72,7 +64,7 @@
     "biografia": "Sonia Bazanta Vides, conocida como Totó la Momposina, es la embajadora del folclor costeño colombiano. Nacida en Talaigua Noche, Bolívar, ha dedicado su vida a preservar y difundir los ritmos afrocolombianos como la cumbia, el porro y el mapalé en escenarios internacionales."
   },
   {
-    "id": 10,
+    "id": 9,
     "nombre": "Carlos Vives",
     "generoMusical": "Vallenato",
     "paisOrigen": "Colombia",
@@ -80,7 +72,7 @@
     "biografia": "Carlos Alberto Vives Restrepo es el artista que modernizó el vallenato y lo llevó al mundo entero. Nacido en Santa Marta, Colombia, fusionó el vallenato tradicional con el rock y el pop, ganando múltiples Grammy Latinos y posicionando la música colombiana en el mapa global."
   },
   {
-    "id": 11,
+    "id": 10,
     "nombre": "Datty",
     "generoMusical": "Merengue",
     "paisOrigen": "República Dominicana",
@@ -88,7 +80,7 @@
     "biografia": "Datty es una intérprete de merengue nacida en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en una de las artistas más queridas de las fiestas populares del Caribe y Latinoamérica."
   },
   {
-    "id": 12,
+    "id": 11,
     "nombre": "Berenice",
     "generoMusical": "Guaracha",
     "paisOrigen": "Cuba",
@@ -96,7 +88,7 @@
     "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina."
   },
   {
-    "id": 13,
+    "id": 12,
     "nombre": "Gladdys Pereira",
     "generoMusical": "Salsa",
     "paisOrigen": "Venezuela",
