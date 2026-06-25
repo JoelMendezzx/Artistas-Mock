@@ -2,10 +2,12 @@
   {
     "id": 1,
     "nombre": "Marc Anthony",
-    "generoMusical": "Salsa",
+    "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MarcAnthony.jpg",
     "paisOrigen": "Estados Unidos",
-    "fotoUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MarcAnthony.jpg",
     "biografia": "Marco Antonio Muñoz, conocido como Marc Anthony, es uno de los salseros más influyentes del mundo. Nacido en Nueva York de padres puertorriqueños, conquistó el mercado latino e internacional con éxitos como 'Vivir Mi Vida' y 'Valió la Pena'."
+    "fechaNacimiento" : "1968-09-16",
+    "canciones" : [] lista de canciones, cada cancion  es de estructura: id, titulo, duracion, genero, fotoPortadaUrl, letra y fechaLanzamiento tipo "2020-10-10",
+    "albumes" : [] lista de albumes, cada album tiene la estructura: id, titulo, fotoPortadaUrl, y fechaLanzamiento tipo "2020-12-10"
   },
   {
     "id": 2,
