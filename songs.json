@@ -1815,14 +1815,7 @@
       "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica.",
       "fechaNacimiento": "1985-03-22"
     },
-    "albumes": [
-      {
-        "id": 2,
-        "titulo": "La Reina Del Merengue",
-        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
-        "fechaLanzamiento": "2020-06-15"
-      }
-    ]
+    "albumes": []
   },
   {
     "id": 80,
@@ -1840,14 +1833,7 @@
       "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica.",
       "fechaNacimiento": "1985-03-22"
     },
-    "albumes": [
-      {
-        "id": 2,
-        "titulo": "La Reina Del Merengue",
-        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
-        "fechaLanzamiento": "2020-06-15"
-      }
-    ]
+    "albumes": []
   },
   {
     "id": 81,
@@ -1865,14 +1851,7 @@
       "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica.",
       "fechaNacimiento": "1985-03-22"
     },
-    "albumes": [
-      {
-        "id": 2,
-        "titulo": "La Reina Del Merengue",
-        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
-        "fechaLanzamiento": "2020-06-15"
-      }
-    ]
+    "albumes": []
   },
   {
     "id": 82,
@@ -1890,14 +1869,7 @@
       "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
       "fechaNacimiento": "1990-05-14"
     },
-    "albumes": [
-      {
-        "id": 5,
-        "titulo": "Velocidad Máxima",
-        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
-        "fechaLanzamiento": "2019-08-20"
-      }
-    ]
+    "albumes": []
   },
   {
     "id": 83,
@@ -1915,14 +1887,7 @@
       "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
       "fechaNacimiento": "1990-05-14"
     },
-    "albumes": [
-      {
-        "id": 5,
-        "titulo": "Velocidad Máxima",
-        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
-        "fechaLanzamiento": "2019-08-20"
-      }
-    ]
+    "albumes": []
   },
   {
     "id": 84,
@@ -1940,14 +1905,7 @@
       "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
       "fechaNacimiento": "1990-05-14"
     },
-    "albumes": [
-      {
-        "id": 5,
-        "titulo": "Velocidad Máxima",
-        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
-        "fechaLanzamiento": "2019-08-20"
-      }
-    ]
+    "albumes": []
   },
   {
     "id": 85,
@@ -1965,13 +1923,6 @@
       "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
       "fechaNacimiento": "1990-05-14"
     },
-    "albumes": [
-      {
-        "id": 5,
-        "titulo": "Velocidad Máxima",
-        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
-        "fechaLanzamiento": "2019-08-20"
-      }
-    ]
+    "albumes": []
   }
 ]
