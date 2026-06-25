@@ -3,632 +3,1975 @@
     "id": 1,
     "titulo": "Pa'lla Voy",
     "duracion": "4:06",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/pallávoy/800/800",
     "letra": "Pa'lla voy, con el alma encendida\nBuscando el ritmo de mi vida\nLa salsa me llama, no puedo parar\nMi corazón quiere bailar\nPa'lla voy, sin mirar atrás\nEl sabor me lleva al más allá",
-    "nombreAutor": "Marc Anthony",
-    "fotoCancion": "https://picsum.photos/seed/pallávoy/800/800"
+    "fechaLanzamiento": "2023-09-12",
+    "artista": {
+      "id": 1,
+      "nombre": "Marc Anthony",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MarcAnthony.jpg",
+      "paisOrigen": "Estados Unidos",
+      "biografia": "Marco Antonio Muñiz, conocido como Marc Anthony, es uno de los salseros más influyentes del mundo. Nacido en Nueva York de padres puertorriqueños, conquistó el mercado latino e internacional con éxitos como 'Vivir Mi Vida' y 'Valió la Pena'.",
+      "fechaNacimiento": "1968-09-16"
+    },
+    "albumes": [
+      {
+        "id": 1,
+        "titulo": "Pa'lla Voy",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMarc(Pallavoy).jpg",
+        "fechaLanzamiento": "2023-10-12"
+      }
+    ]
   },
   {
     "id": 2,
     "titulo": "Yo Le Mentí",
     "duracion": "4:18",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/yolementí/800/800",
     "letra": "Yo le mentí cuando dije que no la amaba\nYo le mentí cuando fingí que todo acababa\nEn el silencio de la noche la recuerdo\nY en cada lágrima que cae yo comprendo\nQue el amor que perdí no regresa más",
-    "nombreAutor": "Marc Anthony",
-    "fotoCancion": "https://picsum.photos/seed/yolementí/800/800"
+    "fechaLanzamiento": "2023-07-12",
+    "artista": {
+      "id": 1,
+      "nombre": "Marc Anthony",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MarcAnthony.jpg",
+      "paisOrigen": "Estados Unidos",
+      "biografia": "Marco Antonio Muñiz, conocido como Marc Anthony, es uno de los salseros más influyentes del mundo. Nacido en Nueva York de padres puertorriqueños, conquistó el mercado latino e internacional con éxitos como 'Vivir Mi Vida' y 'Valió la Pena'.",
+      "fechaNacimiento": "1968-09-16"
+    },
+    "albumes": [
+      {
+        "id": 1,
+        "titulo": "Pa'lla Voy",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMarc(Pallavoy).jpg",
+        "fechaLanzamiento": "2023-10-12"
+      }
+    ]
   },
   {
     "id": 3,
     "titulo": "No Se Quita",
     "duracion": "3:51",
+    "genero": "Bachata",
+    "fotoPortadaUrl": "https://picsum.photos/seed/nosequita/800/800",
     "letra": "Esto no se quita con el tiempo\nEste sabor que llevo en el pecho\nLa salsa es fuego, es vida, es pasión\nY no se quita de mi corazón\nBailando sigo, no me voy a detener",
-    "nombreAutor": "Marc Anthony",
-    "fotoCancion": "https://picsum.photos/seed/nosequita/800/800"
+    "fechaLanzamiento": "2023-10-10",
+    "artista": {
+      "id": 1,
+      "nombre": "Marc Anthony",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MarcAnthony.jpg",
+      "paisOrigen": "Estados Unidos",
+      "biografia": "Marco Antonio Muñiz, conocido como Marc Anthony, es uno de los salseros más influyentes del mundo. Nacido en Nueva York de padres puertorriqueños, conquistó el mercado latino e internacional con éxitos como 'Vivir Mi Vida' y 'Valió la Pena'.",
+      "fechaNacimiento": "1968-09-16"
+    },
+    "albumes": [
+      {
+        "id": 1,
+        "titulo": "Pa'lla Voy",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMarc(Pallavoy).jpg",
+        "fechaLanzamiento": "2023-10-12"
+      }
+    ]
   },
   {
     "id": 4,
     "titulo": "Nada de Nada",
     "duracion": "3:39",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/nadadenada/800/800",
     "letra": "Sin ti no tengo nada de nada\nMi mundo se apagó cuando te fuiste\nNada de nada vale sin tu amor\nSolo queda el eco de tu voz\nVuelve, que sin ti no soy nada",
-    "nombreAutor": "Marc Anthony",
-    "fotoCancion": "https://picsum.photos/seed/nadadenada/800/800"
+    "fechaLanzamiento": "2023-10-11",
+    "artista": {
+      "id": 1,
+      "nombre": "Marc Anthony",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MarcAnthony.jpg",
+      "paisOrigen": "Estados Unidos",
+      "biografia": "Marco Antonio Muñiz, conocido como Marc Anthony, es uno de los salseros más influyentes del mundo. Nacido en Nueva York de padres puertorriqueños, conquistó el mercado latino e internacional con éxitos como 'Vivir Mi Vida' y 'Valió la Pena'.",
+      "fechaNacimiento": "1968-09-16"
+    },
+    "albumes": [
+      {
+        "id": 1,
+        "titulo": "Pa'lla Voy",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMarc(Pallavoy).jpg",
+        "fechaLanzamiento": "2023-10-12"
+      }
+    ]
   },
   {
     "id": 5,
     "titulo": "Mala",
     "duracion": "3:48",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/malacancion/800/800",
     "letra": "Dicen que eres mala, pero a mí me encanta\nCon ese sabor que el barrio levanta\nMala para el mundo, buena para mí\nDesde que te vi no puedo resistir\nEres mala, mala, pero qué rica eres así",
-    "nombreAutor": "Marc Anthony",
-    "fotoCancion": "https://picsum.photos/seed/malacancion/800/800"
+    "fechaLanzamiento": "2023-10-12",
+    "artista": {
+      "id": 1,
+      "nombre": "Marc Anthony",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MarcAnthony.jpg",
+      "paisOrigen": "Estados Unidos",
+      "biografia": "Marco Antonio Muñiz, conocido como Marc Anthony, es uno de los salseros más influyentes del mundo. Nacido en Nueva York de padres puertorriqueños, conquistó el mercado latino e internacional con éxitos como 'Vivir Mi Vida' y 'Valió la Pena'.",
+      "fechaNacimiento": "1968-09-16"
+    },
+    "albumes": [
+      {
+        "id": 1,
+        "titulo": "Pa'lla Voy",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMarc(Pallavoy).jpg",
+        "fechaLanzamiento": "2023-10-12"
+      }
+    ]
   },
   {
     "id": 6,
     "titulo": "El Que Te Amaba",
     "duracion": "4:05",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/elqueteamaba/800/800",
     "letra": "El que te amaba con el alma entera\nSe fue una tarde de lluvia y quimera\nEse que lloraba en silencio tu nombre\nYa no existe, lo mató el desamor\nEl que te amaba ya no está aquí",
-    "nombreAutor": "Marc Anthony",
-    "fotoCancion": "https://picsum.photos/seed/elqueteamaba/800/800"
+    "fechaLanzamiento": "2023-01-02",
+    "artista": {
+      "id": 1,
+      "nombre": "Marc Anthony",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MarcAnthony.jpg",
+      "paisOrigen": "Estados Unidos",
+      "biografia": "Marco Antonio Muñiz, conocido como Marc Anthony, es uno de los salseros más influyentes del mundo. Nacido en Nueva York de padres puertorriqueños, conquistó el mercado latino e internacional con éxitos como 'Vivir Mi Vida' y 'Valió la Pena'.",
+      "fechaNacimiento": "1968-09-16"
+    },
+    "albumes": [
+      {
+        "id": 1,
+        "titulo": "Pa'lla Voy",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMarc(Pallavoy).jpg",
+        "fechaLanzamiento": "2023-10-12"
+      }
+    ]
   },
   {
     "id": 7,
     "titulo": "La Reina Del Merengue",
     "duracion": "3:34",
+    "genero": "Merengue",
+    "fotoPortadaUrl": "https://picsum.photos/seed/reinamerengue/800/800",
     "letra": "Ella es la reina del merengue\nCuando baila el mundo se detiene\nMueve las caderas con sabor\nEs la reina, dueña del tambor\nQue viva la reina, que viva el merengue",
-    "nombreAutor": "Datty",
-    "fotoCancion": "https://picsum.photos/seed/reinamerengue/800/800"
+    "fechaLanzamiento": "2020-04-10",
+    "artista": {
+      "id": 11,
+      "nombre": "Datty",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg",
+      "paisOrigen": "República Dominicana",
+      "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica.",
+      "fechaNacimiento": "1985-03-22"
+    },
+    "albumes": [
+      {
+        "id": 2,
+        "titulo": "La Reina Del Merengue",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
+        "fechaLanzamiento": "2020-06-15"
+      }
+    ]
   },
   {
     "id": 8,
     "titulo": "Baila Conmigo Luni",
     "duracion": "3:18",
+    "genero": "Merengue",
+    "fotoPortadaUrl": "https://picsum.photos/seed/bailaconmigoluni/800/800",
     "letra": "Baila conmigo Luni, no te quedes quieta\nQue la noche es nuestra y la música aprieta\nMueve el pie, mueve la cadera\nBaila conmigo Luni, ven pa' la pista entera\nEsta noche el merengue nos va a unir",
-    "nombreAutor": "Datty",
-    "fotoCancion": "https://picsum.photos/seed/bailaconmigoluni/800/800"
+    "fechaLanzamiento": "2020-05-01",
+    "artista": {
+      "id": 11,
+      "nombre": "Datty",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg",
+      "paisOrigen": "República Dominicana",
+      "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica.",
+      "fechaNacimiento": "1985-03-22"
+    },
+    "albumes": [
+      {
+        "id": 2,
+        "titulo": "La Reina Del Merengue",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
+        "fechaLanzamiento": "2020-06-15"
+      }
+    ]
   },
   {
     "id": 9,
     "titulo": "El Merengue de Yicel",
     "duracion": "3:25",
+    "genero": "Merengue",
+    "fotoPortadaUrl": "https://picsum.photos/seed/merengueyicel/800/800",
     "letra": "Yicel tiene su merengue especial\nQue cuando suena no hay quien pueda parar\nEs típico, es sabroso, es tradición\nEl merengue de Yicel llega al corazón\nTodos bailan cuando Yicel se mueve",
-    "nombreAutor": "Datty",
-    "fotoCancion": "https://picsum.photos/seed/merengueyicel/800/800"
+    "fechaLanzamiento": "2020-05-20",
+    "artista": {
+      "id": 11,
+      "nombre": "Datty",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg",
+      "paisOrigen": "República Dominicana",
+      "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica.",
+      "fechaNacimiento": "1985-03-22"
+    },
+    "albumes": [
+      {
+        "id": 2,
+        "titulo": "La Reina Del Merengue",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
+        "fechaLanzamiento": "2020-06-15"
+      }
+    ]
   },
   {
     "id": 10,
     "titulo": "Acústica",
     "duracion": "3:07",
+    "genero": "Merengue",
+    "fotoPortadaUrl": "https://picsum.photos/seed/acusticadatty/800/800",
     "letra": "Solo el acordeón y mi voz\nAcústica, sin electricidad\nEl merengue nació en el campo\nCon tambora y güira en libertad\nAcústica, así suena mi pueblo",
-    "nombreAutor": "Datty",
-    "fotoCancion": "https://picsum.photos/seed/acusticadatty/800/800"
+    "fechaLanzamiento": "2020-06-01",
+    "artista": {
+      "id": 11,
+      "nombre": "Datty",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg",
+      "paisOrigen": "República Dominicana",
+      "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica.",
+      "fechaNacimiento": "1985-03-22"
+    },
+    "albumes": [
+      {
+        "id": 2,
+        "titulo": "La Reina Del Merengue",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
+        "fechaLanzamiento": "2020-06-15"
+      }
+    ]
   },
   {
     "id": 11,
     "titulo": "La Fiesta de Londoño",
     "duracion": "3:42",
+    "genero": "Merengue",
+    "fotoPortadaUrl": "https://picsum.photos/seed/fiestalondonyo/800/800",
     "letra": "En casa de Londoño hay fiesta hoy\nTodo el barrio está bailando, allá voy\nLa cerveza fría, el merengue caliente\nLa fiesta de Londoño es pa' la gente\nQue nadie se quede sin bailar esta noche",
-    "nombreAutor": "Datty",
-    "fotoCancion": "https://picsum.photos/seed/fiestalondonyo/800/800"
+    "fechaLanzamiento": "2020-06-10",
+    "artista": {
+      "id": 11,
+      "nombre": "Datty",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg",
+      "paisOrigen": "República Dominicana",
+      "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica.",
+      "fechaNacimiento": "1985-03-22"
+    },
+    "albumes": [
+      {
+        "id": 2,
+        "titulo": "La Reina Del Merengue",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
+        "fechaLanzamiento": "2020-06-15"
+      }
+    ]
   },
   {
     "id": 12,
     "titulo": "Monterrey en Carnaval",
     "duracion": "3:53",
+    "genero": "Merengue",
+    "fotoPortadaUrl": "https://picsum.photos/seed/monterreycarnaval/800/800",
     "letra": "Monterrey se viste de carnaval\nColores, máscaras y ritmo tropical\nEl merengue urbano toma la ciudad\nMonterrey en carnaval es pura libertad\nQue viva el carnaval, que viva el merengue",
-    "nombreAutor": "Datty",
-    "fotoCancion": "https://picsum.photos/seed/monterreycarnaval/800/800"
+    "fechaLanzamiento": "2020-06-15",
+    "artista": {
+      "id": 11,
+      "nombre": "Datty",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg",
+      "paisOrigen": "República Dominicana",
+      "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica.",
+      "fechaNacimiento": "1985-03-22"
+    },
+    "albumes": [
+      {
+        "id": 2,
+        "titulo": "La Reina Del Merengue",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
+        "fechaLanzamiento": "2020-06-15"
+      }
+    ]
   },
   {
     "id": 13,
     "titulo": "One More Time",
     "duracion": "5:20",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/onemoretime/800/800",
     "letra": "One more time we're gonna celebrate\nOh yeah, alright, don't stop the dancing\nOne more time, feel the music take you higher\nCelebrate and dance so free\nOne more time, tonight is for you and me",
-    "nombreAutor": "Daft Punk",
-    "fotoCancion": "https://picsum.photos/seed/onemoretime/800/800"
+    "fechaLanzamiento": "2000-11-13",
+    "artista": {
+      "id": 2,
+      "nombre": "Daft Punk",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/DaftPunk.jpg",
+      "paisOrigen": "Francia",
+      "biografia": "Dúo francés de música electrónica formado por Thomas Bangalter y Guy-Manuel de Homem-Christo. Revolucionaron la música house con álbumes icónicos como 'Random Access Memories' y 'Discovery', siendo reconocidos por sus cascos robóticos.",
+      "fechaNacimiento": "1993-01-01"
+    },
+    "albumes": [
+      {
+        "id": 3,
+        "titulo": "Discovery",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDaft(Discovery).jpg",
+        "fechaLanzamiento": "2001-03-12"
+      }
+    ]
   },
   {
     "id": 14,
     "titulo": "Aerodynamic",
     "duracion": "3:32",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/aerodynamic/800/800",
     "letra": "Superheroes never look behind\nAerodynamic through the night\nElectric sound of the universe\nFlying fast, breaking through the lights\nAerodynamic, cutting through the sky",
-    "nombreAutor": "Daft Punk",
-    "fotoCancion": "https://picsum.photos/seed/aerodynamic/800/800"
+    "fechaLanzamiento": "2001-04-09",
+    "artista": {
+      "id": 2,
+      "nombre": "Daft Punk",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/DaftPunk.jpg",
+      "paisOrigen": "Francia",
+      "biografia": "Dúo francés de música electrónica formado por Thomas Bangalter y Guy-Manuel de Homem-Christo. Revolucionaron la música house con álbumes icónicos como 'Random Access Memories' y 'Discovery', siendo reconocidos por sus cascos robóticos.",
+      "fechaNacimiento": "1993-01-01"
+    },
+    "albumes": [
+      {
+        "id": 3,
+        "titulo": "Discovery",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDaft(Discovery).jpg",
+        "fechaLanzamiento": "2001-03-12"
+      }
+    ]
   },
   {
     "id": 15,
     "titulo": "Digital Love",
     "duracion": "5:01",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/digitallove/800/800",
     "letra": "Last night I had a dream about you\nIn this dream I'm dancing right beside you\nAnd I feel, just like I'm falling for you\nDigital love, so real yet so new\nYour signal reaches deep inside my heart",
-    "nombreAutor": "Daft Punk",
-    "fotoCancion": "https://picsum.photos/seed/digitallove/800/800"
+    "fechaLanzamiento": "2001-07-02",
+    "artista": {
+      "id": 2,
+      "nombre": "Daft Punk",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/DaftPunk.jpg",
+      "paisOrigen": "Francia",
+      "biografia": "Dúo francés de música electrónica formado por Thomas Bangalter y Guy-Manuel de Homem-Christo. Revolucionaron la música house con álbumes icónicos como 'Random Access Memories' y 'Discovery', siendo reconocidos por sus cascos robóticos.",
+      "fechaNacimiento": "1993-01-01"
+    },
+    "albumes": [
+      {
+        "id": 3,
+        "titulo": "Discovery",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDaft(Discovery).jpg",
+        "fechaLanzamiento": "2001-03-12"
+      }
+    ]
   },
   {
     "id": 16,
     "titulo": "Harder Better Faster Stronger",
     "duracion": "3:44",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/harderbetter/800/800",
     "letra": "Work it harder, make it better\nDo it faster, makes us stronger\nMore than ever, hour after hour\nWork is never over\nHarder, better, faster, stronger",
-    "nombreAutor": "Daft Punk",
-    "fotoCancion": "https://picsum.photos/seed/harderbetter/800/800"
+    "fechaLanzamiento": "2001-10-22",
+    "artista": {
+      "id": 2,
+      "nombre": "Daft Punk",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/DaftPunk.jpg",
+      "paisOrigen": "Francia",
+      "biografia": "Dúo francés de música electrónica formado por Thomas Bangalter y Guy-Manuel de Homem-Christo. Revolucionaron la música house con álbumes icónicos como 'Random Access Memories' y 'Discovery', siendo reconocidos por sus cascos robóticos.",
+      "fechaNacimiento": "1993-01-01"
+    },
+    "albumes": [
+      {
+        "id": 3,
+        "titulo": "Discovery",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDaft(Discovery).jpg",
+        "fechaLanzamiento": "2001-03-12"
+      }
+    ]
   },
   {
     "id": 17,
     "titulo": "Superheroes",
     "duracion": "3:57",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/superheroes/800/800",
     "letra": "We are the superheroes of the night\nFunk in our veins, we set the world alight\nGrooving through the darkness, burning bright\nSuperheroes dancing, feeling right\nNothing can stop us when the beat drops",
-    "nombreAutor": "Daft Punk",
-    "fotoCancion": "https://picsum.photos/seed/superheroes/800/800"
+    "fechaLanzamiento": "2001-03-12",
+    "artista": {
+      "id": 2,
+      "nombre": "Daft Punk",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/DaftPunk.jpg",
+      "paisOrigen": "Francia",
+      "biografia": "Dúo francés de música electrónica formado por Thomas Bangalter y Guy-Manuel de Homem-Christo. Revolucionaron la música house con álbumes icónicos como 'Random Access Memories' y 'Discovery', siendo reconocidos por sus cascos robóticos.",
+      "fechaNacimiento": "1993-01-01"
+    },
+    "albumes": [
+      {
+        "id": 3,
+        "titulo": "Discovery",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDaft(Discovery).jpg",
+        "fechaLanzamiento": "2001-03-12"
+      }
+    ]
   },
   {
     "id": 18,
     "titulo": "Face to Face",
     "duracion": "4:00",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/facetoface/800/800",
     "letra": "Face to face on the dance floor tonight\nEye to eye underneath the neon light\nYour body moves like electric fire\nFace to face, taking us higher\nThis French groove will never let us down",
-    "nombreAutor": "Daft Punk",
-    "fotoCancion": "https://picsum.photos/seed/facetoface/800/800"
+    "fechaLanzamiento": "2001-03-12",
+    "artista": {
+      "id": 2,
+      "nombre": "Daft Punk",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/DaftPunk.jpg",
+      "paisOrigen": "Francia",
+      "biografia": "Dúo francés de música electrónica formado por Thomas Bangalter y Guy-Manuel de Homem-Christo. Revolucionaron la música house con álbumes icónicos como 'Random Access Memories' y 'Discovery', siendo reconocidos por sus cascos robóticos.",
+      "fechaNacimiento": "1993-01-01"
+    },
+    "albumes": [
+      {
+        "id": 3,
+        "titulo": "Discovery",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDaft(Discovery).jpg",
+        "fechaLanzamiento": "2001-03-12"
+      }
+    ]
   },
   {
     "id": 19,
     "titulo": "Something About Us",
     "duracion": "4:18",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/somethingaboutus/800/800",
     "letra": "It might not be the right time\nI might not be the right one\nBut there's something about us I want to say\nCause there's something between us anyway\nSomething about us, I just can't explain",
-    "nombreAutor": "Daft Punk",
-    "fotoCancion": "https://picsum.photos/seed/somethingaboutus/800/800"
+    "fechaLanzamiento": "2001-03-12",
+    "artista": {
+      "id": 2,
+      "nombre": "Daft Punk",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/DaftPunk.jpg",
+      "paisOrigen": "Francia",
+      "biografia": "Dúo francés de música electrónica formado por Thomas Bangalter y Guy-Manuel de Homem-Christo. Revolucionaron la música house con álbumes icónicos como 'Random Access Memories' y 'Discovery', siendo reconocidos por sus cascos robóticos.",
+      "fechaNacimiento": "1993-01-01"
+    },
+    "albumes": [
+      {
+        "id": 3,
+        "titulo": "Discovery",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDaft(Discovery).jpg",
+        "fechaLanzamiento": "2001-03-12"
+      }
+    ]
   },
   {
     "id": 20,
     "titulo": "Reventó",
     "duracion": "4:28",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/reventolavoe/800/800",
     "letra": "Reventó la parranda esta noche\nEl barrio entero salió a gozar\nCon el piano y el bongo encendidos\nReventó, no hay quien pueda parar\nEsta salsa nos va a reventar de alegría",
-    "nombreAutor": "Hector Lavoe",
-    "fotoCancion": "https://picsum.photos/seed/reventolavoe/800/800"
+    "fechaLanzamiento": "1985-04-10",
+    "artista": {
+      "id": 3,
+      "nombre": "Hector Lavoe",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/HectorLavoe.jpg",
+      "paisOrigen": "Puerto Rico",
+      "biografia": "Héctor Juan Pérez Martínez, 'El Cantante de los Cantantes', fue una de las voces más emblemáticas de la salsa. Nacido en Ponce, Puerto Rico, su colaboración con Willie Colón y el sello Fania lo convirtieron en una leyenda inmortal del género.",
+      "fechaNacimiento": "1946-09-30"
+    },
+    "albumes": [
+      {
+        "id": 4,
+        "titulo": "Reventó",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumHector(Revento).jpg",
+        "fechaLanzamiento": "1985-04-10"
+      }
+    ]
   },
   {
     "id": 21,
     "titulo": "El Todopoderoso",
     "duracion": "4:35",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/todopoderoso/800/800",
     "letra": "El todopoderoso manda en este barrio\nCon su clave y su tumbao soberano\nNadie le discute su saber en la pista\nEl todopoderoso es el rey de la vista\nQue suene el timbal, que empiece a bailar",
-    "nombreAutor": "Hector Lavoe",
-    "fotoCancion": "https://picsum.photos/seed/todopoderoso/800/800"
+    "fechaLanzamiento": "1985-04-10",
+    "artista": {
+      "id": 3,
+      "nombre": "Hector Lavoe",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/HectorLavoe.jpg",
+      "paisOrigen": "Puerto Rico",
+      "biografia": "Héctor Juan Pérez Martínez, 'El Cantante de los Cantantes', fue una de las voces más emblemáticas de la salsa. Nacido en Ponce, Puerto Rico, su colaboración con Willie Colón y el sello Fania lo convirtieron en una leyenda inmortal del género.",
+      "fechaNacimiento": "1946-09-30"
+    },
+    "albumes": [
+      {
+        "id": 4,
+        "titulo": "Reventó",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumHector(Revento).jpg",
+        "fechaLanzamiento": "1985-04-10"
+      }
+    ]
   },
   {
     "id": 22,
     "titulo": "Periódico de Ayer",
     "duracion": "4:22",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/periodicoayer/800/800",
     "letra": "Esa historia de amor ya pasó\nComo periódico de ayer se olvidó\nLo que fue nuestro ya no existe más\nPeriódico de ayer, no hay que recordar\nSolo quedan las páginas amarillas del amor",
-    "nombreAutor": "Hector Lavoe",
-    "fotoCancion": "https://picsum.photos/seed/periodicoayer/800/800"
+    "fechaLanzamiento": "1985-04-10",
+    "artista": {
+      "id": 3,
+      "nombre": "Hector Lavoe",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/HectorLavoe.jpg",
+      "paisOrigen": "Puerto Rico",
+      "biografia": "Héctor Juan Pérez Martínez, 'El Cantante de los Cantantes', fue una de las voces más emblemáticas de la salsa. Nacido en Ponce, Puerto Rico, su colaboración con Willie Colón y el sello Fania lo convirtieron en una leyenda inmortal del género.",
+      "fechaNacimiento": "1946-09-30"
+    },
+    "albumes": [
+      {
+        "id": 4,
+        "titulo": "Reventó",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumHector(Revento).jpg",
+        "fechaLanzamiento": "1985-04-10"
+      }
+    ]
   },
   {
     "id": 23,
     "titulo": "Mi Gente",
     "duracion": "4:01",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/migente/800/800",
     "letra": "Mi gente, que mueve el cuerpo sin parar\nMi gente, que sabe cómo hay que gozar\nSon del barrio, son del alma, son de aquí\nMi gente, yo los llevo siempre en mí\nQue viva mi gente y su sabor",
-    "nombreAutor": "Hector Lavoe",
-    "fotoCancion": "https://picsum.photos/seed/migente/800/800"
+    "fechaLanzamiento": "1985-04-10",
+    "artista": {
+      "id": 3,
+      "nombre": "Hector Lavoe",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/HectorLavoe.jpg",
+      "paisOrigen": "Puerto Rico",
+      "biografia": "Héctor Juan Pérez Martínez, 'El Cantante de los Cantantes', fue una de las voces más emblemáticas de la salsa. Nacido en Ponce, Puerto Rico, su colaboración con Willie Colón y el sello Fania lo convirtieron en una leyenda inmortal del género.",
+      "fechaNacimiento": "1946-09-30"
+    },
+    "albumes": [
+      {
+        "id": 4,
+        "titulo": "Reventó",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumHector(Revento).jpg",
+        "fechaLanzamiento": "1985-04-10"
+      }
+    ]
   },
   {
     "id": 24,
     "titulo": "Aguanile",
     "duracion": "4:14",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/aguanile/800/800",
     "letra": "Aguanilé, maké maké\nLos tambores hablan al atardecer\nAguanilé, la tierra llama\nAfricana sangre que en mi pecho arde\nAguanilé, ancestral canción",
-    "nombreAutor": "Hector Lavoe",
-    "fotoCancion": "https://picsum.photos/seed/aguanile/800/800"
+    "fechaLanzamiento": "1985-04-10",
+    "artista": {
+      "id": 3,
+      "nombre": "Hector Lavoe",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/HectorLavoe.jpg",
+      "paisOrigen": "Puerto Rico",
+      "biografia": "Héctor Juan Pérez Martínez, 'El Cantante de los Cantantes', fue una de las voces más emblemáticas de la salsa. Nacido en Ponce, Puerto Rico, su colaboración con Willie Colón y el sello Fania lo convirtieron en una leyenda inmortal del género.",
+      "fechaNacimiento": "1946-09-30"
+    },
+    "albumes": [
+      {
+        "id": 4,
+        "titulo": "Reventó",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumHector(Revento).jpg",
+        "fechaLanzamiento": "1985-04-10"
+      }
+    ]
   },
   {
     "id": 25,
     "titulo": "Rompe Saraguey",
     "duracion": "3:53",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/rompesaraguey/800/800",
     "letra": "Rompe saraguey, la mata que cura\nRompe saraguey, contra toda amargura\nLa salsa dura no tiene piedad\nRompe saraguey con su fuerza ancestral\nQue truene el bongó y la trompeta al son",
-    "nombreAutor": "Hector Lavoe",
-    "fotoCancion": "https://picsum.photos/seed/rompesaraguey/800/800"
+    "fechaLanzamiento": "1985-04-10",
+    "artista": {
+      "id": 3,
+      "nombre": "Hector Lavoe",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/HectorLavoe.jpg",
+      "paisOrigen": "Puerto Rico",
+      "biografia": "Héctor Juan Pérez Martínez, 'El Cantante de los Cantantes', fue una de las voces más emblemáticas de la salsa. Nacido en Ponce, Puerto Rico, su colaboración con Willie Colón y el sello Fania lo convirtieron en una leyenda inmortal del género.",
+      "fechaNacimiento": "1946-09-30"
+    },
+    "albumes": [
+      {
+        "id": 4,
+        "titulo": "Reventó",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumHector(Revento).jpg",
+        "fechaLanzamiento": "1985-04-10"
+      }
+    ]
   },
   {
     "id": 26,
     "titulo": "Velocidad Máxima",
     "duracion": "3:18",
+    "genero": "Guaracha",
+    "fotoPortadaUrl": "https://picsum.photos/seed/velocidadmaxima/800/800",
     "letra": "A velocidad máxima va la guaracha\nNo hay quien la pare, no hay quien la atrape\nEl ritmo sube, el pueblo se desata\nVelocidad máxima, la noche se agita\nCorre la guaracha que el amanecer ya viene",
-    "nombreAutor": "Berenice",
-    "fotoCancion": "https://picsum.photos/seed/velocidadmaxima/800/800"
+    "fechaLanzamiento": "2019-06-01",
+    "artista": {
+      "id": 12,
+      "nombre": "Berenice",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
+      "fechaNacimiento": "1990-05-14"
+    },
+    "albumes": [
+      {
+        "id": 5,
+        "titulo": "Velocidad Máxima",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
+        "fechaLanzamiento": "2019-08-20"
+      }
+    ]
   },
   {
     "id": 27,
     "titulo": "Palacios",
     "duracion": "3:32",
+    "genero": "Guaracha",
+    "fotoPortadaUrl": "https://picsum.photos/seed/palaciosberenice/800/800",
     "letra": "En los palacios del son se baila así\nCon sabor de guaracha para ti\nLos señores del ritmo ya están aquí\nEn los palacios del goce y el frenesí\nQue suene la guaracha, que empiece a fluir",
-    "nombreAutor": "Berenice",
-    "fotoCancion": "https://picsum.photos/seed/palaciosberenice/800/800"
+    "fechaLanzamiento": "2019-06-20",
+    "artista": {
+      "id": 12,
+      "nombre": "Berenice",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
+      "fechaNacimiento": "1990-05-14"
+    },
+    "albumes": [
+      {
+        "id": 5,
+        "titulo": "Velocidad Máxima",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
+        "fechaLanzamiento": "2019-08-20"
+      }
+    ]
   },
   {
     "id": 28,
     "titulo": "La Guaracha",
     "duracion": "3:25",
+    "genero": "Guaracha",
+    "fotoPortadaUrl": "https://picsum.photos/seed/laguaracha/800/800",
     "letra": "La guaracha viene del son cubano\nDel monte y el llano, del pueblo hermano\nCon el tres y el bongó se forma el son\nLa guaracha le llega al corazón\nCuba linda, tu ritmo es mi razón",
-    "nombreAutor": "Berenice",
-    "fotoCancion": "https://picsum.photos/seed/laguaracha/800/800"
+    "fechaLanzamiento": "2019-07-10",
+    "artista": {
+      "id": 12,
+      "nombre": "Berenice",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
+      "fechaNacimiento": "1990-05-14"
+    },
+    "albumes": [
+      {
+        "id": 5,
+        "titulo": "Velocidad Máxima",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
+        "fechaLanzamiento": "2019-08-20"
+      }
+    ]
   },
   {
     "id": 29,
     "titulo": "La Noche",
     "duracion": "3:41",
+    "genero": "Guaracha",
+    "fotoPortadaUrl": "https://picsum.photos/seed/lanocheberenice/800/800",
     "letra": "La noche nos llama a gozar\nLa noche no quiere que paremos de bailar\nBajo las estrellas la guaracha va\nLa noche es nuestra, no va a terminar\nHasta que el alba nos venga a buscar",
-    "nombreAutor": "Berenice",
-    "fotoCancion": "https://picsum.photos/seed/lanocheberenice/800/800"
+    "fechaLanzamiento": "2019-07-25",
+    "artista": {
+      "id": 12,
+      "nombre": "Berenice",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
+      "fechaNacimiento": "1990-05-14"
+    },
+    "albumes": [
+      {
+        "id": 5,
+        "titulo": "Velocidad Máxima",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
+        "fechaLanzamiento": "2019-08-20"
+      }
+    ]
   },
   {
     "id": 30,
     "titulo": "PauCastroMusic",
     "duracion": "3:09",
+    "genero": "Guaracha",
+    "fotoPortadaUrl": "https://picsum.photos/seed/paucastromusic/800/800",
     "letra": "PauCastro tiene el ritmo en las manos\nSalsa fina para todos sus hermanos\nDesde el barrio sube su canción\nPauCastro late con el corazón\nQue suene su nombre en cada rincón",
-    "nombreAutor": "Berenice",
-    "fotoCancion": "https://picsum.photos/seed/paucastromusic/800/800"
+    "fechaLanzamiento": "2019-08-05",
+    "artista": {
+      "id": 12,
+      "nombre": "Berenice",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
+      "fechaNacimiento": "1990-05-14"
+    },
+    "albumes": [
+      {
+        "id": 5,
+        "titulo": "Velocidad Máxima",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
+        "fechaLanzamiento": "2019-08-20"
+      }
+    ]
   },
   {
     "id": 31,
     "titulo": "Guaracha & Motos",
     "duracion": "3:34",
+    "genero": "Guaracha",
+    "fotoPortadaUrl": "https://picsum.photos/seed/guarachamotos/800/800",
     "letra": "Con la moto encendida y la guaracha sonando\nPor las calles del barrio voy pasando\nEl rugido del motor se mezcla con el son\nGuaracha y motos, pura vibración\nLibertad sobre ruedas y al ritmo del tambor",
-    "nombreAutor": "Berenice",
-    "fotoCancion": "https://picsum.photos/seed/guarachamotos/800/800"
+    "fechaLanzamiento": "2019-08-20",
+    "artista": {
+      "id": 12,
+      "nombre": "Berenice",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
+      "fechaNacimiento": "1990-05-14"
+    },
+    "albumes": [
+      {
+        "id": 5,
+        "titulo": "Velocidad Máxima",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
+        "fechaLanzamiento": "2019-08-20"
+      }
+    ]
   },
   {
     "id": 32,
     "titulo": "Waiting for Love",
     "duracion": "3:48",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/waitingforlove/800/800",
     "letra": "Monday left me broken, Tuesday I was through\nWaiting for love to carry me home\nThe city lights are calling me through the night\nWaiting for love, for someone to hold\nSomewhere love is burning, waiting just for me",
-    "nombreAutor": "Avicii",
-    "fotoCancion": "https://picsum.photos/seed/waitingforlove/800/800"
+    "fechaLanzamiento": "2015-05-22",
+    "artista": {
+      "id": 4,
+      "nombre": "Avicii",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Avicii.jpg",
+      "paisOrigen": "Suecia",
+      "biografia": "Tim Bergling, conocido mundialmente como Avicii, fue un DJ y productor sueco que redefinió la música electrónica con temas como 'Wake Me Up' y 'Levels'. Su fusión de EDM con country y folk lo diferenció de todos sus contemporáneos.",
+      "fechaNacimiento": "1989-09-08"
+    },
+    "albumes": [
+      {
+        "id": 6,
+        "titulo": "Stories",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumAvicii(Stories).jpg",
+        "fechaLanzamiento": "2015-10-02"
+      }
+    ]
   },
   {
     "id": 33,
     "titulo": "For a Better Day",
     "duracion": "3:27",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/forabetterday/800/800",
     "letra": "For a better day we keep on fighting\nThrough the dark we search for the light\nFor a better day the music's guiding\nUs through every long and restless night\nA better day is coming, hold on tight",
-    "nombreAutor": "Avicii",
-    "fotoCancion": "https://picsum.photos/seed/forabetterday/800/800"
+    "fechaLanzamiento": "2015-08-28",
+    "artista": {
+      "id": 4,
+      "nombre": "Avicii",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Avicii.jpg",
+      "paisOrigen": "Suecia",
+      "biografia": "Tim Bergling, conocido mundialmente como Avicii, fue un DJ y productor sueco que redefinió la música electrónica con temas como 'Wake Me Up' y 'Levels'. Su fusión de EDM con country y folk lo diferenció de todos sus contemporáneos.",
+      "fechaNacimiento": "1989-09-08"
+    },
+    "albumes": [
+      {
+        "id": 6,
+        "titulo": "Stories",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumAvicii(Stories).jpg",
+        "fechaLanzamiento": "2015-10-02"
+      }
+    ]
   },
   {
     "id": 34,
     "titulo": "Broken Arrows",
     "duracion": "3:53",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/brokenarrows/800/800",
     "letra": "We are broken arrows shot into the sky\nFalling, rising, learning how to fly\nBroken arrows find their target still\nWith every drop and every broken will\nWe rise again from where we fell",
-    "nombreAutor": "Avicii",
-    "fotoCancion": "https://picsum.photos/seed/brokenarrows/800/800"
+    "fechaLanzamiento": "2015-09-29",
+    "artista": {
+      "id": 4,
+      "nombre": "Avicii",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Avicii.jpg",
+      "paisOrigen": "Suecia",
+      "biografia": "Tim Bergling, conocido mundialmente como Avicii, fue un DJ y productor sueco que redefinió la música electrónica con temas como 'Wake Me Up' y 'Levels'. Su fusión de EDM con country y folk lo diferenció de todos sus contemporáneos.",
+      "fechaNacimiento": "1989-09-08"
+    },
+    "albumes": [
+      {
+        "id": 6,
+        "titulo": "Stories",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumAvicii(Stories).jpg",
+        "fechaLanzamiento": "2015-10-02"
+      }
+    ]
   },
   {
     "id": 35,
     "titulo": "True Believer",
     "duracion": "4:49",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/truebeliever/800/800",
     "letra": "I'm a true believer in the power of sound\nThe music lifts me up when I am down\nTrue believer in the beat and the bass\nTrue believer, I can feel it in this place\nNothing can shake this fire inside",
-    "nombreAutor": "Avicii",
-    "fotoCancion": "https://picsum.photos/seed/truebeliever/800/800"
+    "fechaLanzamiento": "2015-10-02",
+    "artista": {
+      "id": 4,
+      "nombre": "Avicii",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Avicii.jpg",
+      "paisOrigen": "Suecia",
+      "biografia": "Tim Bergling, conocido mundialmente como Avicii, fue un DJ y productor sueco que redefinió la música electrónica con temas como 'Wake Me Up' y 'Levels'. Su fusión de EDM con country y folk lo diferenció de todos sus contemporáneos.",
+      "fechaNacimiento": "1989-09-08"
+    },
+    "albumes": [
+      {
+        "id": 6,
+        "titulo": "Stories",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumAvicii(Stories).jpg",
+        "fechaLanzamiento": "2015-10-02"
+      }
+    ]
   },
   {
     "id": 36,
     "titulo": "Pure Grinding",
     "duracion": "2:53",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/puregrinding/800/800",
     "letra": "Pure grinding every single day\nNo shortcuts, no excuses on the way\nThe hustle never stops when you're real\nPure grinding is the only thing I feel\n808s and ambition, that's my deal",
-    "nombreAutor": "Avicii",
-    "fotoCancion": "https://picsum.photos/seed/puregrinding/800/800"
+    "fechaLanzamiento": "2015-08-28",
+    "artista": {
+      "id": 4,
+      "nombre": "Avicii",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Avicii.jpg",
+      "paisOrigen": "Suecia",
+      "biografia": "Tim Bergling, conocido mundialmente como Avicii, fue un DJ y productor sueco que redefinió la música electrónica con temas como 'Wake Me Up' y 'Levels'. Su fusión de EDM con country y folk lo diferenció de todos sus contemporáneos.",
+      "fechaNacimiento": "1989-09-08"
+    },
+    "albumes": [
+      {
+        "id": 6,
+        "titulo": "Stories",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumAvicii(Stories).jpg",
+        "fechaLanzamiento": "2015-10-02"
+      }
+    ]
   },
   {
     "id": 37,
     "titulo": "Touch Me",
     "duracion": "3:07",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/touchmeavicii/800/800",
     "letra": "Touch me in the dark of the night\nLet the music take us higher tonight\nTouch me with the sound of the bass\nProgressive waves taking me to a better place\nTouch me, let me feel the groove",
-    "nombreAutor": "Avicii",
-    "fotoCancion": "https://picsum.photos/seed/touchmeavicii/800/800"
+    "fechaLanzamiento": "2015-10-02",
+    "artista": {
+      "id": 4,
+      "nombre": "Avicii",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Avicii.jpg",
+      "paisOrigen": "Suecia",
+      "biografia": "Tim Bergling, conocido mundialmente como Avicii, fue un DJ y productor sueco que redefinió la música electrónica con temas como 'Wake Me Up' y 'Levels'. Su fusión de EDM con country y folk lo diferenció de todos sus contemporáneos.",
+      "fechaNacimiento": "1989-09-08"
+    },
+    "albumes": [
+      {
+        "id": 6,
+        "titulo": "Stories",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumAvicii(Stories).jpg",
+        "fechaLanzamiento": "2015-10-02"
+      }
+    ]
   },
   {
     "id": 38,
     "titulo": "Siempre Viviré",
     "duracion": "3:51",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/siemprevivire/800/800",
     "letra": "Siempre viviré aunque el mundo se acabe\nMi música es el arma que todo lo sabe\nCon el canto y el ritmo venceré el dolor\nSiempre viviré con mi pueblo y mi amor\nLa salsa es mi alma y mi razón de ser",
-    "nombreAutor": "Celia Cruz",
-    "fotoCancion": "https://picsum.photos/seed/siemprevivire/800/800"
+    "fechaLanzamiento": "2000-03-10",
+    "artista": {
+      "id": 5,
+      "nombre": "Celia Cruz",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CeliaCruz.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Úrsula Hilaria Celia de la Caridad Cruz Alfonso, conocida como 'La Reina de la Salsa', fue la voz femenina más importante de la música tropical latina. Su inconfundible grito '¡Azúcar!' y su energía desbordante la convirtieron en un ícono cultural mundial.",
+      "fechaNacimiento": "1925-10-21"
+    },
+    "albumes": [
+      {
+        "id": 7,
+        "titulo": "Siempre Viviré",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCelia(SiempreVivire).jpg",
+        "fechaLanzamiento": "2000-05-23"
+      }
+    ]
   },
   {
     "id": 39,
     "titulo": "La Negra Tiene Tumbao",
     "duracion": "4:01",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/negratienetumbao/800/800",
     "letra": "La negra tiene tumbao y camina así\nMeneando las caderas al compás del son\nNadie como ella baila en este lugar\nLa negra tiene tumbao, hay que reconocer\nQue su sabor no tiene comparación",
-    "nombreAutor": "Celia Cruz",
-    "fotoCancion": "https://picsum.photos/seed/negratienetumbao/800/800"
+    "fechaLanzamiento": "2000-04-01",
+    "artista": {
+      "id": 5,
+      "nombre": "Celia Cruz",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CeliaCruz.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Úrsula Hilaria Celia de la Caridad Cruz Alfonso, conocida como 'La Reina de la Salsa', fue la voz femenina más importante de la música tropical latina. Su inconfundible grito '¡Azúcar!' y su energía desbordante la convirtieron en un ícono cultural mundial.",
+      "fechaNacimiento": "1925-10-21"
+    },
+    "albumes": [
+      {
+        "id": 7,
+        "titulo": "Siempre Viviré",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCelia(SiempreVivire).jpg",
+        "fechaLanzamiento": "2000-05-23"
+      }
+    ]
   },
   {
     "id": 40,
     "titulo": "Quimbara",
     "duracion": "3:18",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/quimbara/800/800",
     "letra": "Quimbara, quimbara, quma quimbambá\nLos tambores llaman a la orishas ya\nQuimbara, la tierra habla con su son\nAfricana fuerza de mi corazón\nQuimbara, ancestral y eterno canto",
-    "nombreAutor": "Celia Cruz",
-    "fotoCancion": "https://picsum.photos/seed/quimbara/800/800"
+    "fechaLanzamiento": "2000-04-15",
+    "artista": {
+      "id": 5,
+      "nombre": "Celia Cruz",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CeliaCruz.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Úrsula Hilaria Celia de la Caridad Cruz Alfonso, conocida como 'La Reina de la Salsa', fue la voz femenina más importante de la música tropical latina. Su inconfundible grito '¡Azúcar!' y su energía desbordante la convirtieron en un ícono cultural mundial.",
+      "fechaNacimiento": "1925-10-21"
+    },
+    "albumes": [
+      {
+        "id": 7,
+        "titulo": "Siempre Viviré",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCelia(SiempreVivire).jpg",
+        "fechaLanzamiento": "2000-05-23"
+      }
+    ]
   },
   {
     "id": 41,
     "titulo": "Bemba Colorá",
     "duracion": "3:32",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/bembacolora/800/800",
     "letra": "Ay, la bemba colorá\nQue me tiene loco y sin parar\nEsa boca que me vuelve a enamorar\nBemba colorá, cubana del solar\nCon su son me tiene que bailar",
-    "nombreAutor": "Celia Cruz",
-    "fotoCancion": "https://picsum.photos/seed/bembacolora/800/800"
+    "fechaLanzamiento": "2000-05-01",
+    "artista": {
+      "id": 5,
+      "nombre": "Celia Cruz",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CeliaCruz.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Úrsula Hilaria Celia de la Caridad Cruz Alfonso, conocida como 'La Reina de la Salsa', fue la voz femenina más importante de la música tropical latina. Su inconfundible grito '¡Azúcar!' y su energía desbordante la convirtieron en un ícono cultural mundial.",
+      "fechaNacimiento": "1925-10-21"
+    },
+    "albumes": [
+      {
+        "id": 7,
+        "titulo": "Siempre Viviré",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCelia(SiempreVivire).jpg",
+        "fechaLanzamiento": "2000-05-23"
+      }
+    ]
   },
   {
     "id": 42,
     "titulo": "Azúcar Negra",
     "duracion": "3:45",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/azucarnegra/800/800",
     "letra": "Azúcar negra, dulce y poderosa\nRitmo que endulza cualquier cosa\nAzúcar negra de mi tierra amada\nEn cada nota mi alma enamorada\nSabor de Cuba que no tiene igual",
-    "nombreAutor": "Celia Cruz",
-    "fotoCancion": "https://picsum.photos/seed/azucarnegra/800/800"
+    "fechaLanzamiento": "2000-05-10",
+    "artista": {
+      "id": 5,
+      "nombre": "Celia Cruz",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CeliaCruz.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Úrsula Hilaria Celia de la Caridad Cruz Alfonso, conocida como 'La Reina de la Salsa', fue la voz femenina más importante de la música tropical latina. Su inconfundible grito '¡Azúcar!' y su energía desbordante la convirtieron en un ícono cultural mundial.",
+      "fechaNacimiento": "1925-10-21"
+    },
+    "albumes": [
+      {
+        "id": 7,
+        "titulo": "Siempre Viviré",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCelia(SiempreVivire).jpg",
+        "fechaLanzamiento": "2000-05-23"
+      }
+    ]
   },
   {
     "id": 43,
     "titulo": "Guantanamera",
     "duracion": "3:38",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/guantanamera/800/800",
     "letra": "Guantanamera, guajira guantanamera\nYo soy un hombre sincero de donde crece la palma\nAntes de morirme quiero echar mis versos del alma\nGuantanamera, mi tierra, mi canción\nCuba en el corazón, siempre vivirá",
-    "nombreAutor": "Celia Cruz",
-    "fotoCancion": "https://picsum.photos/seed/guantanamera/800/800"
+    "fechaLanzamiento": "2000-05-23",
+    "artista": {
+      "id": 5,
+      "nombre": "Celia Cruz",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CeliaCruz.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Úrsula Hilaria Celia de la Caridad Cruz Alfonso, conocida como 'La Reina de la Salsa', fue la voz femenina más importante de la música tropical latina. Su inconfundible grito '¡Azúcar!' y su energía desbordante la convirtieron en un ícono cultural mundial.",
+      "fechaNacimiento": "1925-10-21"
+    },
+    "albumes": [
+      {
+        "id": 7,
+        "titulo": "Siempre Viviré",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCelia(SiempreVivire).jpg",
+        "fechaLanzamiento": "2000-05-23"
+      }
+    ]
   },
   {
     "id": 44,
     "titulo": "El día de ayer...",
     "duracion": "3:23",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/eldíadeayer/800/800",
     "letra": "El día de ayer ya no vuelve más\nPero su recuerdo no puedo olvidar\nFue un día de salsa, de risa y de amor\nEl día de ayer quedó en el corazón\nHoy bailo en su honor con toda mi fe",
-    "nombreAutor": "Gladdys Pereira",
-    "fotoCancion": "https://picsum.photos/seed/eldíadeayer/800/800"
+    "fechaLanzamiento": "2021-06-20",
+    "artista": {
+      "id": 13,
+      "nombre": "Gladdys Pereira",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/BlackCoffe.jpg",
+      "paisOrigen": "Venezuela",
+      "biografia": "Gladdys Pereira es una reconocida cantante venezolana de salsa, admirada por su voz cálida y su presencia escénica. Ha recorrido los principales escenarios de Venezuela y Colombia, convirtiéndose en un referente femenino de la salsa tropical en el norte de Sudamérica.",
+      "fechaNacimiento": "1978-11-03"
+    },
+    "albumes": [
+      {
+        "id": 8,
+        "titulo": "Salsa Caliente",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBlackCoffe(SalsaCaliente).jpg",
+        "fechaLanzamiento": "2021-09-14"
+      }
+    ]
   },
   {
     "id": 45,
     "titulo": "Musica Para El Alma",
     "duracion": "3:37",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/musicaparaalma/800/800",
     "letra": "Música para el alma que necesita sanar\nRitmo afrohouse que te hace vibrar\nEl beat te lleva a otro lugar\nMúsica para el alma, déjate llevar\nQue la música cura lo que el tiempo no puede",
-    "nombreAutor": "Gladdys Pereira",
-    "fotoCancion": "https://picsum.photos/seed/musicaparaalma/800/800"
+    "fechaLanzamiento": "2021-07-10",
+    "artista": {
+      "id": 13,
+      "nombre": "Gladdys Pereira",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/BlackCoffe.jpg",
+      "paisOrigen": "Venezuela",
+      "biografia": "Gladdys Pereira es una reconocida cantante venezolana de salsa, admirada por su voz cálida y su presencia escénica. Ha recorrido los principales escenarios de Venezuela y Colombia, convirtiéndose en un referente femenino de la salsa tropical en el norte de Sudamérica.",
+      "fechaNacimiento": "1978-11-03"
+    },
+    "albumes": [
+      {
+        "id": 8,
+        "titulo": "Salsa Caliente",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBlackCoffe(SalsaCaliente).jpg",
+        "fechaLanzamiento": "2021-09-14"
+      }
+    ]
   },
   {
     "id": 46,
     "titulo": "Caribe",
     "duracion": "3:18",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/caribegladdys/800/800",
     "letra": "Caribe, tierra de sol y de canción\nCaribe, donde nació mi corazón\nLas olas y el sabor de la salsa van\nCaribe, en tus playas quiero descansar\nMi sangre es caribeña, mi ritmo es el mar",
-    "nombreAutor": "Gladdys Pereira",
-    "fotoCancion": "https://picsum.photos/seed/caribegladdys/800/800"
+    "fechaLanzamiento": "2021-07-28",
+    "artista": {
+      "id": 13,
+      "nombre": "Gladdys Pereira",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/BlackCoffe.jpg",
+      "paisOrigen": "Venezuela",
+      "biografia": "Gladdys Pereira es una reconocida cantante venezolana de salsa, admirada por su voz cálida y su presencia escénica. Ha recorrido los principales escenarios de Venezuela y Colombia, convirtiéndose en un referente femenino de la salsa tropical en el norte de Sudamérica.",
+      "fechaNacimiento": "1978-11-03"
+    },
+    "albumes": [
+      {
+        "id": 8,
+        "titulo": "Salsa Caliente",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBlackCoffe(SalsaCaliente).jpg",
+        "fechaLanzamiento": "2021-09-14"
+      }
+    ]
   },
   {
     "id": 47,
     "titulo": "Piano y Guitarra",
     "duracion": "3:45",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/pianoyguitarra/800/800",
     "letra": "Piano y guitarra en la madrugada\nDos instrumentos, una sola llamada\nEl afrohouse mueve con su elegancia\nPiano y guitarra en perfecta distancia\nJuntos crean el alma de la noche",
-    "nombreAutor": "Gladdys Pereira",
-    "fotoCancion": "https://picsum.photos/seed/pianoyguitarra/800/800"
+    "fechaLanzamiento": "2021-08-15",
+    "artista": {
+      "id": 13,
+      "nombre": "Gladdys Pereira",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/BlackCoffe.jpg",
+      "paisOrigen": "Venezuela",
+      "biografia": "Gladdys Pereira es una reconocida cantante venezolana de salsa, admirada por su voz cálida y su presencia escénica. Ha recorrido los principales escenarios de Venezuela y Colombia, convirtiéndose en un referente femenino de la salsa tropical en el norte de Sudamérica.",
+      "fechaNacimiento": "1978-11-03"
+    },
+    "albumes": [
+      {
+        "id": 8,
+        "titulo": "Salsa Caliente",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBlackCoffe(SalsaCaliente).jpg",
+        "fechaLanzamiento": "2021-09-14"
+      }
+    ]
   },
   {
     "id": 48,
     "titulo": "Edna, la reina del chocó",
     "duracion": "3:31",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/ednareinachoco/800/800",
     "letra": "Edna es la reina del Chocó\nCon su belleza y su sabor venció\nBaila la salsa como nadie más\nEdna del Chocó, ven a gozar\nRío, selva y ritmo en su canción",
-    "nombreAutor": "Gladdys Pereira",
-    "fotoCancion": "https://picsum.photos/seed/ednareinachoco/800/800"
+    "fechaLanzamiento": "2021-09-01",
+    "artista": {
+      "id": 13,
+      "nombre": "Gladdys Pereira",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/BlackCoffe.jpg",
+      "paisOrigen": "Venezuela",
+      "biografia": "Gladdys Pereira es una reconocida cantante venezolana de salsa, admirada por su voz cálida y su presencia escénica. Ha recorrido los principales escenarios de Venezuela y Colombia, convirtiéndose en un referente femenino de la salsa tropical en el norte de Sudamérica.",
+      "fechaNacimiento": "1978-11-03"
+    },
+    "albumes": [
+      {
+        "id": 8,
+        "titulo": "Salsa Caliente",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBlackCoffe(SalsaCaliente).jpg",
+        "fechaLanzamiento": "2021-09-14"
+      }
+    ]
   },
   {
     "id": 49,
     "titulo": "Salsa Para Bailar",
     "duracion": "3:54",
+    "genero": "Salsa",
+    "fotoPortadaUrl": "https://picsum.photos/seed/salsaparabailar/800/800",
     "letra": "Esta es la salsa para bailar\nLa que te mueve sin poder parar\nSalsa para bailar con el alma\nSalsa para perder toda la calma\nY encontrarte a ti mismo en el ritmo",
-    "nombreAutor": "Gladdys Pereira",
-    "fotoCancion": "https://picsum.photos/seed/salsaparabailar/800/800"
+    "fechaLanzamiento": "2021-09-14",
+    "artista": {
+      "id": 13,
+      "nombre": "Gladdys Pereira",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/BlackCoffe.jpg",
+      "paisOrigen": "Venezuela",
+      "biografia": "Gladdys Pereira es una reconocida cantante venezolana de salsa, admirada por su voz cálida y su presencia escénica. Ha recorrido los principales escenarios de Venezuela y Colombia, convirtiéndose en un referente femenino de la salsa tropical en el norte de Sudamérica.",
+      "fechaNacimiento": "1978-11-03"
+    },
+    "albumes": [
+      {
+        "id": 8,
+        "titulo": "Salsa Caliente",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBlackCoffe(SalsaCaliente).jpg",
+        "fechaLanzamiento": "2021-09-14"
+      }
+    ]
   },
   {
     "id": 56,
     "titulo": "Ain't Letting You Down",
     "duracion": "4:21",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/aintlettingdown/800/800",
     "letra": "I ain't letting you down no matter what they say\nThrough the storms and the rain I'm here to stay\nAin't letting you down, I'll fight through the night\nProgressively rising, chasing the light\nYou can count on me when it gets rough",
-    "nombreAutor": "Martin Garrix",
-    "fotoCancion": "https://picsum.photos/seed/aintlettingdown/800/800"
+    "fechaLanzamiento": "2025-10-24",
+    "artista": {
+      "id": 7,
+      "nombre": "Martin Garrix",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MartinGarrix.jpg",
+      "paisOrigen": "Países Bajos",
+      "biografia": "Martijn Gerard Garritsen, mejor conocido como Martin Garrix, es uno de los DJs más jóvenes en alcanzar la cima del mundo EDM. Su tema 'Animals', lanzado cuando tenía apenas 17 años, lo catapultó a la fama mundial y lo consolidó como referente del progressive house.",
+      "fechaNacimiento": "1996-05-14"
+    },
+    "albumes": [
+      {
+        "id": 9,
+        "titulo": "Origo",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMartin(Origo).jpg",
+        "fechaLanzamiento": "2025-10-24"
+      }
+    ]
   },
   {
     "id": 57,
     "titulo": "Peace of Mind",
     "duracion": "2:28",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/peaceofmind/800/800",
     "letra": "Peace of mind is all I need tonight\nLet the electronic waves wash over me\nPeace of mind, everything will be alright\nClose my eyes and let the music set me free\nIn the sound I find my peace",
-    "nombreAutor": "Martin Garrix",
-    "fotoCancion": "https://picsum.photos/seed/peaceofmind/800/800"
+    "fechaLanzamiento": "2025-09-10",
+    "artista": {
+      "id": 7,
+      "nombre": "Martin Garrix",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MartinGarrix.jpg",
+      "paisOrigen": "Países Bajos",
+      "biografia": "Martijn Gerard Garritsen, mejor conocido como Martin Garrix, es uno de los DJs más jóvenes en alcanzar la cima del mundo EDM. Su tema 'Animals', lanzado cuando tenía apenas 17 años, lo catapultó a la fama mundial y lo consolidó como referente del progressive house.",
+      "fechaNacimiento": "1996-05-14"
+    },
+    "albumes": [
+      {
+        "id": 9,
+        "titulo": "Origo",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMartin(Origo).jpg",
+        "fechaLanzamiento": "2025-10-24"
+      }
+    ]
   },
   {
     "id": 58,
     "titulo": "Our Time",
     "duracion": "2:41",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/ourtimegarrix/800/800",
     "letra": "This is our time, tonight the world is ours\nUnder the neon lights and the dancing stars\nOur time, the music never ends\nOur time, with our closest friends\nLive every moment, this is our night",
-    "nombreAutor": "Martin Garrix",
-    "fotoCancion": "https://picsum.photos/seed/ourtimegarrix/800/800"
+    "fechaLanzamiento": "2025-08-15",
+    "artista": {
+      "id": 7,
+      "nombre": "Martin Garrix",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MartinGarrix.jpg",
+      "paisOrigen": "Países Bajos",
+      "biografia": "Martijn Gerard Garritsen, mejor conocido como Martin Garrix, es uno de los DJs más jóvenes en alcanzar la cima del mundo EDM. Su tema 'Animals', lanzado cuando tenía apenas 17 años, lo catapultó a la fama mundial y lo consolidó como referente del progressive house.",
+      "fechaNacimiento": "1996-05-14"
+    },
+    "albumes": [
+      {
+        "id": 9,
+        "titulo": "Origo",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMartin(Origo).jpg",
+        "fechaLanzamiento": "2025-10-24"
+      }
+    ]
   },
   {
     "id": 59,
     "titulo": "Inside Our Hearts",
     "duracion": "3:54",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/insideourhearts/800/800",
     "letra": "Inside our hearts there's a fire burning still\nNo matter how far apart, love finds a way it will\nInside our hearts the music never dies\nA dance pop anthem reaching for the skies\nOur hearts beat together across the miles",
-    "nombreAutor": "Martin Garrix",
-    "fotoCancion": "https://picsum.photos/seed/insideourhearts/800/800"
+    "fechaLanzamiento": "2025-07-20",
+    "artista": {
+      "id": 7,
+      "nombre": "Martin Garrix",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MartinGarrix.jpg",
+      "paisOrigen": "Países Bajos",
+      "biografia": "Martijn Gerard Garritsen, mejor conocido como Martin Garrix, es uno de los DJs más jóvenes en alcanzar la cima del mundo EDM. Su tema 'Animals', lanzado cuando tenía apenas 17 años, lo catapultó a la fama mundial y lo consolidó como referente del progressive house.",
+      "fechaNacimiento": "1996-05-14"
+    },
+    "albumes": [
+      {
+        "id": 9,
+        "titulo": "Origo",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMartin(Origo).jpg",
+        "fechaLanzamiento": "2025-10-24"
+      }
+    ]
   },
   {
     "id": 60,
     "titulo": "Sleepless Nights",
     "duracion": "3:00",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/sleeplessnights/800/800",
     "letra": "Sleepless nights and restless dreams\nThe trance pulls me apart at the seams\nSleepless nights the music fills the air\nLost in frequencies beyond compare\nLet me drift into your trance tonight",
-    "nombreAutor": "Martin Garrix",
-    "fotoCancion": "https://picsum.photos/seed/sleeplessnights/800/800"
+    "fechaLanzamiento": "2025-06-05",
+    "artista": {
+      "id": 7,
+      "nombre": "Martin Garrix",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MartinGarrix.jpg",
+      "paisOrigen": "Países Bajos",
+      "biografia": "Martijn Gerard Garritsen, mejor conocido como Martin Garrix, es uno de los DJs más jóvenes en alcanzar la cima del mundo EDM. Su tema 'Animals', lanzado cuando tenía apenas 17 años, lo catapultó a la fama mundial y lo consolidó como referente del progressive house.",
+      "fechaNacimiento": "1996-05-14"
+    },
+    "albumes": [
+      {
+        "id": 9,
+        "titulo": "Origo",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMartin(Origo).jpg",
+        "fechaLanzamiento": "2025-10-24"
+      }
+    ]
   },
   {
     "id": 61,
     "titulo": "Voodoo",
     "duracion": "2:49",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/voodoogarrix/800/800",
     "letra": "Voodoo, you cast a spell on me\nElectronic magic, setting spirits free\nVoodoo, the bassline is the curse\nEvery beat gets better or gets worse\nVoodoo, I'm under your control",
-    "nombreAutor": "Martin Garrix",
-    "fotoCancion": "https://picsum.photos/seed/voodoogarrix/800/800"
+    "fechaLanzamiento": "2025-10-24",
+    "artista": {
+      "id": 7,
+      "nombre": "Martin Garrix",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/MartinGarrix.jpg",
+      "paisOrigen": "Países Bajos",
+      "biografia": "Martijn Gerard Garritsen, mejor conocido como Martin Garrix, es uno de los DJs más jóvenes en alcanzar la cima del mundo EDM. Su tema 'Animals', lanzado cuando tenía apenas 17 años, lo catapultó a la fama mundial y lo consolidó como referente del progressive house.",
+      "fechaNacimiento": "1996-05-14"
+    },
+    "albumes": [
+      {
+        "id": 9,
+        "titulo": "Origo",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumMartin(Origo).jpg",
+        "fechaLanzamiento": "2025-10-24"
+      }
+    ]
   },
   {
     "id": 62,
     "titulo": "Recess",
     "duracion": "3:57",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/recessskrillex/800/800",
     "letra": "Recess, time to let the bass drop\nEverybody on the floor, don't stop\nRecess is when the dubstep hits\nThe woofer shakes, the crowd loses its wits\nLet the bass take over, just let go",
-    "nombreAutor": "Skrillex",
-    "fotoCancion": "https://picsum.photos/seed/recessskrillex/800/800"
+    "fechaLanzamiento": "2014-03-18",
+    "artista": {
+      "id": 8,
+      "nombre": "Skrillex",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Skrillex.jpg",
+      "paisOrigen": "Estados Unidos",
+      "biografia": "Sonny John Moore, conocido como Skrillex, es el pionero del dubstep moderno. Nacido en Los Ángeles, California, revolucionó la música electrónica con sonidos agresivos y distorsionados. Ha ganado múltiples premios Grammy y colaborado con artistas de talla mundial.",
+      "fechaNacimiento": "1988-01-15"
+    },
+    "albumes": [
+      {
+        "id": 10,
+        "titulo": "Recess",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumSkrillex(Recess).jpg",
+        "fechaLanzamiento": "2014-03-18"
+      }
+    ]
   },
   {
     "id": 63,
     "titulo": "Ragga Bomb",
     "duracion": "4:28",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/raggabomb/800/800",
     "letra": "Ragga bomb dropping from the sky\nDubstep fire burning way up high\nRagga bomb, the rave is going off\nBass so heavy, bass so rough\nRagga bomb, feel the explosion now",
-    "nombreAutor": "Skrillex",
-    "fotoCancion": "https://picsum.photos/seed/raggabomb/800/800"
+    "fechaLanzamiento": "2014-03-18",
+    "artista": {
+      "id": 8,
+      "nombre": "Skrillex",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Skrillex.jpg",
+      "paisOrigen": "Estados Unidos",
+      "biografia": "Sonny John Moore, conocido como Skrillex, es el pionero del dubstep moderno. Nacido en Los Ángeles, California, revolucionó la música electrónica con sonidos agresivos y distorsionados. Ha ganado múltiples premios Grammy y colaborado con artistas de talla mundial.",
+      "fechaNacimiento": "1988-01-15"
+    },
+    "albumes": [
+      {
+        "id": 10,
+        "titulo": "Recess",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumSkrillex(Recess).jpg",
+        "fechaLanzamiento": "2014-03-18"
+      }
+    ]
   },
   {
     "id": 64,
     "titulo": "Coast Is Clear",
     "duracion": "5:12",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/coastisclear/800/800",
     "letra": "The coast is clear, no one watching now\nDrop the mic and show the crowd just how\nThe coast is clear, we moving through the night\nHip hop in the blood, everything's alright\nStay focused, keep moving, coast is clear",
-    "nombreAutor": "Skrillex",
-    "fotoCancion": "https://picsum.photos/seed/coastisclear/800/800"
+    "fechaLanzamiento": "2014-03-18",
+    "artista": {
+      "id": 8,
+      "nombre": "Skrillex",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Skrillex.jpg",
+      "paisOrigen": "Estados Unidos",
+      "biografia": "Sonny John Moore, conocido como Skrillex, es el pionero del dubstep moderno. Nacido en Los Ángeles, California, revolucionó la música electrónica con sonidos agresivos y distorsionados. Ha ganado múltiples premios Grammy y colaborado con artistas de talla mundial.",
+      "fechaNacimiento": "1988-01-15"
+    },
+    "albumes": [
+      {
+        "id": 10,
+        "titulo": "Recess",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumSkrillex(Recess).jpg",
+        "fechaLanzamiento": "2014-03-18"
+      }
+    ]
   },
   {
     "id": 65,
     "titulo": "Stranger",
     "duracion": "4:14",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/strangerskrillx/800/800",
     "letra": "You're a stranger in a familiar place\nElectronic lights illuminate your face\nStranger, do you feel the current too\nSomething about this moment feels brand new\nStrangers becoming something more tonight",
-    "nombreAutor": "Skrillex",
-    "fotoCancion": "https://picsum.photos/seed/strangerskrillx/800/800"
+    "fechaLanzamiento": "2014-01-15",
+    "artista": {
+      "id": 8,
+      "nombre": "Skrillex",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Skrillex.jpg",
+      "paisOrigen": "Estados Unidos",
+      "biografia": "Sonny John Moore, conocido como Skrillex, es el pionero del dubstep moderno. Nacido en Los Ángeles, California, revolucionó la música electrónica con sonidos agresivos y distorsionados. Ha ganado múltiples premios Grammy y colaborado con artistas de talla mundial.",
+      "fechaNacimiento": "1988-01-15"
+    },
+    "albumes": [
+      {
+        "id": 10,
+        "titulo": "Recess",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumSkrillex(Recess).jpg",
+        "fechaLanzamiento": "2014-03-18"
+      }
+    ]
   },
   {
     "id": 66,
     "titulo": "Try It Out",
     "duracion": "4:01",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/tryitout/800/800",
     "letra": "Try it out, step up to the bass\nDubstep warrior, get in your place\nTry it out, the drop is coming hard\nEvery deck a battlefield, every DJ a guard\nTry it out, let the music win",
-    "nombreAutor": "Skrillex",
-    "fotoCancion": "https://picsum.photos/seed/tryitout/800/800"
+    "fechaLanzamiento": "2014-02-10",
+    "artista": {
+      "id": 8,
+      "nombre": "Skrillex",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Skrillex.jpg",
+      "paisOrigen": "Estados Unidos",
+      "biografia": "Sonny John Moore, conocido como Skrillex, es el pionero del dubstep moderno. Nacido en Los Ángeles, California, revolucionó la música electrónica con sonidos agresivos y distorsionados. Ha ganado múltiples premios Grammy y colaborado con artistas de talla mundial.",
+      "fechaNacimiento": "1988-01-15"
+    },
+    "albumes": [
+      {
+        "id": 10,
+        "titulo": "Recess",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumSkrillex(Recess).jpg",
+        "fechaLanzamiento": "2014-03-18"
+      }
+    ]
   },
   {
     "id": 67,
     "titulo": "Fire Away",
     "duracion": "4:47",
+    "genero": "Electrónica",
+    "fotoPortadaUrl": "https://picsum.photos/seed/fireawayskrillex/800/800",
     "letra": "Fire away, say what's on your mind\nIndie hearts leaving doubt behind\nFire away, the melody is clear\nSing it loud so everyone can hear\nFire away, this is our indie anthem",
-    "nombreAutor": "Skrillex",
-    "fotoCancion": "https://picsum.photos/seed/fireawayskrillex/800/800"
+    "fechaLanzamiento": "2014-03-18",
+    "artista": {
+      "id": 8,
+      "nombre": "Skrillex",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Skrillex.jpg",
+      "paisOrigen": "Estados Unidos",
+      "biografia": "Sonny John Moore, conocido como Skrillex, es el pionero del dubstep moderno. Nacido en Los Ángeles, California, revolucionó la música electrónica con sonidos agresivos y distorsionados. Ha ganado múltiples premios Grammy y colaborado con artistas de talla mundial.",
+      "fechaNacimiento": "1988-01-15"
+    },
+    "albumes": [
+      {
+        "id": 10,
+        "titulo": "Recess",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumSkrillex(Recess).jpg",
+        "fechaLanzamiento": "2014-03-18"
+      }
+    ]
   },
   {
     "id": 68,
     "titulo": "Cumbiana",
     "duracion": "3:54",
+    "genero": "Vallenato",
+    "fotoPortadaUrl": "https://picsum.photos/seed/cumbianavives/800/800",
     "letra": "Cumbiana, tierra de mi corazón\nDonde nació el vallenato y su canción\nCumbiana, con tu acordeón y tu caja\nNadie en el mundo tu sabor trabaja\nCumbiana, Colombia vive en ti",
-    "nombreAutor": "Carlos Vives",
-    "fotoCancion": "https://picsum.photos/seed/cumbianavives/800/800"
+    "fechaLanzamiento": "2020-10-15",
+    "artista": {
+      "id": 10,
+      "nombre": "Carlos Vives",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CarlosVives.jpg",
+      "paisOrigen": "Colombia",
+      "biografia": "Carlos Alberto Vives Restrepo es el artista que modernizó el vallenato y lo llevó al mundo entero. Nacido en Santa Marta, Colombia, fusionó el vallenato tradicional con el rock y el pop, ganando múltiples Grammy Latinos y posicionando la música colombiana en el mapa global.",
+      "fechaNacimiento": "1961-08-07"
+    },
+    "albumes": [
+      {
+        "id": 11,
+        "titulo": "Cumbiana",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCarlosVives(Cumbiana).jpg",
+        "fechaLanzamiento": "2020-05-22"
+      }
+    ]
   },
   {
     "id": 69,
     "titulo": "Más Que Todo",
     "duracion": "3:38",
+    "genero": "Vallenato",
+    "fotoPortadaUrl": "https://picsum.photos/seed/masquetodo/800/800",
     "letra": "Te quiero más que todo en este mundo\nMás que el vallenato profundo\nMás que el acordeón que le canta al amor\nTe quiero más que todo, eres mi razón\nMás que la lluvia y el amanecer",
-    "nombreAutor": "Carlos Vives",
-    "fotoCancion": "https://picsum.photos/seed/masquetodo/800/800"
+    "fechaLanzamiento": "2020-05-22",
+    "artista": {
+      "id": 10,
+      "nombre": "Carlos Vives",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CarlosVives.jpg",
+      "paisOrigen": "Colombia",
+      "biografia": "Carlos Alberto Vives Restrepo es el artista que modernizó el vallenato y lo llevó al mundo entero. Nacido en Santa Marta, Colombia, fusionó el vallenato tradicional con el rock y el pop, ganando múltiples Grammy Latinos y posicionando la música colombiana en el mapa global.",
+      "fechaNacimiento": "1961-08-07"
+    },
+    "albumes": [
+      {
+        "id": 11,
+        "titulo": "Cumbiana",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCarlosVives(Cumbiana).jpg",
+        "fechaLanzamiento": "2020-05-22"
+      }
+    ]
   },
   {
     "id": 70,
     "titulo": "Canción Bonita",
     "duracion": "4:01",
+    "genero": "Vallenato",
+    "fotoPortadaUrl": "https://picsum.photos/seed/cancionbonita/800/800",
     "letra": "Esta es la canción bonita que te hice\nCon la cumbia y el amor que siempre existe\nCanción bonita para ti, mi amor\nHecha con la cumbia y el mejor sabor\nBonita como tú, sencilla como el mar",
-    "nombreAutor": "Carlos Vives",
-    "fotoCancion": "https://picsum.photos/seed/cancionbonita/800/800"
+    "fechaLanzamiento": "2020-05-22",
+    "artista": {
+      "id": 10,
+      "nombre": "Carlos Vives",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CarlosVives.jpg",
+      "paisOrigen": "Colombia",
+      "biografia": "Carlos Alberto Vives Restrepo es el artista que modernizó el vallenato y lo llevó al mundo entero. Nacido en Santa Marta, Colombia, fusionó el vallenato tradicional con el rock y el pop, ganando múltiples Grammy Latinos y posicionando la música colombiana en el mapa global.",
+      "fechaNacimiento": "1961-08-07"
+    },
+    "albumes": [
+      {
+        "id": 11,
+        "titulo": "Cumbiana",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCarlosVives(Cumbiana).jpg",
+        "fechaLanzamiento": "2020-05-22"
+      }
+    ]
   },
   {
     "id": 71,
     "titulo": "Déjame Entrar",
     "duracion": "3:45",
+    "genero": "Vallenato",
+    "fotoPortadaUrl": "https://picsum.photos/seed/dejameentrar/800/800",
     "letra": "Déjame entrar a tu corazón\nCon este vallenato y mi canción\nAbre la puerta que traigo amor\nDéjame entrar, soy trovador\nMi acordeón te hablará de lo que siento",
-    "nombreAutor": "Carlos Vives",
-    "fotoCancion": "https://picsum.photos/seed/dejameentrar/800/800"
+    "fechaLanzamiento": "2020-05-22",
+    "artista": {
+      "id": 10,
+      "nombre": "Carlos Vives",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CarlosVives.jpg",
+      "paisOrigen": "Colombia",
+      "biografia": "Carlos Alberto Vives Restrepo es el artista que modernizó el vallenato y lo llevó al mundo entero. Nacido en Santa Marta, Colombia, fusionó el vallenato tradicional con el rock y el pop, ganando múltiples Grammy Latinos y posicionando la música colombiana en el mapa global.",
+      "fechaNacimiento": "1961-08-07"
+    },
+    "albumes": [
+      {
+        "id": 11,
+        "titulo": "Cumbiana",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCarlosVives(Cumbiana).jpg",
+        "fechaLanzamiento": "2020-05-22"
+      }
+    ]
   },
   {
     "id": 72,
     "titulo": "La Bicicleta",
     "duracion": "3:32",
+    "genero": "Vallenato",
+    "fotoPortadaUrl": "https://picsum.photos/seed/labicicleta/800/800",
     "letra": "En la bicicleta voy a buscarte\nPor los caminos que nos vieron amarte\nCumbia y bicicleta, ritmo de los dos\nEn la bicicleta, tú y yo somos uno\nPedaleo al ritmo de tu corazón",
-    "nombreAutor": "Carlos Vives",
-    "fotoCancion": "https://picsum.photos/seed/labicicleta/800/800"
+    "fechaLanzamiento": "2020-05-22",
+    "artista": {
+      "id": 10,
+      "nombre": "Carlos Vives",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/CarlosVives.jpg",
+      "paisOrigen": "Colombia",
+      "biografia": "Carlos Alberto Vives Restrepo es el artista que modernizó el vallenato y lo llevó al mundo entero. Nacido en Santa Marta, Colombia, fusionó el vallenato tradicional con el rock y el pop, ganando múltiples Grammy Latinos y posicionando la música colombiana en el mapa global.",
+      "fechaNacimiento": "1961-08-07"
+    },
+    "albumes": [
+      {
+        "id": 11,
+        "titulo": "Cumbiana",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumCarlosVives(Cumbiana).jpg",
+        "fechaLanzamiento": "2020-05-22"
+      }
+    ]
   },
   {
     "id": 73,
     "titulo": "Tambores Y Cantos",
     "duracion": "5:12",
+    "genero": "Folclor",
+    "fotoPortadaUrl": "https://picsum.photos/seed/tamboresycantos/800/800",
     "letra": "Tambores y cantos en la noche ancestral\nVoces que llegan desde el litoral\nLa memoria viva de un pueblo que canta\nTambores y cantos, raíz que levanta\nFolclor colombiano, eterno y leal",
-    "nombreAutor": "Toto La Momposina",
-    "fotoCancion": "https://picsum.photos/seed/tamboresycantos/800/800"
+    "fechaLanzamiento": "1993-09-01",
+    "artista": {
+      "id": 9,
+      "nombre": "Toto La Momposina",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/TotoMomposina.jpg",
+      "paisOrigen": "Colombia",
+      "biografia": "Sonia Bazanta Vides, conocida como Totó la Momposina, es la embajadora del folclor costeño colombiano. Nacida en Talaigua Noche, Bolívar, ha dedicado su vida a preservar y difundir los ritmos afrocolombianos como la cumbia, el porro y el mapalé en escenarios internacionales.",
+      "fechaNacimiento": "1940-08-01"
+    },
+    "albumes": [
+      {
+        "id": 12,
+        "titulo": "Tambores Y Cantos",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumToto(TamboresYCantos).jpg",
+        "fechaLanzamiento": "1993-09-01"
+      }
+    ]
   },
   {
     "id": 74,
     "titulo": "La Verdad",
     "duracion": "4:47",
+    "genero": "Folclor",
+    "fotoPortadaUrl": "https://picsum.photos/seed/laverdadtoto/800/800",
     "letra": "La verdad es que te amo sin remedio\nLa cumbia lo dice sin rodeo\nLa verdad suena a acordeón y a palma\nLa verdad que tengo grabada en el alma\nCumbia sincera que no miente jamás",
-    "nombreAutor": "Toto La Momposina",
-    "fotoCancion": "https://picsum.photos/seed/laverdadtoto/800/800"
+    "fechaLanzamiento": "1993-09-01",
+    "artista": {
+      "id": 9,
+      "nombre": "Toto La Momposina",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/TotoMomposina.jpg",
+      "paisOrigen": "Colombia",
+      "biografia": "Sonia Bazanta Vides, conocida como Totó la Momposina, es la embajadora del folclor costeño colombiano. Nacida en Talaigua Noche, Bolívar, ha dedicado su vida a preservar y difundir los ritmos afrocolombianos como la cumbia, el porro y el mapalé en escenarios internacionales.",
+      "fechaNacimiento": "1940-08-01"
+    },
+    "albumes": [
+      {
+        "id": 12,
+        "titulo": "Tambores Y Cantos",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumToto(TamboresYCantos).jpg",
+        "fechaLanzamiento": "1993-09-01"
+      }
+    ]
   },
   {
     "id": 75,
     "titulo": "El Pescador",
     "duracion": "4:28",
+    "genero": "Folclor",
+    "fotoPortadaUrl": "https://picsum.photos/seed/elpescador/800/800",
     "letra": "El pescador madruga antes que el sol\nTiende sus redes con amor y dolor\nEl río le da su sustento y su canción\nEl pescador vive libre en su labor\nFolclor de Colombia en cada amanecer",
-    "nombreAutor": "Toto La Momposina",
-    "fotoCancion": "https://picsum.photos/seed/elpescador/800/800"
+    "fechaLanzamiento": "1993-09-01",
+    "artista": {
+      "id": 9,
+      "nombre": "Toto La Momposina",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/TotoMomposina.jpg",
+      "paisOrigen": "Colombia",
+      "biografia": "Sonia Bazanta Vides, conocida como Totó la Momposina, es la embajadora del folclor costeño colombiano. Nacida en Talaigua Noche, Bolívar, ha dedicado su vida a preservar y difundir los ritmos afrocolombianos como la cumbia, el porro y el mapalé en escenarios internacionales.",
+      "fechaNacimiento": "1940-08-01"
+    },
+    "albumes": [
+      {
+        "id": 12,
+        "titulo": "Tambores Y Cantos",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumToto(TamboresYCantos).jpg",
+        "fechaLanzamiento": "1993-09-01"
+      }
+    ]
   },
   {
     "id": 76,
     "titulo": "La Llorona Loca",
     "duracion": "4:14",
+    "genero": "Folclor",
+    "fotoPortadaUrl": "https://picsum.photos/seed/laloronaloca/800/800",
     "letra": "La llorona loca recorre el camino\nLlorando su amor y su triste destino\nLa cumbia la lleva de pueblo en pueblo\nLa llorona loca, su historia es el pueblo\nQue llora y que canta sin parar jamás",
-    "nombreAutor": "Toto La Momposina",
-    "fotoCancion": "https://picsum.photos/seed/laloronaloca/800/800"
+    "fechaLanzamiento": "1993-09-01",
+    "artista": {
+      "id": 9,
+      "nombre": "Toto La Momposina",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/TotoMomposina.jpg",
+      "paisOrigen": "Colombia",
+      "biografia": "Sonia Bazanta Vides, conocida como Totó la Momposina, es la embajadora del folclor costeño colombiano. Nacida en Talaigua Noche, Bolívar, ha dedicado su vida a preservar y difundir los ritmos afrocolombianos como la cumbia, el porro y el mapalé en escenarios internacionales.",
+      "fechaNacimiento": "1940-08-01"
+    },
+    "albumes": [
+      {
+        "id": 12,
+        "titulo": "Tambores Y Cantos",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumToto(TamboresYCantos).jpg",
+        "fechaLanzamiento": "1993-09-01"
+      }
+    ]
   },
   {
     "id": 77,
     "titulo": "Gaita de las Flores",
     "duracion": "4:58",
+    "genero": "Folclor",
+    "fotoPortadaUrl": "https://picsum.photos/seed/gaitadelasflores/800/800",
     "letra": "La gaita suena entre flores y palmas\nEl viento la lleva, le habla a las almas\nGaita de las flores, canción del Caribe\nMúsica que el tiempo no logra que olvide\nFolclor que florece en cada corazón",
-    "nombreAutor": "Toto La Momposina",
-    "fotoCancion": "https://picsum.photos/seed/gaitadelasflores/800/800"
+    "fechaLanzamiento": "1993-09-01",
+    "artista": {
+      "id": 9,
+      "nombre": "Toto La Momposina",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/TotoMomposina.jpg",
+      "paisOrigen": "Colombia",
+      "biografia": "Sonia Bazanta Vides, conocida como Totó la Momposina, es la embajadora del folclor costeño colombiano. Nacida en Talaigua Noche, Bolívar, ha dedicado su vida a preservar y difundir los ritmos afrocolombianos como la cumbia, el porro y el mapalé en escenarios internacionales.",
+      "fechaNacimiento": "1940-08-01"
+    },
+    "albumes": [
+      {
+        "id": 12,
+        "titulo": "Tambores Y Cantos",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumToto(TamboresYCantos).jpg",
+        "fechaLanzamiento": "1993-09-01"
+      }
+    ]
   },
   {
     "id": 78,
     "titulo": "Son de Negros",
     "duracion": "4:01",
+    "genero": "Folclor",
+    "fotoPortadaUrl": "https://picsum.photos/seed/sonnegros/800/800",
     "letra": "El son de negros viene del Congo real\nAfricana herencia que nunca va a parar\nTambor y marimba, voz ancestral\nEl son de negros es folclor universal\nColombia baila con su raíz más fiel",
-    "nombreAutor": "Toto La Momposina",
-    "fotoCancion": "https://picsum.photos/seed/sonnegros/800/800"
+    "fechaLanzamiento": "1993-09-01",
+    "artista": {
+      "id": 9,
+      "nombre": "Toto La Momposina",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/TotoMomposina.jpg",
+      "paisOrigen": "Colombia",
+      "biografia": "Sonia Bazanta Vides, conocida como Totó la Momposina, es la embajadora del folclor costeño colombiano. Nacida en Talaigua Noche, Bolívar, ha dedicado su vida a preservar y difundir los ritmos afrocolombianos como la cumbia, el porro y el mapalé en escenarios internacionales.",
+      "fechaNacimiento": "1940-08-01"
+    },
+    "albumes": [
+      {
+        "id": 12,
+        "titulo": "Tambores Y Cantos",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumToto(TamboresYCantos).jpg",
+        "fechaLanzamiento": "1993-09-01"
+      }
+    ]
   },
   {
     "id": 79,
     "titulo": "Las 3 Guaracheras",
     "duracion": "3:38",
+    "genero": "Merengue",
+    "fotoPortadaUrl": "https://picsum.photos/seed/tresguaracheras/800/800",
     "letra": "Tres guaracheras se juntaron a cantar\nY el barrio entero salió a bailar\nUna, dos, tres, la guaracha va\nLas tres guaracheras no paran de gozar\nJuntas son un huracán de ritmo y sal",
-    "nombreAutor": "Datty",
-    "fotoCancion": "https://picsum.photos/seed/tresguaracheras/800/800"
+    "fechaLanzamiento": "2020-06-15",
+    "artista": {
+      "id": 11,
+      "nombre": "Datty",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg",
+      "paisOrigen": "República Dominicana",
+      "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica.",
+      "fechaNacimiento": "1985-03-22"
+    },
+    "albumes": [
+      {
+        "id": 2,
+        "titulo": "La Reina Del Merengue",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
+        "fechaLanzamiento": "2020-06-15"
+      }
+    ]
   },
   {
     "id": 80,
     "titulo": "La Noche es Nuestra",
     "duracion": "3:23",
+    "genero": "Merengue",
+    "fotoPortadaUrl": "https://picsum.photos/seed/nocheesnuestra/800/800",
     "letra": "La noche es nuestra, no hay quien la quite\nEl merengue suena y nadie lo evite\nLa noche es nuestra, la pista es nuestra también\nBailemos juntos, que todo está bien\nLa noche nos pertenece a ti y a mí",
-    "nombreAutor": "Datty",
-    "fotoCancion": "https://picsum.photos/seed/nocheesnuestra/800/800"
+    "fechaLanzamiento": "2020-06-10",
+    "artista": {
+      "id": 11,
+      "nombre": "Datty",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg",
+      "paisOrigen": "República Dominicana",
+      "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica.",
+      "fechaNacimiento": "1985-03-22"
+    },
+    "albumes": [
+      {
+        "id": 2,
+        "titulo": "La Reina Del Merengue",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
+        "fechaLanzamiento": "2020-06-15"
+      }
+    ]
   },
   {
     "id": 81,
     "titulo": "Ritmo Caliente",
     "duracion": "3:45",
+    "genero": "Merengue",
+    "fotoPortadaUrl": "https://picsum.photos/seed/ritmocaliente/800/800",
     "letra": "Ritmo caliente que quema la pista\nSalsa que sube, que todo conquista\nRitmo caliente, el cuerpo sudando\nRitmo caliente, el alma gozando\nQue no se apague este fuego jamás",
-    "nombreAutor": "Datty",
-    "fotoCancion": "https://picsum.photos/seed/ritmocaliente/800/800"
+    "fechaLanzamiento": "2020-05-15",
+    "artista": {
+      "id": 11,
+      "nombre": "Datty",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Datty.jpg",
+      "paisOrigen": "República Dominicana",
+      "biografia": "Datty es un animado intérprete de merengue nacido en Santo Domingo, República Dominicana. Con un estilo festivo y letras llenas de humor y picardía, se ha convertido en uno de los artistas más queridos de las fiestas populares del Caribe y Latinoamérica.",
+      "fechaNacimiento": "1985-03-22"
+    },
+    "albumes": [
+      {
+        "id": 2,
+        "titulo": "La Reina Del Merengue",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumDatty(LaReinaDelMerengue).jpg",
+        "fechaLanzamiento": "2020-06-15"
+      }
+    ]
   },
   {
     "id": 82,
     "titulo": "Sin Parar",
     "duracion": "3:17",
+    "genero": "Guaracha",
+    "fotoPortadaUrl": "https://picsum.photos/seed/sinparberenice/800/800",
     "letra": "Sin parar, sin parar, la guaracha va\nSin parar, el ritmo no descansará\nToda la noche vamos a gozar\nSin parar, sin parar, sin parar\nHasta que el sol nos venga a despertar",
-    "nombreAutor": "Berenice",
-    "fotoCancion": "https://picsum.photos/seed/sinparberenice/800/800"
+    "fechaLanzamiento": "2019-07-01",
+    "artista": {
+      "id": 12,
+      "nombre": "Berenice",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
+      "fechaNacimiento": "1990-05-14"
+    },
+    "albumes": [
+      {
+        "id": 5,
+        "titulo": "Velocidad Máxima",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
+        "fechaLanzamiento": "2019-08-20"
+      }
+    ]
   },
   {
     "id": 83,
     "titulo": "Fuego en los Pies",
     "duracion": "3:29",
+    "genero": "Guaracha",
+    "fotoPortadaUrl": "https://picsum.photos/seed/fuegoenpiés/800/800",
     "letra": "Fuego en los pies cuando suena la guaracha\nNo hay quien me pare, no hay quien me atrape\nEl barrio me llama, la pista me espera\nFuego en los pies, toda la noche entera\nQue arda el ritmo hasta el amanecer",
-    "nombreAutor": "Berenice",
-    "fotoCancion": "https://picsum.photos/seed/fuegoenpiés/800/800"
+    "fechaLanzamiento": "2019-07-15",
+    "artista": {
+      "id": 12,
+      "nombre": "Berenice",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
+      "fechaNacimiento": "1990-05-14"
+    },
+    "albumes": [
+      {
+        "id": 5,
+        "titulo": "Velocidad Máxima",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
+        "fechaLanzamiento": "2019-08-20"
+      }
+    ]
   },
   {
     "id": 84,
     "titulo": "Sabor de Calle",
     "duracion": "3:52",
+    "genero": "Guaracha",
+    "fotoPortadaUrl": "https://picsum.photos/seed/sabordecalle83/800/800",
     "letra": "Sabor de calle que no se compra ni se vende\nEs el ritmo del pueblo que siempre se enciende\nLa guaracha nació entre el asfalto y el son\nSabor de calle que llega al corazón\nEste sabor no lo cambia nadie jamás",
-    "nombreAutor": "Berenice",
-    "fotoCancion": "https://picsum.photos/seed/sabordecalle83/800/800"
+    "fechaLanzamiento": "2019-08-01",
+    "artista": {
+      "id": 12,
+      "nombre": "Berenice",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
+      "fechaNacimiento": "1990-05-14"
+    },
+    "albumes": [
+      {
+        "id": 5,
+        "titulo": "Velocidad Máxima",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
+        "fechaLanzamiento": "2019-08-20"
+      }
+    ]
   },
   {
     "id": 85,
     "titulo": "Madrugada Guarachera",
     "duracion": "4:03",
+    "genero": "Guaracha",
+    "fotoPortadaUrl": "https://picsum.photos/seed/madrugadaguara/800/800",
     "letra": "A las tres de la mañana sigue el son\nLa madrugada guarachera no tiene fin\nLos que quedan en la pista son los buenos\nMadrugada guarachera, ritmos plenos\nQue el alba nos encuentre todavía bailando",
-    "nombreAutor": "Berenice",
-    "fotoCancion": "https://picsum.photos/seed/madrugadaguara/800/800"
+    "fechaLanzamiento": "2019-08-10",
+    "artista": {
+      "id": 12,
+      "nombre": "Berenice",
+      "fotoArtistaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/Berenice.jpg",
+      "paisOrigen": "Cuba",
+      "biografia": "Berenice es una carismática cantante cubana de guaracha, ritmo picaresco y bailable nacido en Cuba a principios del siglo XX. Con una voz potente y un estilo lleno de gracia y coquetería, ha mantenido viva la tradición de este género en escenarios de toda América Latina.",
+      "fechaNacimiento": "1990-05-14"
+    },
+    "albumes": [
+      {
+        "id": 5,
+        "titulo": "Velocidad Máxima",
+        "fotoPortadaUrl": "https://raw.githubusercontent.com/JoelNino/Artistas-Mock/main/images/AlbumBerenice(VelocidadMaxima).jpg",
+        "fechaLanzamiento": "2019-08-20"
+      }
+    ]
   }
 ]
